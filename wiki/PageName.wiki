@@ -1,0 +1,8 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+Le projet est de rajouter la langue _Française_ sur le projet *SkyFire*
+
+
+= Details =
