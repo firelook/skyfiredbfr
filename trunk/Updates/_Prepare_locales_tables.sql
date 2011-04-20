@@ -3,6 +3,7 @@
 
 
 INSERT IGNORE INTO `locales_gameobject` (`entry`) SELECT `entry` FROM `gameobject_template`;
+INSERT IGNORE INTO `locales_creature` (`entry`) SELECT `entry` FROM `creature_template`;
 
 /*INSERT IGNORE INTO `locales_item` (`entry`) SELECT `entry` FROM `item_template`;
 INSERT IGNORE INTO `locales_creature` (`entry`) SELECT `entry` FROM `creature_template`;
