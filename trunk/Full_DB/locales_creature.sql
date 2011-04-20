@@ -47,6 +47,8 @@ CREATE TABLE IF NOT EXISTS `locales_creature` (
   PRIMARY KEY (`entry`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8;
 
+
+truncate table `locales_creature`;
 --
 -- Contenu de la table `locales_creature`
 --

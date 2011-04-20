@@ -46,7 +46,7 @@ CREATE TABLE IF NOT EXISTS `locales_gameobject` (
   `castbarcaption_loc8` varchar(100) NOT NULL DEFAULT '',
   PRIMARY KEY (`entry`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8;
-
+truncate table `locales_gameobject`;
 --
 -- Contenu de la table `locales_gameobject`
 --
