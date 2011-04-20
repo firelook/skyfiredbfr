@@ -38,7 +38,7 @@ CREATE TABLE IF NOT EXISTS `locales_item_set_names` (
   `name_loc8` varchar(100) NOT NULL DEFAULT '',
   PRIMARY KEY (`entry`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8;
-
+truncate table `locales_item_set_names`;
 --
 -- Contenu de la table `locales_item_set_names`
 --
