@@ -1,5 +1,5 @@
-SET NAMES utf8;                        
-                                       
+/*SET NAMES utf8;                        
+  */                                     
 UPDATE `locales_item_set_names` SET `name_loc2` = 'Etreinte de la vipère' WHERE `entry` =6473 ;
 UPDATE `locales_item_set_names` SET `name_loc2` = 'Smoking du printemps' WHERE `entry` =6833 ;
 UPDATE `locales_item_set_names` SET `name_loc2` = 'Smoking du printemps' WHERE `entry` =6835 ;

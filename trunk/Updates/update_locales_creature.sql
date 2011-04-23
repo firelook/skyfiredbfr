@@ -1,6 +1,5 @@
-SET NAMES utf8;
-
-
+/*SET NAMES utf8;
+*/
 UPDATE `locales_creature` SET `name_loc2` = '[Imp Minion]' WHERE `entry` =2;
 UPDATE `locales_creature` SET `name_loc2` = 'Dévoreur' WHERE `entry` =3;
 UPDATE `locales_creature` SET `name_loc2` = '[Tournament Supervisor]' WHERE `entry` =4;
