@@ -1,5 +1,13 @@
 /*SET NAMES utf8;
 */
+
+UPDATE `locales_gossip_menu_option` SET Text0_1_loc2` ='Salutations $N' where `menu_id` = 	1	;
+UPDATE `locales_gossip_menu_option` SET Text0_1_loc2` ='Hé là, $N. Comment puis-je vous aider?' where `menu_id` = 	2	;
+UPDATE `locales_gossip_menu_option` SET `Text0_0_loc2` ='Salutations $N ',Text0_1_loc2` ='Salutations $N' where `menu_id` = 	68	;
+UPDATE `locales_gossip_menu_option` SET `Text0_0_loc2` ='Hey citoyen! Tu sembles un solide compagon, Nos gardes sont dispersés un peu partout ici, et je pourrais utiliser votre aide ...' where `menu_id` = 	197	;
+UPDATE `locales_gossip_menu_option` SET `Text0_0_loc2` ='Salutations $N ',Text0_1_loc2` ='Salutations $N' where `menu_id` = 	384	;
+
+
 UPDATE `locales_npc_text` SET `Text0_0_loc2` = 'Bienvenue à Hurlevent. La reconstruction fut longue, mais nécessaire. Vous venez pour visiter ou pour affaires ?', `Text0_1_loc2` = 'Bienvenue à Hurlevent. La reconstruction fut longue, mais nécessaire. Vous venez pour visiter ou pour affaires ?' WHERE `entry` = 1206;
 UPDATE `locales_npc_text` SET `Text0_0_loc2` = 'Veuillez excuser Skuerto, $N. Il ne voulait pas être grossier, mais il est très occupé. Attendons qu\'il ait fini ses explorations et travaillons en attendant sur quelque chose de productif, d\'accord ?' WHERE `entry` = 3294;
 UPDATE `locales_npc_text` SET `Text0_0_loc2` = 'C\'est bon d\'en voir d\'autres qui combattent le Fléau à Stratholme, car c\'est là qu\'il est le plus fort.$B$BBonjour, je me nomme Aurius. J\'étais naguère un paladin de la Main d\'argent, mais comme d\'autres dont la foi a vacillé, j\'ai perdu la grâce. Le Fléau m\'a séduit, et m\'a presque transformé en chevalier de la mort !$B$BJ\'ai enfin senti le péril et j\'ai fui jusqu\'à cette chapelle. C\'est un lieu sacré où le premier paladin, Uther le Porteur de Lumière, fut adoubé dans l\'ordre de la Main d\'argent.' WHERE `entry` = 3755;
