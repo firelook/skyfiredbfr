@@ -8,7 +8,7 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Ramenez moi à la vi
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Ramenez moi à la vie' where `menu_id` =0 and id=5 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Montrez moi ma banque' where `menu_id` =0 and id=7 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Comment je forme une guilde' where `menu_id` =0 and id=8 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je veux créer un emblême de guilde' where `menu_id` =0 and id=9 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je veux créer un emblème de guilde' where `menu_id` =0 and id=9 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je veux rejoindre une bataille' where `menu_id` =0 and id=10 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Vente aux enchères!' where `menu_id` =0 and id=11 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je voudrais mettre mon animal à l\'étable' where `menu_id` =0 and id=12 ;
@@ -74,41 +74,41 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je tiens à parcouri
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je tiens à parcourir vos marchandises, Daelo.' where `menu_id` = 7383 and id= 1 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je tiens à parcourir vos marchandises, Cookie.' where `menu_id` = 7388 and id= 1 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je tiens à parcourir vos marchandises, Calypso.' where `menu_id` = 7389 and id= 1 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez moi parcourir vos biens' where `menu_id` = 7855 and id= 1 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Vendez-vous de ce genre de choses?' where `menu_id` = 9010 and id= 1 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez moi parcourir vos biens' where `menu_id` = 9218 and id= 1 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez-moi parcourir vos biens' where `menu_id` = 7855 and id= 1 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Vendez-vous ce genre de choses?' where `menu_id` = 9010 and id= 1 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez-moi parcourir vos biens' where `menu_id` = 9218 and id= 1 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Montrez-moi ce que vous avez à vendre, trappeur.' where `menu_id` = 9484 and id= 1 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je veux parcourir vos biens' where `menu_id` = 9833 and id= 1 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez moi parcourir vos biens' where `menu_id` = 9879 and id= 1 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez moi parcourir vos biens' where `menu_id` = 10350 and id= 1 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez moi parcourir vos biens' where `menu_id` = 10351 and id= 1 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez-moi parcourir vos biens' where `menu_id` = 9879 and id= 1 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez-moi parcourir vos biens' where `menu_id` = 10350 and id= 1 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez-moi parcourir vos biens' where `menu_id` = 10351 and id= 1 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je veux parcourir vos biens' where `menu_id` = 10354 and id= 1 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez moi parcourir vos biens' where `menu_id` = 10359 and id= 1 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez moi parcourir vos biens' where `menu_id` = 10360 and id= 1 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez moi parcourir vos biens' where `menu_id` = 10361 and id= 1 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez moi parcourir vos biens' where `menu_id` = 10362 and id= 1 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez moi parcourir vos biens' where `menu_id` = 10364 and id= 1 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez moi parcourir vos biens' where `menu_id` = 10365 and id= 1 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez-moi parcourir vos biens' where `menu_id` = 10359 and id= 1 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez-moi parcourir vos biens' where `menu_id` = 10360 and id= 1 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez-moi parcourir vos biens' where `menu_id` = 10361 and id= 1 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez-moi parcourir vos biens' where `menu_id` = 10362 and id= 1 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez-moi parcourir vos biens' where `menu_id` = 10364 and id= 1 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez-moi parcourir vos biens' where `menu_id` = 10365 and id= 1 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je veux parcourir vos biens' where `menu_id` = 10417 and id= 1 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez moi parcourir vos biens' where `menu_id` = 10667 and id= 1 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez moi parcourir vos biens' where `menu_id` = 10723 and id= 1 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez-moi parcourir vos biens' where `menu_id` = 10667 and id= 1 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez-moi parcourir vos biens' where `menu_id` = 10723 and id= 1 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je veux parcourir vos biens' where `menu_id` = 21195 and id= 1 ;
 
 
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez moi parcourir vos biens' where `menu_id` = 1296 and id= 2 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez-moi parcourir vos biens' where `menu_id` = 1296 and id= 2 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Gubber, Je n\'ai pas de canne à pêche' where `menu_id` = 2562 and id= 2 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je veux parcourir vos biens' where `menu_id` = 6620 and id= 2 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez moi parcourir vos biens' where `menu_id` = 8646 and id= 2 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez-moi parcourir vos biens' where `menu_id` = 8646 and id= 2 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Qu\'avez-vous à Manger, Celeste?' where `menu_id` = 8833 and id= 2 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez moi parcourir vos biens' where `menu_id` = 9113 and id= 2 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez moi parcourir vos biens' where `menu_id` = 9245 and id= 2 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez-moi parcourir vos biens' where `menu_id` = 9113 and id= 2 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez-moi parcourir vos biens' where `menu_id` = 9245 and id= 2 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je veux parcourir vos biens, Illusia' where `menu_id` = 9498 and id= 2 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez moi parcourir vos biens' where `menu_id` = 9628 and id= 2 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez moi parcourir vos biens' where `menu_id` = 9733 and id= 2 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez moi parcourir vos biens' where `menu_id` = 9763 and id= 2 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez moi parcourir vos biens' where `menu_id` = 9868 and id= 2 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez moi parcourir vos biens' where `menu_id` = 10139 and id= 2 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez moi parcourir vos biens' where `menu_id` = 10201 and id= 2 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez-moi parcourir vos biens' where `menu_id` = 9628 and id= 2 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez-moi parcourir vos biens' where `menu_id` = 9733 and id= 2 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez-moi parcourir vos biens' where `menu_id` = 9763 and id= 2 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez-moi parcourir vos biens' where `menu_id` = 9868 and id= 2 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez-moi parcourir vos biens' where `menu_id` = 10139 and id= 2 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez-moi parcourir vos biens' where `menu_id` = 10201 and id= 2 ;
 
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je veux parcourir vos biens' where `menu_id` = 342 and id= 3 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je veux parcourir vos biens' where `menu_id` = 344 and id= 3 ;
@@ -124,9 +124,9 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je veux parcourir v
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je veux parcourir vos biens' where `menu_id` = 9478 and id= 3 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je veux parcourir vos biens' where `menu_id` = 9866 and id= 3 ;
 
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez moi parcourir vos biens' where `menu_id` = 441 and id= 4 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez-moi parcourir vos biens' where `menu_id` = 441 and id= 4 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je veux parcourir vos biens' where `menu_id` = 1290 and id= 4 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez moi parcourir vos biens' where `menu_id` = 7468 and id= 4 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez-moi parcourir vos biens' where `menu_id` = 7468 and id= 4 ;
 
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je veux parcourir vos biens' where `menu_id` = 0 and id= 13 ;
 
@@ -150,7 +150,7 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je suis ici pour m\
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Entrainez moi' where `menu_id` = 10118 and id= 0 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je voudrais m\'entrainer' where `menu_id` = 8731 and id= 0 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Entrainez moi' where `menu_id` = 7691 and id= 0 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je voudrais un entrainement come forgeron' where `menu_id` = 7494 and id= 0 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je voudrais un entrainement comme forgeron' where `menu_id` = 7494 and id= 0 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Entrainez moi' where `menu_id` = 4132 and id= 0 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je voudrais un entrainement de Démoniste' where `menu_id` = 2383 and id= 0 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je me soumets à une formation complémentaire de mon maître.' where `menu_id` = 4609 and id= 0 ;
@@ -160,11 +160,11 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je suis ici pour m\
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Entrainez moi' where `menu_id` = 10350 and id= 0 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je voudrais apprendre plus' where `menu_id` = 8785 and id= 0 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je voudrais un entrainement sur des armes' where `menu_id` = 8591 and id= 0 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je voudrais un entrainement come forgeron' where `menu_id` = 7389 and id= 0 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je voudrais un entrainement comme forgeron' where `menu_id` = 7389 and id= 0 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je voudrais un entrainement d\'alchimiste, Daedal' where `menu_id` = 7384 and id= 0 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je voudrais un entrainement come Cuisinier, Cookie,' where `menu_id` = 7388 and id= 0 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='S\'il vous plaît apprendsmoi  à pêcher, Diktynna' where `menu_id` = 7361 and id= 0 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je voudrais un entrainement come Ingénieur, Daelo' where `menu_id` = 7383 and id= 0 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je voudrais un entrainement comme Cuisinier, Cookie,' where `menu_id` = 7388 and id= 0 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='S\'il vous plaît apprends moi  à pêcher, Diktynna' where `menu_id` = 7361 and id= 0 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je voudrais un entrainement comme Ingénieur, Daelo' where `menu_id` = 7383 and id= 0 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je voudrais apprendre tout ce que vous savez sur les premiers soins, Fateema., Daelo' where `menu_id` = 7380 and id= 0 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Entrainez moi' where `menu_id` = 5856 and id= 0 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Entrainez moi' where `menu_id` = 9833 and id= 0 ;
@@ -206,7 +206,7 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Entrainez moi' wher
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Entrainez moi' where `menu_id` = 10364 and id= 0 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Entrainez moi' where `menu_id` = 10365 and id= 0 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Entrainez moi' where `menu_id` = 10615 and id= 0 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je tiens à mr former davantage dans les voies de la Lumière.' where `menu_id` = 4664 and id= 0 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je tiens à me former davantage dans les voies de la Lumière.' where `menu_id` = 4664 and id= 0 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Entrainez moi' where `menu_id` = 4172 and id= 0 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Comment pouvez-vous voler dans le climat froid?' where `menu_id` = 10210 and id= 0 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je suis ici pour m\'entrainer' where `menu_id` = 8802 and id= 0 ;
@@ -216,7 +216,7 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je demande un entra
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je cherche une formation pour monter à cheval.' where `menu_id` = 10723 and id= 0 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='SVP Enseignez moi,' where `menu_id` = 9777 and id= 0 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je suis ici pour un entrainement de Magicien' where `menu_id` = 9990 and id= 0 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je tiens à mr former davantage dans les voies de la Lumière.' where `menu_id` = 7260 and id= 0 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je tiens à me former davantage dans les voies de la Lumière.' where `menu_id` = 7260 and id= 0 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je demande un entrainement de Nécromancien' where `menu_id` = 6628 and id= 0 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je suis ici pour un entrainement de Guerrier' where `menu_id` = 523 and id= 0 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je cherche une formation dans les voies du Chasseur.' where `menu_id` = 4647 and id= 0 ;
@@ -291,31 +291,31 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Arme de pugilat' wh
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Armes à feu' where `menu_id` = 5270  and id= 3 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Masse' where `menu_id` = 5270  and id= 4 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Lancées' where `menu_id` = 5270  and id= 5 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Quels autres types d\'armes pouvez vous m\'enseigner' where `menu_id` = 5271  and id= 1 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Quels autres types d\'armes Pouvez-vous m\'enseigner' where `menu_id` = 5271  and id= 1 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Hache' where `menu_id` = 5272  and id= 0 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Arbalète' where `menu_id` = 5272  and id= 1 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Armes à feu' where `menu_id` = 5272  and id= 2 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Masse' where `menu_id` = 5272  and id= 3 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Arme d\'hast' where `menu_id` = 5272  and id= 4 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Épée' where `menu_id` = 5272  and id= 5 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Quels autres types d\'armes pouvez vous m\'enseigner' where `menu_id` = 5273  and id= 1 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Quels autres types d\'armes Pouvez-vous m\'enseigner' where `menu_id` = 5273  and id= 1 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Arc' where `menu_id` = 5274  and id= 0 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Arbalète' where `menu_id` = 5274  and id= 1 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Dagues' where `menu_id` = 5274  and id= 2 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Personnel' where `menu_id` = 5274  and id= 3 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Baton' where `menu_id` = 5274  and id= 4 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Bâton'where `menu_id` = 5274  and id= 4 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Épée' where `menu_id` = 5274  and id= 5 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Lancées' where `menu_id` = 5274  and id= 6 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Quels autres types d\'armes pouvez vous m\'enseigner' where `menu_id` = 5275  and id= 1 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Quels autres types d\'armes Pouvez-vous m\'enseigner' where `menu_id` = 5275  and id= 1 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Hache' where `menu_id` = 5276  and id= 0 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Arc' where `menu_id` = 5276  and id= 1 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Arme de pugilat' where `menu_id` = 5276  and id= 2 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Armes à feu' where `menu_id` = 5276  and id= 3 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Masse' where `menu_id` = 5276  and id= 4 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Arme d\'hast' where `menu_id` = 5276  and id= 5 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Baton' where `menu_id` = 5276  and id= 6 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Bâton'where `menu_id` = 5276  and id= 6 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Épée' where `menu_id` = 5276  and id= 7 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Quels autres types d\'armes pouvez vous m\'enseigner' where `menu_id` = 5277  and id= 1 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Quels autres types d\'armes Pouvez-vous m\'enseigner' where `menu_id` = 5277  and id= 1 ;
 
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Druide' where `menu_id` =  740  and id= 0 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Chasseur' where `menu_id` =  740  and id= 1 ;
@@ -326,7 +326,7 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Guerrier' where `me
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Alchimiste' where `menu_id` =  751  and id= 0 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Forgeron' where `menu_id` =  751  and id= 1 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Cuisinier' where `menu_id` =  751  and id= 2 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Enhantement' where `menu_id` =  751  and id= 3 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Enchantement' where `menu_id` =  751  and id= 3 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Premier Soin' where `menu_id` =  751  and id= 4 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Pêche' where `menu_id` =  751  and id= 5 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Herbaliste' where `menu_id` =  751  and id= 6 ;
@@ -455,12 +455,12 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Maître d\'écurie' w
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Maître d\'écurie' where `menu_id` =  10769  and id= 9 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je voudrais mettre mon animal à l\'étable' where `menu_id` =  21194  and id= 0 ;
 
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Rammenez moi à la vie' where `menu_id` =  0  and id= 4 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Rammenez moi à la vie' where `menu_id` =  0  and id= 5 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Rammenez moi à la vie.' where `menu_id` =  83  and id= 0 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Ramenez moi à la vie' where `menu_id` =  0  and id= 4 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Ramenez moi à la vie' where `menu_id` =  0  and id= 5 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Ramenez moi à la vie.' where `menu_id` =  83  and id= 0 ;
 
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Pouvez vous m\indiquez la direction' where `menu_id` =  590  and id= 0 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Pouvez vous m\indiquez la direction' where `menu_id` =  592  and id= 0 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Pouvez-vous m\indiquez la direction' where `menu_id` =  590  and id= 0 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Pouvez-vous m\indiquez la direction' where `menu_id` =  592  and id= 0 ;
 
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Magicien' where `menu_id` =  401  and id= 2 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Magicien' where `menu_id` =  740  and id= 2 ;
@@ -477,7 +477,7 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Magicien' where `me
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Magicien' where `menu_id` =  8137  and id= 2 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Magicien' where `menu_id` =  8196  and id= 2 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Que savez-vous sur les portes magiques au Plateau du Puits de soleil d\'être abattu?' where `menu_id` =  9046  and id= 7 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je suis intéréssé par un entrainement en Magie' where `menu_id` =  9990  and id= 0 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je suis intéressé par un entrainement en Magie' where `menu_id` =  9990  and id= 0 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Réactifs et produits magiques' where `menu_id` =  10173  and id= 9 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Coq Magique' where `menu_id` =  10533  and id= 2 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Magicien' where `menu_id` =  10768  and id= 0 ;
@@ -502,13 +502,13 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Maître de Guilde' w
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Maître de Guilde' where `menu_id` =  3533  and id= 2 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Le maître de la Guilde' where `menu_id` =  3580  and id= 2 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Comment je créé une guilde ?' where `menu_id` =  5108  and id= 0 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Comment je créé un emblême de guilde ?' where `menu_id` =  5108  and id= 1 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Comment je créé un emblême de guilde ?' where `menu_id` =  5461  and id= 0 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Comment je créé un emblème de guilde ?' where `menu_id` =  5108  and id= 1 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Comment je créé un emblème de guilde ?' where `menu_id` =  5461  and id= 0 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Comment je créé une guilde ?' where `menu_id` =  5461  and id= 1 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Comment je créé une guilde ?' where `menu_id` =  7440  and id= 0 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Comment je créé un emblême de guilde ?' where `menu_id` =  7440  and id= 1 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Comment je créé un emblème de guilde ?' where `menu_id` =  7440  and id= 1 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Comment je créé une guilde ?' where `menu_id` =  7484  and id= 0 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Comment je créé un emblême de guilde ?' where `menu_id` =  7484  and id= 1 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Comment je créé un emblème de guilde ?' where `menu_id` =  7484  and id= 1 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Maître de Guilde' where `menu_id` =  7633  and id= 3 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Maître de Guilde' where `menu_id` =  7777  and id= 3 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Maître de Guilde' where `menu_id` =  8129  and id= 2 ;
@@ -811,9 +811,9 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc2`='Lancées' where `menu
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2`='Lancées' where `menu_id` =  5274  and id= 6 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2`='Lancées' where `menu_id` =  8590  and id= 6 ;
 
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Baton' where `menu_id` =  5274  and id= 4 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Baton' where `menu_id` =  5276  and id= 6 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Baton' where `menu_id` =  8590  and id= 5 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Bâton'where `menu_id` =  5274  and id= 4 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Bâton'where `menu_id` =  5276  and id= 6 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Bâton'where `menu_id` =  8590  and id= 5 ;
 
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je voudrais boire' where `menu_id` =  8784  and id= 0 ;
 
@@ -980,7 +980,7 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je veux parcourir v
 
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` =' Port d\'Hurlevent ' where `menu_id` =  435  and id= 2 ;
 
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` =' L\'Auberge de Lûne d\'Argent' where `menu_id` =  7845  and id= 0 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` =' L\'Auberge de Lune d\'Argent' where `menu_id` =  7845  and id= 0 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` =' L\'Auberge des Clairvoyants' where `menu_id` =  8317  and id= 1 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` =' L\'Auberge des Clairvoyants' where `menu_id` =  8320  and id= 3 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` =' L\'Auberge de  l\'Alliance' where `menu_id` =  10084  and id= 0 ;
@@ -1149,8 +1149,8 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='J\'ai besoin d\'une
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='J\'ai besoin d\'une chevauchée.' where `menu_id` =  5967  and id= 0 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='J\'ai besoin d\'une chevauchée.' where `menu_id` =  6023  and id= 0 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='J\'ai besoin d\'une chevauchée.' where `menu_id` =  6162  and id= 0 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='J\'ai besoin d\'un pack de bombes incendaires.' where `menu_id` =  7769  and id= 0 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='J\'ai besoin de faire un tour à chauve souris pour intecepter les renforts de l\'Alliance.' where `menu_id` =  8894  and id= 1 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='J\'ai besoin d\'un pack de bombes incendiaires.' where `menu_id` =  7769  and id= 0 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='J\'ai besoin de faire un tour à chauve souris pour intercepter les renforts de l\'Alliance.' where `menu_id` =  8894  and id= 1 ;
 
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Comment puis-je vous aider ?' where `menu_id` =  10214  and id= 0 ;
 
@@ -1186,8 +1186,8 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Arme d\'hast' where
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Arme d\'hast' where `menu_id` =  8590  and id= 4 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Pierre de Portail' where `menu_id` =  11343  and id= 1 ;
 
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Emmenez moi jusqu\'au bateau.' where `menu_id` =  10025  and id= 1 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Emmenez moi jusqu\'aux Cavernes du Temps.' where `menu_id` =  10131  and id= 0 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Emmenez-moi jusqu\'au bateau.' where `menu_id` =  10025  and id= 1 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Emmenez-moi jusqu\'aux Cavernes du Temps.' where `menu_id` =  10131  and id= 0 ;
 
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Continuez à lire…' where `menu_id` =  4081  and id= 0 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Continuez à lire…' where `menu_id` =  4082  and id= 0 ;
@@ -1200,15 +1200,15 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Sorties des égouts'
 
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Salon des Officiers' where `menu_id` =  435  and id= 10 ;
 
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez moi regarder vos biens' where `menu_id` =  4305  and id= 0 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez moi regarder vos biens' where `menu_id` =  4324  and id= 0 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez moi regarder vos biens' where `menu_id` =  4325  and id= 0 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez moi regarder vos biens' where `menu_id` =  4341  and id= 0 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez moi regarder vos biens' where `menu_id` =  7243  and id= 0 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez moi regarder vos biens' where `menu_id` =  7713  and id= 0 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez moi regarder vos biens' where `menu_id` =  7900  and id= 0 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez moi regarder vos biens' where `menu_id` =  9453  and id= 0 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez moi regarder vos biens' where `menu_id` =  9832  and id= 0 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez-moi regarder vos biens' where `menu_id` =  4305  and id= 0 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez-moi regarder vos biens' where `menu_id` =  4324  and id= 0 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez-moi regarder vos biens' where `menu_id` =  4325  and id= 0 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez-moi regarder vos biens' where `menu_id` =  4341  and id= 0 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez-moi regarder vos biens' where `menu_id` =  7243  and id= 0 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez-moi regarder vos biens' where `menu_id` =  7713  and id= 0 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez-moi regarder vos biens' where `menu_id` =  7900  and id= 0 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez-moi regarder vos biens' where `menu_id` =  9453  and id= 0 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Laissez-moi regarder vos biens' where `menu_id` =  9832  and id= 0 ;
 
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Continuez à lire, si vous osez…' where `menu_id` =  7984  and id= 0 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Continuez à lire, si vous osez…' where `menu_id` =  7985  and id= 0 ;
@@ -1232,10 +1232,10 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je voudrais aller à
 
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Non!' where `menu_id` =  8060  and id= 1 ;
 
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Puit de Mana' where `menu_id` =  7633  and id= 11 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Puit de Mana' where `menu_id` =  8282  and id= 8 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Puit de Mana' where `menu_id` =  8357  and id= 8 ;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Puit de Mana' where `menu_id` =  8419  and id= 8 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Puits de Mana' where `menu_id` =  7633  and id= 11 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Puits de Mana' where `menu_id` =  8282  and id= 8 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Puits de Mana' where `menu_id` =  8357  and id= 8 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Puits de Mana' where `menu_id` =  8419  and id= 8 ;
 
 
 
