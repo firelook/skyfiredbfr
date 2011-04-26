@@ -1,11 +1,11 @@
 /*SET NAMES utf8;
 */
 
-UPDATE `locales_gossip_menu_option` SET Text0_1_loc2` ='Salutations $N' where `menu_id` = 	1	;
-UPDATE `locales_gossip_menu_option` SET Text0_1_loc2` ='Hé là, $N. Comment puis-je vous aider?' where `menu_id` = 	2	;
-UPDATE `locales_gossip_menu_option` SET `Text0_0_loc2` ='Salutations $N ',Text0_1_loc2` ='Salutations $N' where `menu_id` = 	68	;
-UPDATE `locales_gossip_menu_option` SET `Text0_0_loc2` ='Hey citoyen! Tu sembles un solide compagnon, Nos gardes sont dispersés un peu partout ici, et je pourrais utiliser votre aide ...' where `menu_id` = 	197	;
-UPDATE `locales_gossip_menu_option` SET `Text0_0_loc2` ='Salutations $N ',Text0_1_loc2` ='Salutations $N' where `menu_id` = 	384	;
+UPDATE `locales_npc_text` SET `Text0_1_loc2` ='Salutations $N' where `entry` = 	1	;
+UPDATE `locales_npc_text` SET `Text0_1_loc2` ='Hé là, $N. Comment puis-je vous aider?' where `entry` = 	2	;
+UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Salutations $N',`Text0_1_loc2` ='Salutations $N' where `entry` = 	68	;
+UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Hey citoyen! Tu sembles un solide compagnon, Nos gardes sont dispersés un peu partout ici, et je pourrais utiliser votre aide ...' where `entry` = 	197	;
+UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Salutations $N ',`Text0_1_loc2` ='Salutations $N' where `entry` = 	384	;
 
 
 UPDATE `locales_npc_text` SET `Text0_0_loc2` = 'Bienvenue à Hurlevent. La reconstruction fut longue, mais nécessaire. Vous venez pour visiter ou pour affaires ?', `Text0_1_loc2` = 'Bienvenue à Hurlevent. La reconstruction fut longue, mais nécessaire. Vous venez pour visiter ou pour affaires ?' WHERE `entry` = 1206;
