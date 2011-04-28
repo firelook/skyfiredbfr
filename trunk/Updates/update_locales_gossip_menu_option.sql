@@ -1262,7 +1262,7 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Qu\'avez-vous fait 
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Qu\'est-il arrivé ensuite?' where `menu_id` = 	8012	 and id=	0	;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je voudrais rejoindre la bataille!' where `menu_id` = 	8104	 and id=	0	;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je voudrais rejoindre la bataille!' where `menu_id` = 	8105	 and id=	0	;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Maître des GRiffons' where `menu_id` = 	8129	 and id=	1	;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Maître des Griffons' where `menu_id` = 	8129	 and id=	1	;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Maître de Guerre de la Horde' where `menu_id` = 	8323	 and id=	1	;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Maître de Guerre de la Horde' where `menu_id` = 	8365	 and id=	1	;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je voudrais parcourir vos marchandises' where `menu_id` = 	8387	 and id=	0	;
@@ -1304,7 +1304,7 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Entrée Est des égou
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Entrée Ouest des égouts.' where `menu_id` = 	10105	 and id=	1	;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Entrée Est des égouts.' where `menu_id` = 	10262	 and id=	0	;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Entrée Ouest des égouts.' where `menu_id` = 	10262	 and id=	1	;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Maître des GRiffons' where `menu_id` = 	10265	 and id=	2	;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Maître des Griffons' where `menu_id` = 	10265	 and id=	2	;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Montrez-moi où je peux voler.' where `menu_id` = 	10280	 and id=	0	;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je voudrais aller dans un champ de bataille.' where `menu_id` = 	10605	 and id=	0	;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je voudrais aller dans un champ de bataille.' where `menu_id` = 	10606	 and id=	0	;
