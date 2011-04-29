@@ -9,25 +9,25 @@ UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Salutations $N ',`Text0_1_loc2` =
 
 UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Salutations mage. Dois-je vous fournir d\'autres renseignements sur le monde de la magie?',`Text0_1_loc2` ='Salutations mage. Dois-je vous fournir d\'autres renseignements sur le monde de la magie?'  where `entry` =  538 ;
 UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Salutations. Je suis un Maître magicien, et vous êtes un mage.',`Text0_1_loc2` ='Salutations. Je suis un Maître magicien, et vous êtes un mage.'  where `entry` =  558 ;
-UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Salutations. Je suis un Maître magicien nain, et vous êtes un mage.  ',`Text0_1_loc2` =' Salutations. Je suis un Maître magicien nain, et vous êtes un mage.'  where `entry` =  560 ;
-UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Salutations. Je suis un Maître magicien Mort Vivant, et vous êtes un mage.  ',`Text0_1_loc2` =' Salutations. Je suis un Maître magicien Mort Vivant, et vous êtes un mage.'  where `entry` =  562 ;
-UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Salutations, $c. Êtes-vous ici pour apprendre les arts cachés?  ',`Text0_1_loc2` =' Salutations, $c. Êtes-vous ici pour apprendre les arts cachés?'  where `entry` =  564 ;
+UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Salutations. Je suis un Maître magicien nain, et vous êtes un mage.  ',`Text0_1_loc2` ='Salutations. Je suis un Maître magicien nain, et vous êtes un mage.'  where `entry` =  560 ;
+UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Salutations. Je suis un Maître magicien Mort Vivant, et vous êtes un mage.  ',`Text0_1_loc2` ='Salutations. Je suis un Maître magicien Mort Vivant, et vous êtes un mage.'  where `entry` =  562 ;
+UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Salutations, $c. Êtes-vous ici pour apprendre les arts cachés?  ',`Text0_1_loc2` ='Salutations, $c. Êtes-vous ici pour apprendre les arts cachés?'  where `entry` =  564 ;
 UPDATE `locales_npc_text` SET `Text0_0_loc2` ='J\'espère que vous êtes prêt à travailler.  '   where `entry` =  931 ;
-UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Bienvenue aux courses! Profitez de votre séjour, et ne misez pas tout votre argent dans un seul endroit!  ',`Text0_1_loc2` =' Bienvenue aux courses! Profitez de votre séjour, et ne misez pas tout votre argent dans un seul endroit!'  where `entry` =  932 ;
-UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Qu\' avez-vous besoin comme directions ?  ',`Text0_1_loc2` =' Qu\' avez-vous besoin comme directions ?'  where `entry` =  933 ;
-UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Oui, mon fils $g: fille? Que puis-je faire pour vous aider?  ',`Text0_1_loc2` =' Oui, mon fils $g: fille? Que puis-je faire pour vous aider?'  where `entry` =  1221 ;
+UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Bienvenue aux courses! Profitez de votre séjour, et ne misez pas tout votre argent dans un seul endroit!  ',`Text0_1_loc2` ='Bienvenue aux courses! Profitez de votre séjour, et ne misez pas tout votre argent dans un seul endroit!'  where `entry` =  932 ;
+UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Qu\' avez-vous besoin comme directions ?  ',`Text0_1_loc2` ='Qu\' avez-vous besoin comme directions ?'  where `entry` =  933 ;
+UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Oui, mon fils $g: fille? Que puis-je faire pour vous aider?  ',`Text0_1_loc2` ='Oui, mon fils $g: fille? Que puis-je faire pour vous aider?'  where `entry` =  1221 ;
 UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Salutations $N'   where `entry` =  1228 ;
-UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Bienvenue aux bureaux du registre de la Guilde d\'Hurlevent. Que puis-je faire pour vous aider aujourd\'hui?  ',`Text0_1_loc2` =' Bienvenue aux bureaux du registre de la Guilde d\'Hurlevent. Que puis-je faire pour vous aider aujourd\'hui?'  where `entry` =  1259 ;
-UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Bienvenue aux bureaux du registre de la Guilde d\'Hurlevent. Que puis-je faire pour vous aider aujourd\'hui?  ',`Text0_1_loc2` =' Bienvenue aux bureaux du registre de la Guilde d\'Hurlevent. Que puis-je faire pour vous aider aujourd\'hui?'  where `entry` =  1260 ;
-UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Que recherchez-vous?  ',`Text0_1_loc2` =' Que recherchez-vous?'  where `entry` =  1272 ;
-UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Quel entraîneur recherchez-vous?  ',`Text0_1_loc2` =' Quel entraîneur recherchez-vous?'  where `entry` =  1300 ;
-UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Quelle Profession ?  ',`Text0_1_loc2` =' Quelle Profession ?'  where `entry` =  1301 ;
+UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Bienvenue aux bureaux du registre de la Guilde d\'Hurlevent. Que puis-je faire pour vous aider aujourd\'hui?  ',`Text0_1_loc2` ='Bienvenue aux bureaux du registre de la Guilde d\'Hurlevent. Que puis-je faire pour vous aider aujourd\'hui?'  where `entry` =  1259 ;
+UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Bienvenue aux bureaux du registre de la Guilde d\'Hurlevent. Que puis-je faire pour vous aider aujourd\'hui?  ',`Text0_1_loc2` ='Bienvenue aux bureaux du registre de la Guilde d\'Hurlevent. Que puis-je faire pour vous aider aujourd\'hui?'  where `entry` =  1260 ;
+UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Que recherchez-vous?  ',`Text0_1_loc2` ='Que recherchez-vous?'  where `entry` =  1272 ;
+UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Quel entraîneur recherchez-vous?  ',`Text0_1_loc2` ='Quel entraîneur recherchez-vous?'  where `entry` =  1300 ;
+UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Quelle Profession ?  ',`Text0_1_loc2` ='Quelle Profession ?'  where `entry` =  1301 ;
 UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Salutations $N'   where `entry` =  1569 ;
-UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Bonjour, $N ! Si vous ne le voyez pas dans ma boutique, les chances sont bonnes pour que je puisse l\'obtenir!  '  where `entry` =  1571 ;
+UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Bonjour, $N ! Si vous ne le voyez pas dans ma boutique, les chances sont bonnes pour que je puisse l\'obtenir!'  where `entry` =  1571 ;
 UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Qu\'est-ce que c\'est? Vous ne voyez pas que je suis occupé?'   where `entry` =  1635 ;
 UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Retour pour en apprendre davantage, $N ? Venez ici et me montrer que vous êtes prêt.'  where `entry` =  1637 ;
 UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Salutations, jeune $c.'   where `entry` =  3573 ;
-UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Saluations, et bienvenue. Je ne suis pas très bon pour les sourires, mais croyez moi; Je suis heureux de vous servir.  '  where `entry` =  5455 ;
+UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Saluations, et bienvenue. Je ne suis pas très bon pour les sourires, mais croyez moi; Je suis heureux de vous servir.'  where `entry` =  5455 ;
 UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Salutations, $r.'   where `entry` =  3959 ;
 UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Salutations $N'  where `entry` =  4258 ;
 
@@ -357,29 +357,6 @@ UPDATE `locales_npc_text` SET `Text0_0_loc2` = 'Salutations, $ghéros:héroïne;. J
 UPDATE `locales_npc_text` SET `Text0_0_loc2` = 'Les sacrifices de tous les instants du Verdict des cendres et de héros tels que vous nous rapprochent sans cesse de l\'ultime victoire. Je viens à la citadelle de la Couronne de glace pour porter assistance à ceux qui combattent le Fléau. Ensemble, nous mettrons fin à la tyrannie du roi-liche !' WHERE `entry` = 15602;
 UPDATE `locales_npc_text` SET `Text0_0_loc2` = 'Votre décision est prise. Qu\'elle vous apporte la gloire ou la mort dépend maintenant de vous.' WHERE `entry` = 15605;
 
-UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Salutations mage. Dois-je vous fournir d\'autres renseignements sur le monde de la magie?',`Text0_1_loc2` ='Salutations mage. Dois-je vous fournir d\'autres renseignements sur le monde de la magie?'  where `entry` =  538 ;
-UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Salutations. Je suis un Maître magicien, et vous êtes un mage.',`Text0_1_loc2` ='Salutations. Je suis un Maître magicien, et vous êtes un mage.'  where `entry` =  558 ;
-UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Salutations. Je suis un Maître magicien nain, et vous êtes un mage.  ',`Text0_1_loc2` =' Salutations. Je suis un Maître magicien nain, et vous êtes un mage.'  where `entry` =  560 ;
-UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Salutations. Je suis un Maître magicien Mort Vivant, et vous êtes un mage.  ',`Text0_1_loc2` =' Salutations. Je suis un Maître magicien Mort Vivant, et vous êtes un mage.'  where `entry` =  562 ;
-UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Salutations, $c. Êtes-vous ici pour apprendre les arts cachés?  ',`Text0_1_loc2` =' Salutations, $c. Êtes-vous ici pour apprendre les arts cachés?'  where `entry` =  564 ;
-UPDATE `locales_npc_text` SET `Text0_0_loc2` ='J\'espère que vous êtes prêt à travailler.  '   where `entry` =  931 ;
-UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Bienvenue aux courses! Profitez de votre séjour, et ne misez pas tout votre argent dans un seul endroit!  ',`Text0_1_loc2` =' Bienvenue aux courses! Profitez de votre séjour, et ne misez pas tout votre argent dans un seul endroit!'  where `entry` =  932 ;
-UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Qu\' avez-vous besoin comme directions ?  ',`Text0_1_loc2` =' Qu\' avez-vous besoin comme directions ?'  where `entry` =  933 ;
-UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Oui, mon fils $g: fille? Que puis-je faire pour vous aider?  ',`Text0_1_loc2` =' Oui, mon fils $g: fille? Que puis-je faire pour vous aider?'  where `entry` =  1221 ;
-UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Salutations $N'   where `entry` =  1228 ;
-UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Bienvenue aux bureaux du registre de la Guilde d\'Hurlevent. Que puis-je faire pour vous aider aujourd\'hui?  ',`Text0_1_loc2` =' Bienvenue aux bureaux du registre de la Guilde d\'Hurlevent. Que puis-je faire pour vous aider aujourd\'hui?'  where `entry` =  1259 ;
-UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Bienvenue aux bureaux du registre de la Guilde d\'Hurlevent. Que puis-je faire pour vous aider aujourd\'hui?  ',`Text0_1_loc2` =' Bienvenue aux bureaux du registre de la Guilde d\'Hurlevent. Que puis-je faire pour vous aider aujourd\'hui?'  where `entry` =  1260 ;
-UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Que recherchez-vous?  ',`Text0_1_loc2` =' Que recherchez-vous?'  where `entry` =  1272 ;
-UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Quel entraîneur recherchez-vous?  ',`Text0_1_loc2` =' Quel entraîneur recherchez-vous?'  where `entry` =  1300 ;
-UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Quelle Profession ?  ',`Text0_1_loc2` =' Quelle Profession ?'  where `entry` =  1301 ;
-UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Salutations $N'   where `entry` =  1569 ;
-UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Bonjour, $N ! Si vous ne le voyez pas dans ma boutique, les chances sont bonnes pour que je puisse l\'obtenir!  '  where `entry` =  1571 ;
-UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Qu\'est-ce que c\'est? Vous ne voyez pas que je suis occupé?'   where `entry` =  1635 ;
-UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Retour pour en apprendre davantage, $N ? Venez ici et me montrer que vous êtes prêt.'  where `entry` =  1637 ;
-UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Salutations, jeune $c.'   where `entry` =  3573 ;
-UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Saluations, et bienvenue. Je ne suis pas très bon pour les sourires, mais croyez moi; Je suis heureux de vous servir.  '  where `entry` =  5455 ;
-UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Salutations, $r.'   where `entry` =  3959 ;
-UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Salutations $N'  where `entry` =  4258 ;
 
 
 
