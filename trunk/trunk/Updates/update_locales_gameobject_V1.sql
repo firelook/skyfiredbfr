@@ -3997,7 +3997,7 @@ UPDATE `locales_gameobject` SET `name_loc2` =  'Contrôleur du portail de terre' 
 UPDATE `locales_gameobject` SET `name_loc2` =  'Contrôleur du portail d\'air' WHERE `entry` = 206019 ;
 UPDATE `locales_gameobject` SET `name_loc2` =  'Herbe gelée' WHERE `entry` = 206085 ;
 UPDATE `locales_gameobject` SET `name_loc2` =  'Tableau de commandement du chef de guerre' WHERE `entry` = 206109 ;
-UPDATE `locales_gameobject` SET `name_loc2` =  'Tableau de l appel des héros' WHERE `entry` = 206111 ;
+UPDATE `locales_gameobject` SET `name_loc2` =  'Tableau de l\'appel des héros' WHERE `entry` = 206111 ;
 UPDATE `locales_gameobject` SET `name_loc2` =  'Tableau de commandement du chef de guerre' WHERE `entry` = 206116 ;
 UPDATE `locales_gameobject` SET `name_loc2` =  'Fût de bière marteau-hardi' WHERE `entry` = 206199 ;
 UPDATE `locales_gameobject` SET `name_loc2` =  'Robinet à bière sacré' WHERE `entry` = 206203 ;
@@ -4009,7 +4009,7 @@ UPDATE `locales_gameobject` SET `name_loc2` =  'Réserves de provisions marteaux-
 UPDATE `locales_gameobject` SET `name_loc2` =  'Réserves de provisions marteaux-hardis' WHERE `entry` = 206291 ;
 UPDATE `locales_gameobject` SET `name_loc2` =  'Fût de bière marteau-hardi' WHERE `entry` = 206292 ;
 UPDATE `locales_gameobject` SET `name_loc2` =  'Terminal A.I.D.A.' WHERE `entry` = 206293 ;
-UPDATE `locales_gameobject` SET `name_loc2` =  'Tableau de l appel des héros' WHERE `entry` = 206294 ;
+UPDATE `locales_gameobject` SET `name_loc2` =  'Tableau de l\'appel des héros' WHERE `entry` = 206294 ;
 UPDATE `locales_gameobject` SET `name_loc2` =  'Eclat d\'élémentium' WHERE `entry` = 206295 ;
 UPDATE `locales_gameobject` SET `name_loc2` =  'Eclat d\'élémentium' WHERE `entry` = 206297 ;
 UPDATE `locales_gameobject` SET `name_loc2` =  'Eclat d\'élémentium' WHERE `entry` = 206298 ;
@@ -4153,9 +4153,9 @@ UPDATE `locales_gameobject` SET `name_loc2` =  'Coffre des merveilles' WHERE `en
 UPDATE `locales_gameobject` SET `name_loc2` =  'Urne antique' WHERE `entry` = 207301 ;
 UPDATE `locales_gameobject` SET `name_loc2` =  'Tableau d\'aventure' WHERE `entry` = 207303 ;
 UPDATE `locales_gameobject` SET `name_loc2` =  'Tableau d\'aventure' WHERE `entry` = 207304 ;
-UPDATE `locales_gameobject` SET `name_loc2` =  'Tableau de l appel des héros' WHERE `entry` = 207320 ;
-UPDATE `locales_gameobject` SET `name_loc2` =  'Tableau de l appel des héros' WHERE `entry` = 207321 ;
-UPDATE `locales_gameobject` SET `name_loc2` =  'Tableau de l appel des héros' WHERE `entry` = 207322 ;
+UPDATE `locales_gameobject` SET `name_loc2` =  'Tableau de l\'appel des héros' WHERE `entry` = 207320 ;
+UPDATE `locales_gameobject` SET `name_loc2` =  'Tableau de l\'appel des héros' WHERE `entry` = 207321 ;
+UPDATE `locales_gameobject` SET `name_loc2` =  'Tableau de l\'appel des héros' WHERE `entry` = 207322 ;
 UPDATE `locales_gameobject` SET `name_loc2` =  'Tableau de commandement du chef de guerre' WHERE `entry` = 207323 ;
 UPDATE `locales_gameobject` SET `name_loc2` =  'Tableau de commandement du chef de guerre' WHERE `entry` = 207324 ;
 UPDATE `locales_gameobject` SET `name_loc2` =  'Tableau de commandement du chef de guerre' WHERE `entry` = 207325 ;
@@ -4239,7 +4239,7 @@ UPDATE `locales_gameobject` SET `name_loc2` =  'Cache de Neptulon' WHERE `entry`
 UPDATE `locales_gameobject` SET `name_loc2` =  'Couvercle du cercueil de Liam [INTERNE]' WHERE `entry` = 207999 ;
 UPDATE `locales_gameobject` SET `name_loc2` =  'Téléporteur gobelin' WHERE `entry` = 208002 ;
 UPDATE `locales_gameobject` SET `name_loc2` =  '[Cache of the Broodmother]' WHERE `entry` = 208045 ;
-UPDATE `locales_gameobject` SET `name_loc2` =  'Tableau de l appel des héros' WHERE `entry` = 208316 ;
+UPDATE `locales_gameobject` SET `name_loc2` =  'Tableau de l\'appel des héros' WHERE `entry` = 208316 ;
 UPDATE `locales_gameobject` SET `name_loc2` =  'Tableau de commandement du chef de guerre' WHERE `entry` = 208317 ;
 
 
