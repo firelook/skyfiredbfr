@@ -1,5 +1,7 @@
-/*SET NAMES utf8;
+/*
+SET NAMES utf8;
 */
+
 
 UPDATE `locales_npc_text` SET `Text0_1_loc2` ='Salutations $N' where `entry` =  1 ;
 UPDATE `locales_npc_text` SET `Text0_1_loc2` ='Hé là, $N. Comment puis-je vous aider?' where `entry` =  2 ;
@@ -30,8 +32,6 @@ UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Salutations, jeune $c.'   where `
 UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Saluations, et bienvenue. Je ne suis pas très bon pour les sourires, mais croyez moi; Je suis heureux de vous servir.'  where `entry` =  5455 ;
 UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Salutations, $r.'   where `entry` =  3959 ;
 UPDATE `locales_npc_text` SET `Text0_0_loc2` ='Salutations $N'  where `entry` =  4258 ;
-
-
 
 
 UPDATE `locales_npc_text` SET `Text0_0_loc2` = 'Bienvenue à Hurlevent. La reconstruction fut longue, mais nécessaire. Vous venez pour visiter ou pour affaires ?', `Text0_1_loc2` = 'Bienvenue à Hurlevent. La reconstruction fut longue, mais nécessaire. Vous venez pour visiter ou pour affaires ?' WHERE `entry` = 1206;

@@ -1,5 +1,8 @@
-/*SET NAMES utf8;
+/*
+SET NAMES utf8;
 */
+
+
 UPDATE `locales_gameobject` SET `name_loc2` =  'Filon d\'or' WHERE `entry` = 1734 ;
 UPDATE `locales_gameobject` SET `name_loc2` =  'Filon d\'étain' WHERE `entry` = 1732 ;
 UPDATE `locales_gameobject` SET `name_loc2` =  'Filon d\'argent' WHERE `entry` = 1733 ;
