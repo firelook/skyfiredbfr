@@ -1,0 +1,16 @@
+un exemple de fichier de lancement
+
+%local_mysql% => localalisation de mysql
+%lcl_database%  => votre BD
+
+
+Rem execution du script d'initialisation des tables
+for %%i in (%local_wow%\skyfiredbfr\trunk\Full_DB\*.sql) do echo %%i & "%local_mysql%\mysql.exe" -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %lcl_database% < %%i 
+
+Rem Nice To Have
+for %%i in (%local_wow%\skyfiredbfr\trunk\Nice_To_Have\*.sql) do echo %%i & "%local_mysql%\mysql.exe" -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %lcl_database% < %%i
+
+Rem execution du script pour remplir les tables
+for %%i in (%local_wow%\skyfiredbfr\trunk\Updates\*.sql) do echo %%i & "%local_mysql%\mysql.exe" -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %lcl_database% < %%i
+
+
