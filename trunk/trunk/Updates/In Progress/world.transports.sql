@@ -1,0 +1,21 @@
+﻿UPDATE transports SET guid = 1, entry = 176495, name = 'Campement Grom''Gol et Fossoyeuse ("The Purple Princess")', period = 315026, ScriptName = '' WHERE guid = 1;
+UPDATE transports SET guid = 2, entry = 176310, name = 'Port de Hurlevent et Auberdine ("Ship (The Bravery)")', period = 234510, ScriptName = '' WHERE guid = 2;
+UPDATE transports SET guid = 3, entry = 176244, name = 'Teldrassil et Auberdine ("The Moonspray")', period = 312317, ScriptName = '' WHERE guid = 3;
+UPDATE transports SET guid = 4, entry = 176231, name = 'Port de Menethil et L''ile de Theramore ("The Lady Mehley")', period = 230162, ScriptName = '' WHERE guid = 4;
+UPDATE transports SET guid = 5, entry = 175080, name = 'Campement Grom''Gol et Orgrimmar ("The Iron Eagle")', period = 248990, ScriptName = '' WHERE guid = 5;
+UPDATE transports SET guid = 6, entry = 164871, name = 'Orgrimmar et Fossoyeuse ("The Thundercaller")', period = 239253, ScriptName = '' WHERE guid = 6;
+UPDATE transports SET guid = 7, entry = 20808, name = 'Cabestan et Baie-du-butin ("The Maiden''s Fancy")', period = 231236, ScriptName = '' WHERE guid = 7;
+UPDATE transports SET guid = 8, entry = 177233, name = 'La cote oubliée et l''ile de sardor ("Feathermoon Ferry")', period = 259747, ScriptName = '' WHERE guid = 8;
+UPDATE transports SET guid = 9, entry = 181646, name = 'ile de brume-azur et Auberdine ("Elune''s Blessing")', period = 238707, ScriptName = '' WHERE guid = 9;
+UPDATE transports SET guid = 10, entry = 181688, name = 'Valgarde et Port de Menethil ("Northspear")', period = 445534, ScriptName = '' WHERE guid = 10;
+UPDATE transports SET guid = 11, entry = 181689, name = 'Fossoyeuse et Accostage de la Vengeance ("Zeppelin, Horde (Cloudkisser)")', period = 214579, ScriptName = '' WHERE guid = 11;
+UPDATE transports SET guid = 12, entry = 186238, name = 'Orgrimmar et Bastion Chanteguerre ("Zeppelin, Horde (The Mighty Wind)")', period = 302705, ScriptName = '' WHERE guid = 12;
+UPDATE transports SET guid = 13, entry = 186371, name = 'Zeppelin Voler ("Zeppelin")', period = 484211, ScriptName = '' WHERE guid = 13;
+UPDATE transports SET guid = 14, entry = 187038, name = 'Bateau Pirate ("Sister Mercy")', period = 307953, ScriptName = '' WHERE guid = 14;
+UPDATE transports SET guid = 15, entry = 187568, name = 'Navire Tortue du port Moa''ki ("Turtle (Walker of Waves)")', period = 445220, ScriptName = '' WHERE guid = 15;
+UPDATE transports SET guid = 16, entry = 188511, name = 'Navire Tortue Unu''pe ("Turtle (Green Island)")', period = 502354, ScriptName = '' WHERE guid = 16;
+UPDATE transports SET guid = 17, entry = 190536, name = 'Porte d''Hurlevent et Donjon de la bravoure, Toundra Boreenne ("Le Kraken") ', period = 271979, ScriptName = '' WHERE guid = 17;
+UPDATE transports SET guid = 18, entry = 192241, name = 'Not boardable - Horde gunship patrolling above Icecrown ("Orgrim''s Hammer")', period = 1424158, ScriptName = '' WHERE guid = 18;
+UPDATE transports SET guid = 19, entry = 192242, name = 'Not boardable - Alliance gunship patrolling above Icecrown ("Le Brise-ciel")', period = 1051387, ScriptName = '' WHERE guid = 19;
+UPDATE transports SET guid = 20, entry = 190549, name = 'Orgrimmar et Les Pitons du Tonnerre', period = 566000, ScriptName = '' WHERE guid = 20;
+
