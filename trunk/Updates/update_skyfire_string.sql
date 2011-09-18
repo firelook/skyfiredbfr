@@ -57,22 +57,27 @@ UPDATE skyfire_string SET content_loc2 = 'Nombre d\'objets invalide (%u) pour l\
 UPDATE skyfire_string SET content_loc2 = 'Le courrier ne peut pas contenir plus de %u objets' WHERE entry = 53;
 UPDATE skyfire_string SET content_loc2 = 'Les nouveaux mots de passe ne correspondent pas' WHERE entry = 54;
 UPDATE skyfire_string SET content_loc2 = 'Votre mot de passe ne peut pas depasser 16 caracteres (limite du client). Mot de passe inchangé !' WHERE entry = 55;
+UPDATE skyfire_string SET content_loc2 = 'Message de la journée: %s' WHERE entry = 56;
+
 UPDATE skyfire_string SET content_loc2 = 'Utilisation de la BDD World: %s' WHERE entry = 57;
 UPDATE skyfire_string SET content_loc2 = 'Utilisation de la bibliotheque de scripts: %s' WHERE entry = 58;
 UPDATE skyfire_string SET content_loc2 = 'Utilisation des scripts ÉvennementAI: %s' WHERE entry = 59;
 UPDATE skyfire_string SET content_loc2 = 'Joueurs en ligne: %u (max: %u)' WHERE entry = 60;
 UPDATE skyfire_string SET content_loc2 = 'Jusqu\'a expansion %u permise maintenant.' WHERE entry = 61;
 UPDATE skyfire_string SET content_loc2 = 'Annonce générale:' WHERE entry = 100;
+UPDATE skyfire_string set content_loc2 = 'Carte: %u (%s) Zone: %u (%s) Espace: %u (%s) Phase: %u X: %f Y: %f Z: %f Orientation: %f grid[%u,%u]cell[%u,%u] ID de l''instance: %u  ZoneX: %f ZoneY: %f GroundZ: %f FloorZ: %f données de Hauteur (Carte: %u VMap: %u)' WHERE entry = 101;
+
+
 UPDATE skyfire_string SET content_loc2 = '%s vient tout juste d\'etre teleporte.' WHERE entry = 102;
-UPDATE skyfire_string SET content_loc2 = 'Vous ne pouvez pas teleporter un joueur dans une instance si vous n\'étés pas chef de son groupe.' WHERE entry = 103;
+UPDATE skyfire_string SET content_loc2 = 'Vous ne pouvez pas téléporter un joueur dans une instance si vous n\'étés pas chef de son groupe.' WHERE entry = 103;
 UPDATE skyfire_string SET content_loc2 = 'Vous ne pouvez pas aller dans l\'instance du joueur car vous étés actuellement dans un autre groupe.' WHERE entry = 104;
 UPDATE skyfire_string SET content_loc2 = 'Vous pouvez aller dans l\'instance du joueur sans etre dans son groupe, seulement si vous activez le mode MJ.' WHERE entry = 105;
-UPDATE skyfire_string SET content_loc2 = 'Vous ne pouvez pas vous teleporter vers le joueur %s d\'une instance a une autre.' WHERE entry = 106;
-UPDATE skyfire_string SET content_loc2 = 'Vous ne pouvez pas teleporter le joueur %s d\'une instance a une autre.' WHERE entry = 107;
+UPDATE skyfire_string SET content_loc2 = 'Vous ne pouvez pas vous téléporter vers le joueur %s d\'une instance a une autre.' WHERE entry = 106;
+UPDATE skyfire_string SET content_loc2 = 'Vous ne pouvez pas téléporter le joueur %s d\'une instance a une autre.' WHERE entry = 107;
 UPDATE skyfire_string SET content_loc2 = 'Vous invoquez %s%s.' WHERE entry = 108;
-UPDATE skyfire_string SET content_loc2 = 'Vous étés invoque par %s.' WHERE entry = 109;
+UPDATE skyfire_string SET content_loc2 = 'Vous étés invoqué par %s.' WHERE entry = 109;
 UPDATE skyfire_string SET content_loc2 = 'Vous téléportez %s%s vers %s.' WHERE entry = 110;
-UPDATE skyfire_string SET content_loc2 = 'Vous venez d\'etre teleporte par %s.' WHERE entry = 111;
+UPDATE skyfire_string SET content_loc2 = 'Vous venez d\'être téléporte par %s.' WHERE entry = 111;
 UPDATE skyfire_string SET content_loc2 = 'Le joueur (%s) n\'existe pas.' WHERE entry = 112;
 UPDATE skyfire_string SET content_loc2 = 'Vous apparaissez a l\'emplacement de %s.' WHERE entry = 113;
 UPDATE skyfire_string SET content_loc2 = '%s apparait sur votre emplacement.' WHERE entry = 114;
@@ -113,6 +118,8 @@ UPDATE skyfire_string SET content_loc2 = '%s a modifié votre taille a %2.2f par
 UPDATE skyfire_string SET content_loc2 = 'Cette monture n\'existe pas.' WHERE entry = 149;
 UPDATE skyfire_string SET content_loc2 = 'Vous donnez une monture a %s.' WHERE entry = 150;
 UPDATE skyfire_string SET content_loc2 = '%s vous a donne une monture.' WHERE entry = 151;
+UPDATE skyfire_string SET content_loc2 = 'UTILISATEUR1: %i, AJOUT: %i, DIF: %i' WHERE entry = 152;
+
 UPDATE skyfire_string SET content_loc2 = 'Vous prenez tout l\'argent de %s.' WHERE entry = 153;
 UPDATE skyfire_string SET content_loc2 = '%s vous a pris tout votre argent.' WHERE entry = 154;
 UPDATE skyfire_string SET content_loc2 = 'Vous prenez %i piece(s) de cuivre a %s.' WHERE entry = 155;
@@ -120,15 +127,18 @@ UPDATE skyfire_string SET content_loc2 = '%s vous a pris %i piece(s) de cuivre.'
 UPDATE skyfire_string SET content_loc2 = 'Vous donnez %i piece(s) de cuivre a %s.' WHERE entry = 157;
 UPDATE skyfire_string SET content_loc2 = '%s vous a donne %i piece(s) de cuivre.' WHERE entry = 158;
 UPDATE skyfire_string SET content_loc2 = 'Vous entendez le son %u.' WHERE entry = 159;
+UPDATE skyfire_string SET content_loc2 = 'UTILISATEUR2: %i, AJOUT: %i, RESULTAT: %i' WHERE entry = 160;
+
 UPDATE skyfire_string SET content_loc2 = 'Suppression du bit %i dans le champ %i.' WHERE entry = 161;
 UPDATE skyfire_string SET content_loc2 = 'Ajout du bit %i dans le champ %i.' WHERE entry = 162;
 UPDATE skyfire_string SET content_loc2 = 'La table de destinations de téléportation est vide !' WHERE entry = 163;
 UPDATE skyfire_string SET content_loc2 = 'La destination de téléportation est introuvable !' WHERE entry = 164;
 UPDATE skyfire_string SET content_loc2 = 'paramètre de recherche exige.' WHERE entry = 165;
 UPDATE skyfire_string SET content_loc2 = 'Aucune destination ne correspond a votre recherche.' WHERE entry = 166;
+UPDATE skyfire_string SET content_loc2 = 'Les destinations trouvées sont: %s' WHERE entry = 168;
 UPDATE skyfire_string SET content_loc2 = 'Courrier envoyee %s' WHERE entry = 169;
 UPDATE skyfire_string SET content_loc2 = 'Vous essayez d\'ecouter le son %u mais il n\'existe pas.' WHERE entry = 170;
-UPDATE skyfire_string SET content_loc2 = 'Vous ne pouvez vous teleporter sur vous-meme!' WHERE entry = 171;
+UPDATE skyfire_string SET content_loc2 = 'Vous ne pouvez vous téléporter sur vous-meme!' WHERE entry = 171;
 UPDATE skyfire_string SET content_loc2 = 'Commande de console du serveur' WHERE entry = 172;
 UPDATE skyfire_string SET content_loc2 = 'Vous avez changé la puissance runique de %s a %i/%i.' WHERE entry = 173;
 UPDATE skyfire_string SET content_loc2 = 'La puissance runique de %s a été changé a %i/%i.' WHERE entry = 174;
@@ -219,7 +229,10 @@ UPDATE skyfire_string SET content_loc2 = 'Acceptation des chuchotements: %s' WHE
 UPDATE skyfire_string SET content_loc2 = 'Acceptation des chuchotements: ON' WHERE entry = 285;
 UPDATE skyfire_string SET content_loc2 = 'Acceptation des chuchotements: OFF' WHERE entry = 286;
 UPDATE skyfire_string SET content_loc2 = 'Créature (GUID: %u) introuvable' WHERE entry = 287;
+UPDATE skyfire_string SET content_loc2 = 'Nombre de tickets: %i Affichage des nouveaux tickets: %s' WHERE entry = 288;
 UPDATE skyfire_string SET content_loc2 = 'Nouveau ticket de %s.' WHERE entry = 289;
+UPDATE skyfire_string SET content_loc2 = 'Ticket de %s (Derniere mise a jour: %s): %s' WHERE entry = 290;
+
 UPDATE skyfire_string SET content_loc2 = 'Affichage des nouveaux tickets: ON' WHERE entry = 291;
 UPDATE skyfire_string SET content_loc2 = 'Affichage des nouveaux tickets: OFF' WHERE entry = 292;
 UPDATE skyfire_string SET content_loc2 = 'Ticket %i inexistant.' WHERE entry = 293;
@@ -234,7 +247,7 @@ UPDATE skyfire_string SET content_loc2 = 'Vous avez désactive le tchat de %s po
 UPDATE skyfire_string SET content_loc2 = 'Le tchat du joueur est déja active.' WHERE entry = 302;
 UPDATE skyfire_string SET content_loc2 = 'Votre tchat a été active.' WHERE entry = 303;
 UPDATE skyfire_string SET content_loc2 = 'Vous avez active le tchat de %s.' WHERE entry = 304;
-UPDATE skyfire_string SET content_loc2 = 'La faction de reputation %s (%u) de %s a été modifié a %5d !' WHERE entry = 305;
+UPDATE skyfire_string SET content_loc2 = 'La faction de réputation %s (%u) de %s a été modifié a %5d !' WHERE entry = 305;
 UPDATE skyfire_string SET content_loc2 = 'Les points d\'arène de %s ont été modifiés a %u !' WHERE entry = 306;
 UPDATE skyfire_string SET content_loc2 = 'Aucune faction trouvé.' WHERE entry = 307;
 UPDATE skyfire_string SET content_loc2 = 'Faction %i inconnu !' WHERE entry = 308;
@@ -255,8 +268,8 @@ UPDATE skyfire_string SET content_loc2 = 'Amical' WHERE entry = 322;
 UPDATE skyfire_string SET content_loc2 = 'Honore' WHERE entry = 323;
 UPDATE skyfire_string SET content_loc2 = 'Revere' WHERE entry = 324;
 UPDATE skyfire_string SET content_loc2 = 'Exalte' WHERE entry = 325;
-UPDATE skyfire_string SET content_loc2 = 'La faction %s (%u) ne peut pas avoir de reputation.' WHERE entry = 326;
-UPDATE skyfire_string SET content_loc2 = '[Aucune reputation]' WHERE entry = 327;
+UPDATE skyfire_string SET content_loc2 = 'La faction %s (%u) ne peut pas avoir de réputation.' WHERE entry = 326;
+UPDATE skyfire_string SET content_loc2 = '[Aucune réputation]' WHERE entry = 327;
 UPDATE skyfire_string SET content_loc2 = 'Personnages sur le compte %s (Id: %u)' WHERE entry = 328;
 UPDATE skyfire_string SET content_loc2 = '%s (GUID %u)' WHERE entry = 329;
 UPDATE skyfire_string SET content_loc2 = 'Aucun joueur trouvé !' WHERE entry = 330;
@@ -268,7 +281,7 @@ UPDATE skyfire_string SET content_loc2 = 'Logo Tchat MJ désactive' WHERE entry 
 UPDATE skyfire_string SET content_loc2 = 'Vous reparez tous les Équipements de %s.' WHERE entry = 336;
 UPDATE skyfire_string SET content_loc2 = 'Tous vos Équipements ont été repares par %s.' WHERE entry = 337;
 UPDATE skyfire_string SET content_loc2 = 'Vous configurez le mode Marche-sur-eau a %s pour %s.' WHERE entry = 338;
-UPDATE skyfire_string SET content_loc2 = 'Votre mode Marche-sur-eau a été configure a %s par %s.' WHERE entry = 339;
+UPDATE skyfire_string SET content_loc2 = 'Votre mode Marche-sur-eau a été configuré a %s par %s.' WHERE entry = 339;
 UPDATE skyfire_string SET content_loc2 = '%s est en train de vous suivre.' WHERE entry = 340;
 UPDATE skyfire_string SET content_loc2 = '%s ne vous suit plus.' WHERE entry = 341;
 UPDATE skyfire_string SET content_loc2 = '%s n\'est plus en train de vous suivre.' WHERE entry = 342;
@@ -282,8 +295,8 @@ UPDATE skyfire_string SET content_loc2 = '|cffff0000[Message Systeme]:|r Scripts
 UPDATE skyfire_string SET content_loc2 = 'Vous modifiéz le niveau de securite du compte %s a %i.' WHERE entry = 401;
 UPDATE skyfire_string SET content_loc2 = '%s a modifié votre niveau de securite a %i.' WHERE entry = 402;
 UPDATE skyfire_string SET content_loc2 = 'Vous avez un niveau de securite trop bas pour cela.' WHERE entry = 403;
-UPDATE skyfire_string SET content_loc2 = 'Mouvements de la créature désactives.' WHERE entry = 404;
-UPDATE skyfire_string SET content_loc2 = 'Mouvements de la créature actives.' WHERE entry = 405;
+UPDATE skyfire_string SET content_loc2 = 'Mouvements de la créature désactivés.' WHERE entry = 404;
+UPDATE skyfire_string SET content_loc2 = 'Mouvements de la créature activés.' WHERE entry = 405;
 UPDATE skyfire_string SET content_loc2 = 'La météorologie ne peut pas etre changée dans cette zone.' WHERE entry = 406;
 UPDATE skyfire_string SET content_loc2 = 'Le systeme météorologique est désactive.' WHERE entry = 407;
 UPDATE skyfire_string SET content_loc2 = '%s est banni pendant %s. Motif: %s.' WHERE entry = 408;
@@ -301,6 +314,9 @@ UPDATE skyfire_string SET content_loc2 = 'Inf.' WHERE entry = 419;
 UPDATE skyfire_string SET content_loc2 = 'Jamais' WHERE entry = 420;
 UPDATE skyfire_string SET content_loc2 = 'Oui' WHERE entry = 421;
 UPDATE skyfire_string SET content_loc2 = 'Non' WHERE entry = 422;
+
+UPDATE skyfire_string SET content_loc2 = 'IP: %s Date ban: %s Date Déban: %s Temps restant: %s Raison: %s Banni par: %s' WHERE entry = 423;
+
 UPDATE skyfire_string SET content_loc2 = 'Il n\'y a pas d\'ip bannie correspondante.' WHERE entry = 424;
 UPDATE skyfire_string SET content_loc2 = 'Il n\'y a pas de compte correspondant.' WHERE entry = 425;
 UPDATE skyfire_string SET content_loc2 = 'Il n\'y a pas de compte banni correspondant au nom de personnage donne.' WHERE entry = 426;
@@ -384,6 +400,12 @@ UPDATE skyfire_string SET content_loc2 = 'Équipement \'%i\' \'%s\' Emplacement 
 UPDATE skyfire_string SET content_loc2 = 'Équipement \'%i\' inexistant.' WHERE entry = 505;
 UPDATE skyfire_string SET content_loc2 = 'L\'Équipement \'%i\' \'%s\' a été ajoute a l\'emplacement %i' WHERE entry = 506;
 UPDATE skyfire_string SET content_loc2 = 'Échec lors de la sauvegarde d\'un Équipement !' WHERE entry = 507;
+
+UPDATE skyfire_string SET content_loc2 = '%d - Propriétaire: %s (guid: %u account: %u ) %s' WHERE entry = 508;
+UPDATE skyfire_string SET content_loc2 = '%d - Expéditeur: %s (guid: %u account: %u ) receiver: %s (guid: %u account: %u ) %s' WHERE entry = 509;
+UPDATE skyfire_string SET content_loc2 = '%d - Propriétaire: %s (guid: %u account: %u ) %s' WHERE entry = 510;
+
+
 UPDATE skyfire_string SET content_loc2 = 'Mauvais type de lien !' WHERE entry = 511;
 UPDATE skyfire_string SET content_loc2 = '%d - |cffffffff|Hitem:%d:0:0:0:0:0:0:0:0|h[%s]|h|r ' WHERE entry = 512;
 UPDATE skyfire_string SET content_loc2 = '%d - |cffffffff|Hquest:%d:%d|h[%s]|h|r %s' WHERE entry = 513;
@@ -397,6 +419,9 @@ UPDATE skyfire_string SET content_loc2 = '%d - |cffffffff|Hspell:%d|h[%s]|h|r ' 
 UPDATE skyfire_string SET content_loc2 = '%d - |cffffffff|Hskill:%d|h[%s %s]|h|r %s %s' WHERE entry = 521;
 UPDATE skyfire_string SET content_loc2 = 'Gameobject (Entry: %u) introuvable.' WHERE entry = 522;
 UPDATE skyfire_string SET content_loc2 = '>> Game Object %s (GUID: %u) %f %f %f. Orientation %f.' WHERE entry = 523;
+
+UPDATE skyfire_string SET content_loc2 = 'Objet sélectionné: |cffffffff|Hgameobject:%d|h[%s]|h|r GUID: %u ID: %u X: %f Y: %f Z: %f Carte: %u Orientation: %f Phasemask %u' WHERE entry = 524;
+
 UPDATE skyfire_string SET content_loc2 = '>> Le Game Object \'%i\' (%s) (GUID: %i) a été ajoute a \'%f %f %f\'.' WHERE entry = 525;
 UPDATE skyfire_string SET content_loc2 = '%s (lowguid: %u) pile de générateurs de mouvements:' WHERE entry = 526;
 UPDATE skyfire_string SET content_loc2 = 'Au repos' WHERE entry = 527;
@@ -411,8 +436,11 @@ UPDATE skyfire_string SET content_loc2 = 'Mouvement domestique a (X: %f Y: %f Z:
 UPDATE skyfire_string SET content_loc2 = 'Mouvement domestique utilise pour le joueur ?!?' WHERE entry = 536;
 UPDATE skyfire_string SET content_loc2 = 'Déplacement de vol' WHERE entry = 537;
 UPDATE skyfire_string SET content_loc2 = 'Générateur de mouvement inconnu (%u)' WHERE entry = 538;
+UPDATE skyfire_string SET content_loc2 = 'PNJ sélectionné GUID: %u. Faction: %u. npcFlags: %u. Entry: %u. DisplayID: %u (Native: %u).' WHERE entry = 539;
+
 UPDATE skyfire_string SET content_loc2 = 'Niveau: %u.' WHERE entry = 540;
 UPDATE skyfire_string SET content_loc2 = 'Vie (base): %u. (max): %u. (actuelle): %u.' WHERE entry = 541;
+UPDATE skyfire_string SET content_loc2 = 'Unit Flags: %u. Dynamique Flags: %u. Faction Template: %u.' WHERE entry = 542;
 UPDATE skyfire_string SET content_loc2 = 'Butin: %u Pickpocket: %u Dépecage: %u' WHERE entry = 543;
 UPDATE skyfire_string SET content_loc2 = 'Position: %f %f %f.' WHERE entry = 544;
 UPDATE skyfire_string SET content_loc2 = '*** Est un marchand !' WHERE entry = 545;
@@ -456,6 +484,8 @@ UPDATE skyfire_string SET content_loc2 = 'Temps avant reapparition: Complet: %s 
 UPDATE skyfire_string SET content_loc2 = '%d - |cffffffff|HgameÉvennement:%d|h[%s]|h|r%s' WHERE entry = 583;
 UPDATE skyfire_string SET content_loc2 = 'Aucun Évennement trouvé !' WHERE entry = 584;
 UPDATE skyfire_string SET content_loc2 = 'Évennement inexistant !' WHERE entry = 585;
+UPDATE skyfire_string SET content_loc2 = 'Évennement %u: %s%s Debut: %s Fin: %s Occurrence: %s Duree:%s Prochain changement de phase: %s' WHERE entry = 586;
+
 UPDATE skyfire_string SET content_loc2 = 'Évennement %u déja actif !' WHERE entry = 587;
 UPDATE skyfire_string SET content_loc2 = 'Évennement %u inactif !' WHERE entry = 588;
 UPDATE skyfire_string SET content_loc2 = 'Mouvement ponctuel (X: %f Y: %f Z: %f)' WHERE entry = 589;
@@ -536,6 +566,9 @@ UPDATE skyfire_string SET content_loc2 = '%s ne souhaite pas etre derange et ne 
 UPDATE skyfire_string SET content_loc2 = '%s est absent: %s' WHERE entry = 708;
 UPDATE skyfire_string SET content_loc2 = 'Ne pas deranger' WHERE entry = 709;
 UPDATE skyfire_string SET content_loc2 = 'Absent' WHERE entry = 710;
+UPDATE skyfire_string SET content_loc2 = 'Statut de la file d''attente pour %s (Lvl: %u a %u) File d''attente de l''Alliance: %u (requiert encore %u) File d''attente de la Horde: %u (requiert encore %u)' WHERE entry = 711;
+
+
 UPDATE skyfire_string SET content_loc2 = '|cffff0000[Annonce File d\'attente CB]:|r %s -- [%u-%u] A: %u/%u, H: %u/%u|r' WHERE entry = 712;
 UPDATE skyfire_string SET content_loc2 = 'Vous devez etre niveau %u pour rejoindre une equipe d\'arène !' WHERE entry = 713;
 UPDATE skyfire_string SET content_loc2 = 'Vous ne remplissez pas les exigences de niveau de ce champ de bataille.' WHERE entry = 715;
@@ -555,10 +588,10 @@ UPDATE skyfire_string SET content_loc2 = 'Votre groupe comporte des joueurs de d
 UPDATE skyfire_string SET content_loc2 = 'Un membre de votre groupe est déja inscrit pour ce champ de bataille. Il doit le quitter avant que vous puissiez rejoindre ce champ de bataille comme un groupe.' WHERE entry = 730;
 UPDATE skyfire_string SET content_loc2 = 'Un membre de votre groupe est un deserteur. Vous ne pouvez pas rejoindre comme un groupe.' WHERE entry = 731;
 UPDATE skyfire_string SET content_loc2 = 'Un membre de votre groupe est déja inscrit pour trois champ de bataille. Vous ne pouvez pas rejoindre comme un groupe.' WHERE entry = 732;
-UPDATE skyfire_string SET content_loc2 = 'Vous ne pouvez pas teleporter sur une carte de champ de bataille ou d\'arène.' WHERE entry = 733;
+UPDATE skyfire_string SET content_loc2 = 'Vous ne pouvez pas téléporter sur une carte de champ de bataille ou d\'arène.' WHERE entry = 733;
 UPDATE skyfire_string SET content_loc2 = 'Vous ne pouvez pas invoquer un joueur sur une carte de champ de bataille ou d\'arène.' WHERE entry = 734;
-UPDATE skyfire_string SET content_loc2 = 'Vous devez etre en mode MJ afin de teleporter un joueur dans sur un champ de bataille.' WHERE entry = 735;
-UPDATE skyfire_string SET content_loc2 = 'Vous ne pouvez pas vous teleporter d\'un champ de bataille a un autre. Veuillez d\'abord quitter le champ de bataille actuel.' WHERE entry = 736;
+UPDATE skyfire_string SET content_loc2 = 'Vous devez etre en mode MJ afin de téléporter un joueur dans sur un champ de bataille.' WHERE entry = 735;
+UPDATE skyfire_string SET content_loc2 = 'Vous ne pouvez pas vous téléporter d\'un champ de bataille a un autre. Veuillez d\'abord quitter le champ de bataille actuel.' WHERE entry = 736;
 UPDATE skyfire_string SET content_loc2 = 'Les arènes sont configurees en mode 1c1 pour debogage. Vous ne pouvez donc pas rejoindre comme un groupe.' WHERE entry = 737;
 UPDATE skyfire_string SET content_loc2 = 'Les arènes sont configurees avec le quota normal de joueurs.' WHERE entry = 738;
 UPDATE skyfire_string SET content_loc2 = 'Les champs de bataille sont configures en mode 1c0 pour debogage.' WHERE entry = 739;
@@ -617,6 +650,7 @@ UPDATE skyfire_string SET content_loc2 = '|<Erreur> | %20s |<Erreur>|<Er>| <Erre
 UPDATE skyfire_string SET content_loc2 = '-[Compte][Personnage][ IP][Map][Zone][Exp][GMLev]-' WHERE entry = 1010;
 UPDATE skyfire_string SET content_loc2 = 'Aucun joueur en ligne.' WHERE entry = 1014;
 UPDATE skyfire_string SET content_loc2 = 'Compte %s (Id: %u) a désormais la permission d\'utiliser l\'expansion %u.' WHERE entry = 1100;
+UPDATE skyfire_string SET content_loc2 = 'Message du jour changé en: %s' WHERE entry = 1101;
 UPDATE skyfire_string SET content_loc2 = 'Message envoye a %s: %s' WHERE entry = 1102;
 UPDATE skyfire_string SET content_loc2 = '%d - %s %s' WHERE entry = 1103;
 UPDATE skyfire_string SET content_loc2 = '%d - %s' WHERE entry = 1104;
@@ -716,7 +750,7 @@ UPDATE skyfire_string SET content_loc2 = null WHERE entry = 5006;
 UPDATE skyfire_string SET content_loc2 = 'Vous devez etre dans un groupe de raid pour acceder a cette instance.' WHERE entry = 5007;
 UPDATE skyfire_string SET content_loc2 = 'Le son %u est joue sur le serveur' WHERE entry = 5009;
 UPDATE skyfire_string SET content_loc2 = 'linkGUID: %u, Entree: %u (%s)' WHERE entry = 5010;
-UPDATE skyfire_string SET content_loc2 = 'Vous ne pouvez vous teleporter sur vous-meme!' WHERE entry = 5011;
+UPDATE skyfire_string SET content_loc2 = 'Vous ne pouvez vous téléporter sur vous-meme!' WHERE entry = 5011;
 UPDATE skyfire_string SET content_loc2 = 'Aucunes cartes trouvées!' WHERE entry = 5012;
 UPDATE skyfire_string SET content_loc2 = null WHERE entry = 5013;
 UPDATE skyfire_string SET content_loc2 = null WHERE entry = 5014;
