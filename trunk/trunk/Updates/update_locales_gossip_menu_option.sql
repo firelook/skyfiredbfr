@@ -1,6 +1,7 @@
-/*
+
 SET NAMES utf8;                        
-*/
+
+
                                        
 
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Je veux voyager rapidement' where `menu_id` =0 and id=2 ;

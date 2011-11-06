@@ -1,6 +1,7 @@
-/*
+
 SET NAMES utf8;                        
-*/
+
+
                                        
 
 UPDATE `locales_achievement_reward` SET `subject_loc2` = 'Vous avez bien bourlingué !', `text_loc2` = 'Eh ben, vous !\n\nEt moi qui croyais avoir tout vu sur ces terres gelées ! Le feu de l\'exploration brûle en vous. Cela saute à mes yeux de nain.\n\nPortez ce tabard avec fierté. De cette façon, vos amis sauront toujours à qui demander leur chemin en temps voulu !\n\nRestez bien en selle !\n\nBrann Barbe-de-bronze' WHERE `entry` = 45;

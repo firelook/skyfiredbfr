@@ -1,6 +1,7 @@
-/*
-SET NAMES utf8;
-*/
+
+SET NAMES utf8;                        
+
+
 
 
 UPDATE `locales_creature` SET `name_loc2` = '[Imp Minion]' WHERE `entry` =2;
