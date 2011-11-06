@@ -1,6 +1,6 @@
-
+/*
 SET NAMES utf8;                        
-
+*/
 
 
 

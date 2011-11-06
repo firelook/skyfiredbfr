@@ -1,5 +1,6 @@
-﻿
+﻿/*
 SET NAMES utf8;                        
+*/    
 
             
 UPDATE skyfire_string SET content_loc2 = 'Vous devez sélectionner un personnage ou une créature.' WHERE entry = 1;
