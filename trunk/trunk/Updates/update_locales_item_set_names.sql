@@ -1,6 +1,6 @@
-
+/*
 SET NAMES utf8;                        
-
+*/
 
                                    
 UPDATE `locales_item_set_names` SET `name_loc2` = 'Etreinte de la vipère' WHERE `entry` =6473 ;
