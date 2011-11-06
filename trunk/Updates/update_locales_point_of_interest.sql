@@ -1,4 +1,7 @@
-﻿UPDATE locales_points_of_interest SET entry = 1, icon_name_loc2 = 'L\'auberge de la Fierté du Lion' WHERE entry = 1;
+﻿
+SET NAMES utf8;                        
+
+UPDATE locales_points_of_interest SET entry = 1, icon_name_loc2 = 'L\'auberge de la Fierté du Lion' WHERE entry = 1;
 UPDATE locales_points_of_interest SET entry = 2, icon_name_loc2 = 'Zaldimar Wefhellt' WHERE entry = 2;
 UPDATE locales_points_of_interest SET entry = 3, icon_name_loc2 = 'Frère Wilhelm' WHERE entry = 3;
 UPDATE locales_points_of_interest SET entry = 4, icon_name_loc2 = 'Prêtresse Josetta' WHERE entry = 4;

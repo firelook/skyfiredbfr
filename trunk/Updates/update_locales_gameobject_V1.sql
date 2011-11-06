@@ -1,6 +1,7 @@
-/*
-SET NAMES utf8;
-*/
+
+SET NAMES utf8;                        
+
+
 
 
 UPDATE `locales_gameobject` SET `name_loc2` =  'Filon d\'or' WHERE `entry` = 1734 ;

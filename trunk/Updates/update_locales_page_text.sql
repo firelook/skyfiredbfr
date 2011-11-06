@@ -1,4 +1,7 @@
-﻿UPDATE locales_page_text SET entry = 1, Text_loc2 = null WHERE entry = 1;
+﻿
+SET NAMES utf8;                        
+
+UPDATE locales_page_text SET entry = 1, Text_loc2 = null WHERE entry = 1;
 UPDATE locales_page_text SET entry = 2, Text_loc2 = null WHERE entry = 2;
 UPDATE locales_page_text SET entry = 3, Text_loc2 = null WHERE entry = 3;
 UPDATE locales_page_text SET entry = 4, Text_loc2 = null WHERE entry = 4;
