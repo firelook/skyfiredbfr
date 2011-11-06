@@ -1,6 +1,6 @@
-﻿/*
+﻿
 SET NAMES utf8;                        
-*/
+
 
 
 UPDATE locales_npc_text SET  Text0_0_loc2 = 'Salutations, $N !', Text0_1_loc2 = 'Salutations, $N !', Text1_0_loc2 = null, Text1_1_loc2 = null, Text2_0_loc2 = null, Text2_1_loc2 = null, Text3_0_loc2 = null, Text3_1_loc2 = null, Text4_0_loc2 = null, Text4_1_loc2 = null, Text5_0_loc2 = null, Text5_1_loc2 = null, Text6_0_loc2 = null, Text6_1_loc2 = null, Text7_0_loc2 = null, Text7_1_loc2 = null WHERE entry = 1;
