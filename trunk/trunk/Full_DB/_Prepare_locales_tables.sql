@@ -19,9 +19,9 @@ INSERT IGNORE INTO `locales_creature` (`entry`) SELECT `entry` FROM `creature_te
 INSERT IGNORE INTO `locales_quest`(`entry`) SELECT `entry` FROM `quest_template`;
 INSERT IGNORE INTO `locales_item_set_names` (`entry`) SELECT `entry` FROM `item_set_names`;
 INSERT IGNORE INTO `locales_item` (`entry`) SELECT `entry` FROM `item_template`;
-/* change the structure in insert mode not update
+
 INSERT IGNORE INTO `locales_page_text`(`entry`) SELECT `entry` FROM `page_text`;
-*/
+
 INSERT IGNORE INTO `locales_npc_text` (`entry`) SELECT `ID` FROM `npc_text`;
 INSERT IGNORE INTO `locales_points_of_interest` (`entry`) SELECT `entry` FROM `points_of_interest`;
 INSERT IGNORE INTO `locales_achievement_reward` (`entry`) SELECT `entry` FROM `achievement_reward`;
