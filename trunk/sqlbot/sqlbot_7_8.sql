@@ -184,9 +184,6 @@ INSERT INTO `item_instance` VALUES (	@ENTRY+167	,	62785	,	@vendeur_ah	,	0	,	0	,	
 INSERT INTO `item_instance` VALUES (	@ENTRY+168	,	62791	,	@vendeur_ah	,	0	,	0	,	floor(rand()*5+5)	,	0	,	'0 0 0 0 0 '	,	0	,	'0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 '	,	0	,	0	,	0	,	""	);
 INSERT INTO `item_instance` VALUES (	@ENTRY+169	,	67229	,	@vendeur_ah	,	0	,	0	,	floor(rand()*5+5)	,	0	,	'0 0 0 0 0 '	,	0	,	'0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 '	,	0	,	0	,	0	,	""	);
 INSERT INTO `item_instance` VALUES (	@ENTRY+170	,	62549	,	@vendeur_ah	,	0	,	0	,	floor(rand()*5+5)	,	0	,	'0 0 0 0 0 '	,	0	,	'0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 '	,	0	,	0	,	0	,	""	);
-INSERT INTO `item_instance` VALUES (	@ENTRY+171	,	27444	,	@vendeur_ah	,	0	,	0	,	floor(rand()*5+5)	,	0	,	'0 0 0 0 0 '	,	0	,	'0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 '	,	0	,	0	,	0	,	""	);
-INSERT INTO `item_instance` VALUES (	@ENTRY+172	,	37838	,	@vendeur_ah	,	0	,	0	,	floor(rand()*5+5)	,	0	,	'0 0 0 0 0 '	,	0	,	'0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 '	,	0	,	0	,	0	,	""	);
-INSERT INTO `item_instance` VALUES (	@ENTRY+173	,	37837	,	@vendeur_ah	,	0	,	0	,	floor(rand()*5+5)	,	0	,	'0 0 0 0 0 '	,	0	,	'0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 '	,	0	,	0	,	0	,	""	);
 
 
 
@@ -364,9 +361,6 @@ INSERT INTO `auctionhouse` VALUES (	@newENTRY+167	,	@faction_ah	,	@ENTRY+167	,	@
 INSERT INTO `auctionhouse` VALUES (	@newENTRY+168	,	@faction_ah	,	@ENTRY+168	,	@vendeur_ah	,	0	,	 UNIX_TIMESTAMP( ADDDATE(now(), INTERVAL floor(24+72*rand()) HOUR)) 	,	0	,	0	,	19159	,	0	);
 INSERT INTO `auctionhouse` VALUES (	@newENTRY+169	,	@faction_ah	,	@ENTRY+169	,	@vendeur_ah	,	0	,	 UNIX_TIMESTAMP( ADDDATE(now(), INTERVAL floor(24+72*rand()) HOUR)) 	,	0	,	0	,	3024	,	0	);
 INSERT INTO `auctionhouse` VALUES (	@newENTRY+170	,	@faction_ah	,	@ENTRY+170	,	@vendeur_ah	,	0	,	 UNIX_TIMESTAMP( ADDDATE(now(), INTERVAL floor(24+72*rand()) HOUR)) 	,	0	,	0	,	100	,	0	);
-INSERT INTO `auctionhouse` VALUES (	@newENTRY+171	,	@faction_ah	,	@ENTRY+171	,	@vendeur_ah	,	0	,	 UNIX_TIMESTAMP( ADDDATE(now(), INTERVAL floor(24+72*rand()) HOUR)) 	,	0	,	0	,	422	,	0	);
-INSERT INTO `auctionhouse` VALUES (	@newENTRY+172	,	@faction_ah	,	@ENTRY+172	,	@vendeur_ah	,	0	,	 UNIX_TIMESTAMP( ADDDATE(now(), INTERVAL floor(24+72*rand()) HOUR)) 	,	0	,	0	,	165	,	0	);
-INSERT INTO `auctionhouse` VALUES (	@newENTRY+173	,	@faction_ah	,	@ENTRY+173	,	@vendeur_ah	,	0	,	 UNIX_TIMESTAMP( ADDDATE(now(), INTERVAL floor(24+72*rand()) HOUR)) 	,	0	,	0	,	277	,	0	);
 
 
 
