@@ -10,7 +10,7 @@ ALTER TABLE `locales_npc_text` CONVERT TO CHARACTER SET utf8 COLLATE utf8_genera
 ALTER TABLE `locales_points_of_interest` CONVERT TO CHARACTER SET utf8 COLLATE utf8_general_ci;
 ALTER TABLE `locales_achievement_reward` CONVERT TO CHARACTER SET utf8 COLLATE utf8_general_ci;
 ALTER TABLE `locales_gossip_menu_option` CONVERT TO CHARACTER SET utf8 COLLATE utf8_general_ci;
-
+ALTER TABLE `locales_creature_text` CONVERT TO CHARACTER SET utf8 COLLATE utf8_general_ci;
 
 
 
@@ -28,6 +28,6 @@ INSERT IGNORE INTO `locales_achievement_reward` (`entry`) SELECT `entry` FROM `a
 INSERT IGNORE INTO `locales_gossip_menu_option` (`menu_id`, `id`) SELECT `menu_id`, `id` FROM `gossip_menu_option`;
 
 
-
+INSERT IGNORE INTO `locales_creature_text`(`entry`,`textGroup`,`id`) SELECT `entry`, `Groupid`, `id` FROM `creature_text`;
 
 
