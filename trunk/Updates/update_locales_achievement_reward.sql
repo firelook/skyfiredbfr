@@ -2,7 +2,7 @@
 SET NAMES utf8;                        
 */
 
-                                       
+
 
 UPDATE `locales_achievement_reward` SET `subject_loc2` = 'Vous avez bien bourlingué !', `text_loc2` = 'Eh ben, vous !\n\nEt moi qui croyais avoir tout vu sur ces terres gelées ! Le feu de l\'exploration brûle en vous. Cela saute à mes yeux de nain.\n\nPortez ce tabard avec fierté. De cette façon, vos amis sauront toujours à qui demander leur chemin en temps voulu !\n\nRestez bien en selle !\n\nBrann Barbe-de-bronze' WHERE `entry` = 45;
 UPDATE locales_achievement_reward SET  subject_loc1 = '', subject_loc2 = 'Une offrande à l''immortalité', subject_loc3 = '', subject_loc4 = '', subject_loc5 = '', subject_loc6 = '', subject_loc7 = '', subject_loc8 = '', text_loc1 = null, text_loc2 = null, text_loc3 = null, text_loc4 = null, text_loc5 = null, text_loc6 = null, text_loc7 = null, text_loc8 = null WHERE entry = 4079;
