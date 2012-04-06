@@ -5,16 +5,16 @@ SET NAMES utf8;
 
 
 
-
-
 UPDATE `locales_creature_text` SET `text_loc2` ='Yiieeeee! Moi courir! '  where `entry` = 40 and `textgroup` = 0 and `id` = 1;
 UPDATE `locales_creature_text` SET `text_loc2` ='Yiieeeee! Moi courir! '  where `entry` = 80 and `textgroup` = 0 and `id` = 1;
-UPDATE `locales_creature_text` SET `text_loc2` ='Grrrrr... de la viande fraiche ! '  where `entry` = 97 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='Grrrr... de la viande fraîche ! '  where `entry` = 97 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` =' Plus d\'os à ronger... '  where `entry` = 97 and `textgroup` = 0 and `id` = 1;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 474 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='Yiieeeee! Moi courir! '  where `entry` = 475 and `textgroup` = 0 and `id` = 1;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 476 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='Yiieeeee! Moi courir! '  where `entry` = 476 and `textgroup` = 1 and `id` = 1;
-UPDATE `locales_creature_text` SET `text_loc2` ='Grrrrr... de la viande fraiche ! '  where `entry` = 478 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='Grrrr... de la viande fraîche ! '  where `entry` = 478 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` =' Plus d\'os à ronger... '  where `entry` = 478 and `textgroup` = 0 and `id` = 1;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 596 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 599 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 619 and `textgroup` = 0 and `id` = 0;
@@ -25,15 +25,24 @@ UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur !
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 2007 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 2009 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 2012 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='Vous serez une proie facile, $c. '  where `entry` = 2015 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='Vous serez une proie facile, $c. '  where `entry` = 2017 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 2018 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='Vous serez une proie facile, $c. '  where `entry` = 2018 and `textgroup` = 1 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='Vous serez une proie facile, $c. '  where `entry` = 2019 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='Vous serez une proie facile, $c. '  where `entry` = 2020 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 2021 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='Vous serez une proie facile, $c. '  where `entry` = 2021 and `textgroup` = 1 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 2172 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 2206 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 2207 and `textgroup` = 0 and `id` = 0;
-UPDATE `locales_creature_text` SET `text_loc2` ='Grrrrr... de la viande fraiche ! '  where `entry` = 2949 and `textgroup` = 0 and `id` = 1;
+UPDATE `locales_creature_text` SET `text_loc2` =' Plus d\'os à ronger... '  where `entry` = 2949 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='Grrrr... de la viande fraîche ! '  where `entry` = 2949 and `textgroup` = 0 and `id` = 1;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 2949 and `textgroup` = 1 and `id` = 0;
-UPDATE `locales_creature_text` SET `text_loc2` ='Grrrrr... de la viande fraiche ! '  where `entry` = 2950 and `textgroup` = 0 and `id` = 1;
-UPDATE `locales_creature_text` SET `text_loc2` ='Grrrrr... de la viande fraiche ! '  where `entry` = 2951 and `textgroup` = 0 and `id` = 1;
+UPDATE `locales_creature_text` SET `text_loc2` =' Plus d\'os à ronger... '  where `entry` = 2950 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='Grrrr... de la viande fraîche ! '  where `entry` = 2950 and `textgroup` = 0 and `id` = 1;
+UPDATE `locales_creature_text` SET `text_loc2` =' Plus d\'os à ronger... '  where `entry` = 2951 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='Grrrr... de la viande fraîche ! '  where `entry` = 2951 and `textgroup` = 0 and `id` = 1;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 2963 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 2964 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 2976 and `textgroup` = 0 and `id` = 0;
@@ -52,6 +61,7 @@ UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur !
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 3198 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 3199 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 3204 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='%s est pris de frénésie ! '  where `entry` = 3245 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 3265 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 3269 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 3271 and `textgroup` = 0 and `id` = 0;
@@ -90,6 +100,7 @@ UPDATE `locales_creature_text` SET `text_loc2` ='%s devient enragé! '  where `en
 UPDATE `locales_creature_text` SET `text_loc2` ='%s devient enragé! '  where `entry` = 3823 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s devient enragé! '  where `entry` = 3825 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 3840 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='%s est pris de frénésie ! '  where `entry` = 3921 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 3926 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s devient enragé! '  where `entry` = 3932 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 3944 and `textgroup` = 0 and `id` = 0;
@@ -108,9 +119,12 @@ UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur !
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 4291 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 4293 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 4294 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='%s est pris de frénésie ! '  where `entry` = 4295 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 4296 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 4297 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 4409 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='%s est pris de frénésie ! '  where `entry` = 4422 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='%s est pris de frénésie ! '  where `entry` = 4514 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 4516 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 4517 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 4520 and `textgroup` = 0 and `id` = 0;
@@ -153,7 +167,9 @@ UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur !
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 4811 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 4813 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 4820 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='%s est pris de frénésie ! '  where `entry` = 4829 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 4853 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='%s est pris de frénésie ! '  where `entry` = 4855 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 5269 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 5273 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 5648 and `textgroup` = 0 and `id` = 0;
@@ -161,6 +177,7 @@ UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur !
 UPDATE `locales_creature_text` SET `text_loc2` ='%s devient enragé! '  where `entry` = 5760 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 5785 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s devient enragé! '  where `entry` = 5786 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='%s est pris de frénésie ! '  where `entry` = 5787 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 5822 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 5824 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 5838 and `textgroup` = 0 and `id` = 0;
@@ -168,6 +185,7 @@ UPDATE `locales_creature_text` SET `text_loc2` ='%s devient enragé! '  where `en
 UPDATE `locales_creature_text` SET `text_loc2` ='%s devient enragé! '  where `entry` = 5953 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 6020 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s devient enragé! '  where `entry` = 6115 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='%s est pris de frénésie ! '  where `entry` = 6329 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 7015 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s devient enragé! '  where `entry` = 7149 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s devient enragé! '  where `entry` = 7157 and `textgroup` = 0 and `id` = 0;
@@ -176,6 +194,7 @@ UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur !
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 7246 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 7247 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 7290 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='%s est pris de frénésie ! '  where `entry` = 7320 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s devient enragé! '  where `entry` = 7327 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s devient enragé! '  where `entry` = 7328 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s devient enragé! '  where `entry` = 7329 and `textgroup` = 0 and `id` = 0;
@@ -195,31 +214,43 @@ UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur !
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 8900 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 8901 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 8904 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='%s est pris de frénésie ! '  where `entry` = 8906 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 8913 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 8920 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s devient enragé! '  where `entry` = 8956 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s devient enragé! '  where `entry` = 8958 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s devient enragé! '  where `entry` = 9042 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='%s est pris de frénésie ! '  where `entry` = 9096 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 9098 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 9201 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='%s est pris de frénésie ! '  where `entry` = 9216 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 9239 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 9241 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 9257 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='%s est pris de frénésie ! '  where `entry` = 9259 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 9261 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 9262 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 9267 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='%s est pris de frénésie ! '  where `entry` = 9268 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 9269 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s devient enragé! '  where `entry` = 9454 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='%s est pris de frénésie ! '  where `entry` = 9461 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='%s est pris de frénésie ! '  where `entry` = 9462 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 9523 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 9547 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 9693 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='%s est pris de frénésie ! '  where `entry` = 9716 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 9717 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='%s est pris de frénésie ! '  where `entry` = 9718 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 9817 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 9818 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 9956 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='%s devient enragé ! '  where `entry` = 10363 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s devient enragé! '  where `entry` = 10405 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='%s est pris de frénésie ! '  where `entry` = 10488 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 10559 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 10602 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='%s est pris de frénésie ! '  where `entry` = 10639 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 10676 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 10680 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s devient enragé! '  where `entry` = 10807 and `textgroup` = 0 and `id` = 0;
@@ -248,6 +279,7 @@ UPDATE `locales_creature_text` SET `text_loc2` ='%s devient enragé! '  where `en
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 14229 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s devient enragé! '  where `entry` = 14344 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 14718 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='%s est pris de frénésie ! '  where `entry` = 14753 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s devient enragé! '  where `entry` = 15542 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s devient enragé! '  where `entry` = 15623 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 15641 and `textgroup` = 0 and `id` = 0;
@@ -285,6 +317,7 @@ UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur !
 UPDATE `locales_creature_text` SET `text_loc2` ='%s devient enragé! '  where `entry` = 17448 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 17496 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s devient enragé! '  where `entry` = 17527 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='%s est pris de frénésie ! '  where `entry` = 17556 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 17606 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 17607 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 17608 and `textgroup` = 0 and `id` = 0;
@@ -302,13 +335,34 @@ UPDATE `locales_creature_text` SET `text_loc2` ='%s devient enragé! '  where `en
 UPDATE `locales_creature_text` SET `text_loc2` ='%s devient enragé! '  where `entry` = 17732 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s devient enragé! '  where `entry` = 17734 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s devient enragé! '  where `entry` = 17735 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='%s est pris de frénésie ! '  where `entry` = 17799 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 17801 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='%s est pris de frénésie ! '  where `entry` = 17805 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 17819 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='%s est pris de frénésie ! '  where `entry` = 17827 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 17833 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` =' Vos efforts sont… vains. '  where `entry` = 17835 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='Vous ne nous arrêterez pas ! '  where `entry` = 17835 and `textgroup` = 0 and `id` = 1;
+UPDATE `locales_creature_text` SET `text_loc2` ='%s est pris de frénésie ! '  where `entry` = 17839 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='%s est pris de frénésie ! '  where `entry` = 17840 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` =' Vos efforts sont… vains. '  where `entry` = 17892 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='Vous ne nous arrêterez pas ! '  where `entry` = 17892 and `textgroup` = 0 and `id` = 1;
+UPDATE `locales_creature_text` SET `text_loc2` ='%s est pris de frénésie ! '  where `entry` = 17962 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 17964 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='%s est pris de frénésie ! '  where `entry` = 17991 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='%s est pris de frénésie ! '  where `entry` = 18069 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s devient enragé! '  where `entry` = 18105 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s devient enragé! '  where `entry` = 18241 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='%s est pris de frénésie ! '  where `entry` = 18728 and `textgroup` = 5 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` =' Vos efforts sont… vains. '  where `entry` = 18994 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='Vous ne nous arrêterez pas ! '  where `entry` = 18994 and `textgroup` = 0 and `id` = 1;
+UPDATE `locales_creature_text` SET `text_loc2` =' Vos efforts sont… vains. '  where `entry` = 18995 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='Vous ne nous arrêterez pas ! '  where `entry` = 18995 and `textgroup` = 0 and `id` = 1;
+UPDATE `locales_creature_text` SET `text_loc2` ='%s est pris de frénésie ! '  where `entry` = 19632 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='%s est pris de frénésie ! '  where `entry` = 20774 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s devient enragé! '  where `entry` = 20866 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='%s est pris de frénésie ! '  where `entry` = 20983 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='%s est pris de frénésie ! '  where `entry` = 21104 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 21338 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s devient enragé! '  where `entry` = 21694 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s devient enragé! '  where `entry` = 23651 and `textgroup` = 0 and `id` = 0;
@@ -385,6 +439,7 @@ UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur !
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 27278 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 27351 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 27357 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='%s est pris de frénésie ! '  where `entry` = 27431 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 27539 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 27540 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 27546 and `textgroup` = 0 and `id` = 0;
@@ -399,9 +454,12 @@ UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur !
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 27713 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 27749 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 27791 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='%s est pris de frénésie ! '  where `entry` = 27871 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 28034 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s devient enragé! '  where `entry` = 28076 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='%s est pris de frénésie ! '  where `entry` = 28078 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 28079 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='%s est pris de frénésie ! '  where `entry` = 28086 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s devient enragé! '  where `entry` = 28087 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s devient enragé! '  where `entry` = 28111 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 28303 and `textgroup` = 0 and `id` = 0;
@@ -416,6 +474,7 @@ UPDATE `locales_creature_text` SET `text_loc2` ='%s devient enragé! '  where `en
 UPDATE `locales_creature_text` SET `text_loc2` ='%s devient enragé! '  where `entry` = 28803 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s devient enragé! '  where `entry` = 28902 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s devient enragé! '  where `entry` = 28918 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='%s est pris de frénésie ! '  where `entry` = 28922 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 28939 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 28988 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 29007 and `textgroup` = 0 and `id` = 0;
@@ -451,10 +510,12 @@ UPDATE `locales_creature_text` SET `text_loc2` ='%s devient enragé! '  where `en
 UPDATE `locales_creature_text` SET `text_loc2` ='%s devient enragé! '  where `entry` = 30284 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 30319 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s devient enragé! '  where `entry` = 30329 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='%s est pris de frénésie ! '  where `entry` = 30453 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 30632 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 30755 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 30860 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s devient enragé! '  where `entry` = 30922 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='%s est pris de frénésie ! '  where `entry` = 30951 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s devient enragé! '  where `entry` = 31104 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 31145 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 31267 and `textgroup` = 0 and `id` = 0;
@@ -492,6 +553,7 @@ UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur !
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 34419 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s devient enragé! '  where `entry` = 34499 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 34503 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='%s est pris de frénésie ! '  where `entry` = 34545 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s devient enragé! '  where `entry` = 34560 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 34590 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s devient enragé! '  where `entry` = 34592 and `textgroup` = 0 and `id` = 0;
@@ -500,7 +562,14 @@ UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur !
 UPDATE `locales_creature_text` SET `text_loc2` ='%s devient enragé! '  where `entry` = 34733 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 34790 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 34846 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='%s est pris de frénésie ! '  where `entry` = 34931 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='%s est pris de frénésie ! '  where `entry` = 34934 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='%s est pris de frénésie ! '  where `entry` = 34937 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='%s est pris de frénésie ! '  where `entry` = 34939 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='%s est pris de frénésie ! '  where `entry` = 34941 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='%s est pris de frénésie ! '  where `entry` = 34947 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 34969 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='%s est pris de frénésie ! '  where `entry` = 35012 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 35154 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 35333 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 35452 and `textgroup` = 0 and `id` = 0;
@@ -523,8 +592,10 @@ UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur !
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 36828 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 36832 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 37178 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='A l\'attaque !!! '  where `entry` = 37200 and `textgroup` = 2 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 37214 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 37712 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='%s est pris de frénésie ! '  where `entry` = 37813 and `textgroup` = 11 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 38032 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 38926 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s devient enragé! '  where `entry` = 39096 and `textgroup` = 0 and `id` = 0;
@@ -570,6 +641,7 @@ UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur !
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 48012 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 48041 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 48043 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='%s est pris de frénésie ! '  where `entry` = 48262 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 48278 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 48417 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 48418 and `textgroup` = 0 and `id` = 0;
@@ -590,5 +662,16 @@ UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur !
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 49854 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s devient enragé! '  where `entry` = 50053 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s devient enragé! '  where `entry` = 51451 and `textgroup` = 0 and `id` = 0;
+UPDATE `locales_creature_text` SET `text_loc2` ='%s devient enragé ! '  where `entry` = 51712 and `textgroup` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='%s tente de fuir dans la peur ! '  where `entry` = 51776 and `textgroup` = 0 and `id` = 0;
+
+
+
+
+
+
+
+
+
+
 
