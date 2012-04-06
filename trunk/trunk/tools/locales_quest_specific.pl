@@ -164,7 +164,7 @@ while ($ligne = <$questId> ) {
 			};
 			
 			#################END SQL#################
-			print locales_quest_fr "WHERE Title_loc2` = '' and `entry` = ".$sql{ 'entry' }.";\n";
+			print locales_quest_fr "WHERE `Title_loc2` = '' and `entry` = ".$sql{ 'entry' }.";\n";
 		}
 	}
 	close locales_quest_fr;
