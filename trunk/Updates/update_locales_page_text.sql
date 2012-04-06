@@ -81,7 +81,7 @@ Maître Mathias Shaw
 Guilde des Assassins de Hurlevent' WHERE entry = 44;
 UPDATE locales_page_text SET entry = 45, Text_loc2 = 'Bon travail, matelot ! Maintenant il va falloir cingler vers l\'est. À l\'est, vers le haut des falaises, à l\'est vers la route. Cherchez les ruines des vieilles cheminées, au bord de la route. Là, vous trouverez un vieux tonneau qui contient l\'indice suivant.' WHERE entry = 45;
 UPDATE locales_page_text SET entry = 46, Text_loc2 = 'À partir de ce tonneau, tournez-vous vers le nord. Marchez droit comme une bande de cadets qui va au réfectoire, jusqu\'à ce que vous voyiez la cruche vide, à côté du moulin à vent solitaire, sur les falaises. Si vous farfouillez autour de cette cruche, vous pourrez bien trouver ce que vous cherchez.' WHERE entry = 46;
-UPDATE locales_page_text SET entry = 47, Text_loc2 = null WHERE entry = 47;
+
 UPDATE locales_page_text SET entry = 48, Text_loc2 = 'Onglenoirs--
 La mer nous attend. Nous avons besoin de vos fournitures venant du Nord. Prenez tout : chaque poteau, chaque baquet. On a besoin de métal. Une cargaison devait venir de BB mais on l\'attend toujours. Venez à moi, Onglenoirs. Envoyez vos fournitures directement à la "grange" cette fois. Plus de temps à perdre.
 --VanCleef' WHERE entry = 48;
@@ -272,7 +272,7 @@ Les chasseurs étaient désormais les proies.' WHERE entry = 118;
 UPDATE locales_page_text SET entry = 119, Text_loc2 = 'J\'ai mené le groupe jusqu\'à la mer, espérant que le rivage nous fournirait une protection contre les raptors. Dans notre hâte, nous sommes allés trop loin vers le nord, jusqu\'à un promontoire dangereusement escarpé. Erreur fatale. Ma faute. Nous nous sommes retrouvés bloqués sur une corniche, les raptors à quelques pas derrière nous.' WHERE entry = 119;
 UPDATE locales_page_text SET entry = 120, Text_loc2 = 'Je fis lentement un pas en avant, arme levée. J\'avais conduit ces braves chasseurs à leur mort. J\'étais prêt à mourir en tentant de les défendre. Les raptors flagellants sont particulièrement féroces, réputés pour leur inextinguible soif de sang. Ils étaient beaucoup plus nombreux que nous. Mais je n\'allais pas les laisser me tuer ainsi que mes camarades sans d\'abord verser un peu de leur sang.' WHERE entry = 120;
 UPDATE locales_page_text SET entry = 121, Text_loc2 = 'Ajeck et sire Erlgadin ont préparé leurs armes, un à chacun de mes flancs, nos dos tournés vers la mer. Barnil a laissé échapper un soupir et a levé sa hache. Les flagellants étaient presque sur nous. Ils avançaient moins vite. Ils savaient que leurs proies étaient piégées.' WHERE entry = 121;
-UPDATE locales_page_text SET entry = 149, Text_loc2 = null WHERE entry = 149;
+
 UPDATE locales_page_text SET entry = 152, Text_loc2 = 'Ajeck et sire Erlgadin ont préparé leurs armes, un à chacun de mes flancs, nos dos tournés vers la mer. Barnil a laissé échapper un soupir et a levé sa hache. Les flagellants étaient presque sur nous. Ils avançaient moins vite. Ils savaient que leurs proies étaient piégées.' WHERE entry = 152;
 UPDATE locales_page_text SET entry = 153, Text_loc2 = 'Notre première journée s\'est aussi bien déroulée qu\'on pouvait l\'espérer. Nous avons surtout œuvré à préparer l\'établissement d\'un campement. J\'ai repéré un emplacement idéal près d\'une rivière. À en juger par les vieux quais abandonnés qui s\'y trouvent, ce site a été habité naguère. Quant aux anciens habitants, le temps nous dira peut-être ce qu\'ils sont devenus.' WHERE entry = 153;
 UPDATE locales_page_text SET entry = 154, Text_loc2 = 'Pour cette expédition, j\'ai réuni Ajeck Rouack et sire S. J. Erlgadin, ainsi que mon fidèle serviteur Barnil Potepierre. J\'ai combattu aux côtés du père d\'Ajeck dans bien des batailles au service de l\'Alliance. La voir grandir a été quelque chose de très particulier. Son père l\'a bien formée dans les arts du maniement d\'armes. Et en voyant son habileté à l’arc, je me demande si elle n’a pas du sang elfe dans les veines.' WHERE entry = 154;
@@ -459,8 +459,7 @@ Mais vous verrez cela rapidement par vous-même.
 -L\'Embaumeur' WHERE entry = 235;
 UPDATE locales_page_text SET entry = 236, Text_loc2 = 'À travers l\'étude de différentes créatures fossilisées, j\'ai déduit que dans les temps anciens, une grande peste a ravagé les eaux du lac Lordamere. Quelle en fut la cause ? Nous ne le saurons peut-être jamais. Mais le taux de contamination paraît très élevé à en juger par la forte concentration de restes présents partout dans le lit du lac.' WHERE entry = 236;
 UPDATE locales_page_text SET entry = 237, Text_loc2 = 'Dans un effort pour comprendre le passé, j\'ai commencé à examiner les créatures du présent dans l\'espoir de trouver la chaînon manquant de ce mystère. Les furtifs et les rampants du lac sont des bêtes anciennes qui habitent les îles au centre du lac Lordamere. Une certaine mousse pousse sur leur corps qui évoque fortement certains éléments trouvés sur les fossiles. D\'autres recherches sont nécessaires avant que je ne puisse émettre une hypothèse.' WHERE entry = 237;
-UPDATE locales_page_text SET entry = 238, Text_loc2 = null WHERE entry = 238;
-UPDATE locales_page_text SET entry = 243, Text_loc2 = null WHERE entry = 243;
+
 UPDATE locales_page_text SET entry = 244, Text_loc2 = 'Seigneur Bethor Glacéclat,
 Suivant vos instructions, je vous envoie l\'agent que vous avez demandé. C\'est le porteur de ce message.
 Cette personne s\'est révélée fiable et capable d\'obéir aux ordres, a su affronter les forces du Fléau, et son choix s\'impose pour votre mission.
@@ -535,7 +534,7 @@ Mineur Sidney
 Dettes en instance. Paiement dû lors de la prochaine livraison de minerai en provenance de Veine-azur.
 Mineur Hackett
 Dettes en instance. Paiement dû lors de la prochaine livraison de minerai en provenance de Veine-azur.' WHERE entry = 263;
-UPDATE locales_page_text SET entry = 264, Text_loc2 = null WHERE entry = 264;
+
 UPDATE locales_page_text SET entry = 265, Text_loc2 = 'Mineur Orwell
 Dettes en instance. Paiement dû lors de la prochaine livraison de minerai en provenance de Veine-azur.
 Mineur Fitzgerald
@@ -700,13 +699,7 @@ Mon plan nécessitait que les deux ponts soient détruits simultanément. Et qu\
 Il vous reste une chance de vous racheter. Nous avons une cache d\'explosifs dans les hautes-terres d\'Arathi, non loin du pont.  
 Finissez le travail si vous tenez à vos pitoyables existences !
 -Kam Furie-du-fond' WHERE entry = 316;
-UPDATE locales_page_text SET entry = 317, Text_loc2 = null WHERE entry = 317;
-UPDATE locales_page_text SET entry = 318, Text_loc2 = null WHERE entry = 318;
-UPDATE locales_page_text SET entry = 319, Text_loc2 = null WHERE entry = 319;
-UPDATE locales_page_text SET entry = 320, Text_loc2 = null WHERE entry = 320;
-UPDATE locales_page_text SET entry = 321, Text_loc2 = null WHERE entry = 321;
-UPDATE locales_page_text SET entry = 322, Text_loc2 = null WHERE entry = 322;
-UPDATE locales_page_text SET entry = 323, Text_loc2 = null WHERE entry = 323;
+
 UPDATE locales_page_text SET entry = 324, Text_loc2 = 'S\'élevant en tour d\'eau au-dessus de l\'océan, Neptulon envoya les grands krakkens détruire I\'lalai. Si hautes étaient leurs formes que des jungles de varech palpitaient entre leurs côtes, et les léviathans bourdonnaient sur tout leur corps.  
 Le plus grand des Krakkens leva alors ses bras et frappa puissamment la mer, envoyant des raz-de-marée autour de lui. Puis tous se mirent en route vers I\'lalai.' WHERE entry = 324;
 UPDATE locales_page_text SET entry = 325, Text_loc2 = 'Les Krakkens rugirent et leurs voix éclatèrent comme des typhons : 
@@ -738,9 +731,7 @@ Jamais ne fut trouvé Min\'loth le Serpent.' WHERE entry = 331;
 UPDATE locales_page_text SET entry = 332, Text_loc2 = 'Et le chef Var\'gazul, à l\'abri dans les montagnes de Zul\'Gurub, s\'enfonça dans la jungle et la trouva vidée de son peuple.
 Il fut pris de désespoir, car ses rêves de conquête étaient anéantis.
 Jamais ne fut trouvé Min\'loth le Serpent.' WHERE entry = 332;
-UPDATE locales_page_text SET entry = 333, Text_loc2 = null WHERE entry = 333;
-UPDATE locales_page_text SET entry = 334, Text_loc2 = null WHERE entry = 334;
-UPDATE locales_page_text SET entry = 335, Text_loc2 = null WHERE entry = 335;
+
 UPDATE locales_page_text SET entry = 336, Text_loc2 = 'Aux Schneider,
 Salutations. J\'espère que les affaires vont bien. Dans le quartier commerçant, c\'est l\'explosion.
 Nous avons grand besoin de tricots, car nos stocks sont vides. Veuillez nous envoyer le chargement habituel dès que vous le pourrez.
@@ -867,7 +858,7 @@ UPDATE locales_page_text SET entry = 382, Text_loc2 = 'Durant leur progression, 
 Nos agents ont été attaqués et bien qu\'ils aient réussi à vaincre leurs assaillants, certains d\'entre eux ont été sérieusement blessés, notamment l\'agent Quinn.' WHERE entry = 382;
 UPDATE locales_page_text SET entry = 383, Text_loc2 = 'Une position défensive a été adoptée dans la vieille maison d\'Ivar, et tandis que Rane montait la garde, Erland a continué la reconnaissance.
 Erland a alors été cloué dans un verger du Nord par des worgs et n\'a réussi à s\'échapper qu\'avec l\'aide d\'un autre agent des Réprouvés. Cet agent est la personne qui apporte ce rapport.' WHERE entry = 383;
-UPDATE locales_page_text SET entry = 384, Text_loc2 = null WHERE entry = 384;
+
 UPDATE locales_page_text SET entry = 386, Text_loc2 = 'Il faut noter que le messager a été essentiel au succès de notre mission, mais a également battu Ivar l\'Infect, secouru Erland et accepté de porter ce rapport.
 Nous lui sommes très reconnaissants et nous recommandons au commandement de récompenser cette glorieuse conduite à hauteur de ce qu\'elle mérite.
 -Nécrotraqueur Rane Yorick,
@@ -1212,7 +1203,7 @@ Il n\'a rien demandé aux autres qu\'il n\'était prêt à faire lui-même.' WHE
 UPDATE locales_page_text SET entry = 696, Text_loc2 = 'Journal - Jour 4
 Cela fait maintenant 4 jours que je me suis échoué sur l\'île et que je suis seul perdu dans mes pensées. Les bananes sont très goûteuses, mais c\'est une véritable partie d\'escalade pour les atteindre. Lorsque je ne suis pas à la recherche de nourriture ou d\'un abri contre les pluies diluviennes, je ne pense qu\'à un hypothétique secours.
 Je ne caresserais pas un tel espoir si des caisses de bouteilles et de papiers ne s\'étaient pas échouées sur le rivage. Quelle ironie quand je repense à tout ce temps passé sur ce navire, me plaignant d\'être coincé à bord de ce rafiot avec tous ces Alchimistes et Scribes.' WHERE entry = 696;
-UPDATE locales_page_text SET entry = 697, Text_loc2 = null WHERE entry = 697;
+
 UPDATE locales_page_text SET entry = 698, Text_loc2 = 'Les terres d\'Azeroth recèlent d’innombrables merveilles. La flore, la faune, les cultures et la magie cohabitent à sa surface. En effet, les curieux trouveront une diversité sans borne dans ce monde. Il n\'y a qu\'à regarder.
 Mais si vous observez plus attentivement, vous noterez des fenêtres conduisant vers de nouveaux mondes qui accueillent chacun leur lot de merveilles.
 De même, chacun de ces mondes possède son lot d\'horreurs.' WHERE entry = 698;
@@ -1251,7 +1242,7 @@ UPDATE locales_page_text SET entry = 714, Text_loc2 = 'Il faut dire que nous, le
 Et je ne voudrais pas qu\'il en soit autrement.
 Neeka Balafre-sanglante
 Chef éclaireur, Kargath' WHERE entry = 714;
-UPDATE locales_page_text SET entry = 730, Text_loc2 = null WHERE entry = 730;
+
 UPDATE locales_page_text SET entry = 731, Text_loc2 = '<HTML>
 <BODY>
 <BR/>
@@ -1296,7 +1287,7 @@ LM = largeur des moustaches
 GGM = gramme grosso modo
 CO = courbure des orteils' WHERE entry = 751;
 UPDATE locales_page_text SET entry = 752, Text_loc2 = 'Salut. Apportez cette lettre à Frang dans la Vallée des épreuves. On le trouve en général en dehors de l\'Antre, formant à la dure de jeunes guerriers pour la Horde.$b$bIl a besoin de guerriers astucieux comme vous pour montrer aux orcs comment se battre avec autre chose que leurs muscles. Vous êtes plus rapide et plus habile que la plupart, mais ne vous vantez pas de ces choses-là. Les orcs prennent assez mal ce genre d\'insultes. Ils sont de bons alliés et ils vous apprendront peut-être une chose ou deux.$b$b-Tar\'sere' WHERE entry = 752;
-UPDATE locales_page_text SET entry = 770, Text_loc2 = null WHERE entry = 770;
+
 UPDATE locales_page_text SET entry = 771, Text_loc2 = 'NOURRITURE ET SOINS :
 Nous nous engageons à vous fournir tout ce dont votre familier a besoin. Nos clients savent que la Sniff SARL offre un service sans comparaison et rien n\'est plus vrai !
 Dans cette optique, nous avons créé de solides caisses pour écureuils possédant de petits trous qui apportent sécurité, confort et obscurité.
@@ -1305,9 +1296,7 @@ UPDATE locales_page_text SET entry = 790, Text_loc2 = 'NOURRITURE ET SOINS :
 Nous nous engageons à vous fournir tout ce dont votre familier a besoin. Nos clients savent que la Sniff SARL offre un service sans comparaison et rien n\'est plus vrai !
 Dans cette optique, nous avons créé de solides caisses pour écureuils possédant de petits trous qui apportent sécurité, confort et obscurité.
 À des fins pratiques, chaque caisse est équipée d\'un distributeur de nourriture diffusant l\'odeur appétissante de la racine de feuillebleue (l\'aliment préféré des écureuils Sniffetarin) !' WHERE entry = 790;
-UPDATE locales_page_text SET entry = 791, Text_loc2 = null WHERE entry = 791;
-UPDATE locales_page_text SET entry = 792, Text_loc2 = null WHERE entry = 792;
-UPDATE locales_page_text SET entry = 793, Text_loc2 = null WHERE entry = 793;
+
 UPDATE locales_page_text SET entry = 794, Text_loc2 = 'Notre monde regorge d\'événements historiques. L\'histoire des races, nouvelles et anciennes. L\'histoire des guerres depuis longtemps terminées et celle des conflits encore brûlants.
 L\'histoire des dieux et leurs apparitions. Sans compter d\'anciens dieux qui sommeillent dans les entrailles de la terre.
 Je parle des Dieux très anciens. Ceux qui habitèrent et façonnèrent Azeroth lorsque le monde était encore jeune.' WHERE entry = 794;
@@ -1321,9 +1310,7 @@ Lorgalis' WHERE entry = 797;
 UPDATE locales_page_text SET entry = 810, Text_loc2 = 'Aku\'mai, princesse des profondeurs, sert les Dieux très anciens. Elle habite dans les profondeurs de Brassenoire et emplit ses cavernes de son ancestrale sagesse. Menée dans ces profondeurs par les anciens mortels, Aku\'mai est un symbole de la divinité. Elle a hérité de la puissance et de la sauvagerie des Dieux très anciens et sa soif de pouvoir ne connaît pas de limites.
 Un culte lui est dédié. Elle est crainte et aimée.
 Lorgalis' WHERE entry = 810;
-UPDATE locales_page_text SET entry = 811, Text_loc2 = null WHERE entry = 811;
-UPDATE locales_page_text SET entry = 812, Text_loc2 = null WHERE entry = 812;
-UPDATE locales_page_text SET entry = 830, Text_loc2 = null WHERE entry = 830;
+
 UPDATE locales_page_text SET entry = 831, Text_loc2 = 'Dans les pages suivantes, vous trouverez la liste des matériaux nécessaires pour construire une armure en acier trempé. Bonne chance, guerrier.
 -Furen Barbe-longue' WHERE entry = 831;
 UPDATE locales_page_text SET entry = 832, Text_loc2 = 'Crocs d\'araignée brûlés :
@@ -1382,10 +1369,9 @@ UPDATE locales_page_text SET entry = 877, Text_loc2 = 'Une gemme de Kor - D\'apr
 Lorsque nous avons parlé pour la dernière fois, Thundris était à Auberdine, au fond de Sombrivage, la forêt corrompue qui longe la côte et la terre natale des elfes de la nuit.' WHERE entry = 877;
 UPDATE locales_page_text SET entry = 890, Text_loc2 = 'Une gemme de Kor - D\'après les contes que j\'ai entendus, les gemmes sont utilisées par des lanceurs de sorts pour contenir l\'énergie dont leur magie a besoin, ce qui la rend plus mortelle encore. Un elfe de la nuit que j\'ai aidé, Thundris Tissevent, vous en dira plus si vous l\'interrogez en mon nom. Je crois que l\'une des énergies des gemmes peut servir à la création de votre arme.
 Lorsque nous avons parlé pour la dernière fois, Thundris était à Auberdine, au fond de Sombrivage, la forêt corrompue qui longe la côte et la terre natale des elfes de la nuit.' WHERE entry = 890;
-UPDATE locales_page_text SET entry = 891, Text_loc2 = null WHERE entry = 891;
-UPDATE locales_page_text SET entry = 910, Text_loc2 = null WHERE entry = 910;
+
 UPDATE locales_page_text SET entry = 911, Text_loc2 = 'Trouvez du jade. ll y en a à différents endroits. C\'est une denrée rare, mais si vous parlez avec un forgeron ou un ingénieur, ils en auront peut-être un peu en réserve.' WHERE entry = 911;
-UPDATE locales_page_text SET entry = 912, Text_loc2 = null WHERE entry = 912;
+
 UPDATE locales_page_text SET entry = 930, Text_loc2 = 'Trouvez du jade. ll y en a à différents endroits. C\'est une denrée rare, mais si vous parlez avec un forgeron ou un ingénieur, ils en auront peut-être un peu en réserve.' WHERE entry = 930;
 UPDATE locales_page_text SET entry = 931, Text_loc2 = '$N, voici les objets nécessaires pour créer votre armure :
 Lingots de fer cendré des kobolds de la mine des Cisailles des Serres-Rocheuses.
@@ -1489,7 +1475,7 @@ Le coup fut si rapide et violent que le pauvre bougre n\'a pas eu le temps de po
 UPDATE locales_page_text SET entry = 1053, Text_loc2 = 'Il semble que ce que Klaven a enfermé dans le coffre ait des effets nocifs sur les habitants de la tour. Je pense que les autres gardes souffrent des mêmes faiblesses. Peut-être que Klaven lui-même en subit les conséquences.
 Agent Amber Kearnen
 Agent de terrain du SI:7, R8' WHERE entry = 1053;
-UPDATE locales_page_text SET entry = 1071, Text_loc2 = null WHERE entry = 1071;
+
 UPDATE locales_page_text SET entry = 1090, Text_loc2 = 'Il semble que ce que Klaven a enfermé dans le coffre ait des effets nocifs sur les habitants de la tour. Je pense que les autres gardes souffrent des mêmes faiblesses. Peut-être que Klaven lui-même en subit les conséquences.
 Agent Amber Kearnen
 Agent de terrain du SI:7, R8' WHERE entry = 1090;
@@ -1560,7 +1546,7 @@ Bonne chasse !' WHERE entry = 1214;
 UPDATE locales_page_text SET entry = 1231, Text_loc2 = 'Cette preuve atteste que $N a tué Margol l\'Enragée, fléau de la gorge des Vents brûlants.
 Le musée de Forgefer reconnaît cet exploit, remercie le porteur de la nouvelle et se réjouit de cette généreuse contribution.
 -Conservateur en chef Thorius Soignepierre' WHERE entry = 1231;
-UPDATE locales_page_text SET entry = 1251, Text_loc2 = null WHERE entry = 1251;
+
 UPDATE locales_page_text SET entry = 1270, Text_loc2 = 'La Sniff SARL se doit malheureusement de signaler que certains chasseurs de racines mettent en danger la vie de leur adorable animal en l\'envoyant rechercher des racines dans des recoins sombres et dangereux.
 Nous ne cautionnons pas de telles attitudes, mais afin de satisfaire nos clients, nous avons inclus une garantie. Lorsque vous achetez un écureuil et que vous le perdez, vous avez la possibilité de demander un nouvel écureuil à votre point de vente.
 Bonne chasse !' WHERE entry = 1270;
@@ -1579,7 +1565,7 @@ UPDATE locales_page_text SET entry = 1276, Text_loc2 = 'Citations
 —Ringo Tragediction, ingénieur gnome
 "Vous pouvez dire ce que vous voulez sur nous, les gobelins, mais sachez une chose : NOUS AVONS DES EXPLOSIFS !"
 —Yazz Nitrospork, bombardier gobelin' WHERE entry = 1276;
-UPDATE locales_page_text SET entry = 1277, Text_loc2 = null WHERE entry = 1277;
+
 UPDATE locales_page_text SET entry = 1291, Text_loc2 = 'L\'invocation de la créature :
 Pour invoquer un gangrechien traqueur, vous devez utiliser l\'Orbe corrompu fourni.
 Notes :
@@ -1594,7 +1580,7 @@ UPDATE locales_page_text SET entry = 1293, Text_loc2 = 'Se défaire de la créat
 Au bout de trente minutes, la bête retournera chez elle dans le Néant.
 Note :
 Dans son excitation, la bête PEUT tomber d\'une falaise ou d\'une montagne. Ne pleurez pas la perte d\'un gangrechien traqueur, invoquez-en un autre.' WHERE entry = 1293;
-UPDATE locales_page_text SET entry = 1310, Text_loc2 = null WHERE entry = 1310;
+
 UPDATE locales_page_text SET entry = 1311, Text_loc2 = 'Aux intéressés :
  Si vous êtes en train de lire cette note, c\'est que vous êtes dans l\'un des deux endroits suivants :
 (1) Sur la péninsule sud d\'Azshara.
@@ -2375,8 +2361,7 @@ UPDATE locales_page_text SET entry = 2109, Text_loc2 = 'L\'armada de Portvaillan
 UPDATE locales_page_text SET entry = 2110, Text_loc2 = 'Le Grand amiral força Jaina à prendre une terrible décision : le soutenir au combat contre les orcs et trahir ses nouveaux alliés, ou combattre son propre père pour maintenir la paix fragile que l\'Alliance et la Horde avaient enfin établie. Après bien des hésitations, Jaina choisit la dernière solution et aida Thrall à vaincre son père.' WHERE entry = 2110;
 UPDATE locales_page_text SET entry = 2111, Text_loc2 = 'Malheureusement, l\'amiral Portvaillant mourut au combat avant que Jaina ne puisse se réconcilier avec lui ni lui prouver que les orcs n\'étaient plus des monstres assoiffés de sang. En remerciement de sa loyauté, les orcs permirent à Jaina et à ses forces de revenir en toute sécurité à Theramore.' WHERE entry = 2111;
 UPDATE locales_page_text SET entry = 2130, Text_loc2 = 'Malheureusement, l\'amiral Portvaillant mourut au combat avant que Jaina ne puisse se réconcilier avec lui ni lui prouver que les orcs n\'étaient plus des monstres assoiffés de sang. En remerciement de sa loyauté, les orcs permirent à Jaina et à ses forces de revenir en toute sécurité à Theramore.' WHERE entry = 2130;
-UPDATE locales_page_text SET entry = 2131, Text_loc2 = null WHERE entry = 2131;
-UPDATE locales_page_text SET entry = 2150, Text_loc2 = null WHERE entry = 2150;
+
 UPDATE locales_page_text SET entry = 2151, Text_loc2 = 'Arellas Feuillefeu
 Grand mage de la Croisade écarlate 
 Citoyen de Quel\'Thalas 
@@ -2496,14 +2481,11 @@ Grande prêtresse de Hurlevent
 Protectrice des réfugiés qui ont fui vers Lordaeron après la Première Guerre.
 Elle fut la mère lumineuse de notre avenir. Puisse-t-elle reposer dans la Lumière.' WHERE entry = 2294;
 UPDATE locales_page_text SET entry = 2295, Text_loc2 = 'Avant l\'Age de la Mémoire, la douce Terre-mère respirait dans les brumes dorées de l\'aube. Lorsque les nuages d\'ambre se posèrent pour le repos, d\'innombrables champs de blé et d\'orge apparurent. Telle fut la mer primordiale de son travail, la grande vasque de la vie et de l\'espoir.' WHERE entry = 2295;
-UPDATE locales_page_text SET entry = 2296, Text_loc2 = null WHERE entry = 2296;
-UPDATE locales_page_text SET entry = 2297, Text_loc2 = null WHERE entry = 2297;
+
 UPDATE locales_page_text SET entry = 2298, Text_loc2 = 'Tandis que les enfants de la terre erraient sur les champs de l\'aube, ils prêtèrent l\'oreille à de sombres murmures qui montaient des profondeurs du monde. Les murmures apprirent aux enfants les arts de la guerre et de la tromperie. Nombre de Shu\'halo tombèrent sous le charme des ombres et se livrèrent au mensonge et à la cruauté. Ils tournèrent le dos à leurs frères purs et répandirent leur corruption sur les plaines.' WHERE entry = 2298;
-UPDATE locales_page_text SET entry = 2299, Text_loc2 = null WHERE entry = 2299;
-UPDATE locales_page_text SET entry = 2300, Text_loc2 = null WHERE entry = 2300;
+
 UPDATE locales_page_text SET entry = 2301, Text_loc2 = 'Dans le coeur brave de ses enfants purs, la Terre-mère plaça l\'amour de la chasse. Car les créatures de la première aube étaient sauvages et pleines de fureur. Elles se cachèrent de la Terre-mère, trouvant refuge dans les ombres et les terres sauvages de la région. Les Shu\'halo chassèrent les bêtes partout où ils le purent et se les assujettirent avec la bénédiction de la Terre-mère.' WHERE entry = 2301;
-UPDATE locales_page_text SET entry = 2302, Text_loc2 = null WHERE entry = 2302;
-UPDATE locales_page_text SET entry = 2303, Text_loc2 = null WHERE entry = 2303;
+
 UPDATE locales_page_text SET entry = 2304, Text_loc2 = 'Dame Mara Fordragon
 Grande prêtresse de Hurlevent
 Protectrice des réfugiés qui ont fui vers Lordaeron après la Première Guerre.
@@ -2512,7 +2494,7 @@ UPDATE locales_page_text SET entry = 2305, Text_loc2 = 'En temps voulu, l\'enfan
 UPDATE locales_page_text SET entry = 2306, Text_loc2 = 'Enfin, Cénarius devint l\'ami des Shu\'halo et leur enseigna les mystères du monde. Les enfants de la terre le considéraient comme un frère et jurèrent de l\'aider à maintenir les champs de la vie et à préserver les créatures de leur grande Terre-mère.' WHERE entry = 2306;
 UPDATE locales_page_text SET entry = 2307, Text_loc2 = 'Cénarius apprit aux enfants de la terre à parler aux plantes et aux arbres. Les Shu\'halo devinrent des druides et, grâce à la magie, bercèrent la terre de leurs soins. Pendant des générations, les Shu\'halo chassèrent avec Cénarius et gardèrent le monde à l\'abri des ombres qui grouillaient sous sa surface.' WHERE entry = 2307;
 UPDATE locales_page_text SET entry = 2308, Text_loc2 = 'Tandis que les brumes de l\'Aube se dissipaient et que l\'Âge de la mémoire avançait, le demi-dieu Cénarius partit à travers les champs du monde. Les Shu\'halo (taurens) furent désolés de son départ et oublièrent les connaissances druidiques qu\'ils tenaient de lui. Tandis que les générations se succédaient, ils oublièrent le langage des arbres et des animaux. Les sombres murmures des profondeurs du monde montèrent de nouveau jusqu\'à leurs oreilles.' WHERE entry = 2308;
-UPDATE locales_page_text SET entry = 2309, Text_loc2 = null WHERE entry = 2309;
+
 UPDATE locales_page_text SET entry = 2310, Text_loc2 = 'Les Shu\'halo ont dû quitter leurs terres ancestrales et errent depuis, nomades, sur les plaines sans limite. L\'espoir était censé renaître un jour, et les tribus dispersées des Shu\'halo trouveraient alors un nouveau foyer dans les bras de la Terre-mère.' WHERE entry = 2310;
 UPDATE locales_page_text SET entry = 2311, Text_loc2 = 'Ce squelette de ptéradon intact a été retrouvé dans le lointain cratère d\'Un\'Goro. D\'après la structure du squelette, on peut affirmer que cette espèce n\'a encore jamais été rencontrée. Il pourrait avoir été préservé pendant des siècles dans le riche humus de la région.' WHERE entry = 2311;
 UPDATE locales_page_text SET entry = 2350, Text_loc2 = 'Ce squelette intact de ptéradon a été découvert dans le lointain cratère d\'Un\'Goro. D\'après la structure du squelette, il apparaît clairement que cette espèce n\'a encore jamais été rencontrée. Ce squelette pourrait avoir été préservé pendant des siècles dans le riche sol de la région.' WHERE entry = 2350;
@@ -2588,14 +2570,14 @@ L\'opposition de Kael\'thas Haut-soleil à ma décision d\'accueillir Nathanos M
 UPDATE locales_page_text SET entry = 2432, Text_loc2 = 'Je n\'ai jamais été aussi fier de travailler dans ce commerce que lors de ces dernières années. Le besoin en assassins, espions et éclaireurs n\'a jamais été aussi important. Vous pourriez penser que les périodes de guerre entraînent une forte demande, mais curieusement, elles ne sont pas aussi rentables que des temps comme les nôtres, quand la paix commence à se détériorer.$B$BJ\'ai entendu dire que vous cherchiez à apprendre quelques trucs. Quand vous aurez le temps, venez me voir près des écuries derrière l\'abbaye.$B$B-Jorik Kerridan, maître des voleurs' WHERE entry = 2432;
 UPDATE locales_page_text SET entry = 2433, Text_loc2 = 'Vous vous attendiez à une note normale de votre roi ou je ne sais qui, pas vrai ? Disons que je sais deux ou trois choses sur l\'art des faussaires et je voulais m\'assurer que vous alliez recevoir ce message. Je ne peux pas me permettre d\'attirer l\'attention sur moi !$B$BJe me suis introduit dans Courbenclume, vous me trouverez près de la fosse à feu. Quand vous le pourrez, venez me voir. Je veux juste vous rencontrer pendant que nous le pouvons encore.$B$B-Solm Hargrin, Maître des voleurs' WHERE entry = 2433;
 UPDATE locales_page_text SET entry = 2434, Text_loc2 = 'Je vous transmets mes salutations, $N. J\'étais perdu dans mes pensées, quand il m\'est venu à l\'esprit que j\'avais besoin de vous écrire.$B$BBeaucoup d\'entre nous, dans notre culture, louent nos chamans car ils sont nos chefs spirituels, comme notre grand Chef de guerre. D\'autres pensent que l\'épée et la hache sont des activités plus nobles, mais n\'oubliez jamais que les batailles, et même les guerres, sont gagnées à l\'aide de compétences plus spécialisées. C\'est de cela dont je souhaite vous entretenir, $N. Retrouvez-moi au fond de l\'Antre dans la Vallée des épreuves.$B$B-Rwag, Maître des voleurs' WHERE entry = 2434;
-UPDATE locales_page_text SET entry = 2435, Text_loc2 = null WHERE entry = 2435;
+
 UPDATE locales_page_text SET entry = 2436, Text_loc2 = 'Prenez garde à ne pas ignorer mes paroles, $N. Voici venue l\'heure des subterfuges et des mensonges parmi toutes les nations... même dans notre chère Undercity. Tous ceux qui sont loyaux à Sylvanas travaillent pour construire une nouvelle ère, une ère où les Réprouvés auront le pouvoir. Et même si nous ne possédons pas de compétences magiques, et que nous ne défendons pas nos frontières par les armes, nous avons tout de même un rôle à jouer.$B$BVenez me trouver dans l\'auberge du Glas. Nous parlerons davantage.$B$B-David Trias, Maître des voleurs' WHERE entry = 2436;
 UPDATE locales_page_text SET entry = 2437, Text_loc2 = 'Sael\'ah, j\'espère que ce message vous trouvera en pleine forme. On m\'a demandé de vous offrir mes services. Je suis moi aussi à Sombrevallon, dans le Grand arbre d\'Aldrassil, et je voulais vous faire savoir que si vous avez besoin d\'une formation plus poussée, vous pouvez venir me voir.$B$BEn ces temps difficiles, je crois prudent que ceux qui ont l\'ombre pour vocation restent proches les uns des autres. Comment, sans cela, pourrions-nous protéger Teldrassil et notre manière de vivre ?$B$BVous me trouverez quand vous en aurez besoin.$B$B-Frahun Murmombre, Maître des voleurs' WHERE entry = 2437;
 UPDATE locales_page_text SET entry = 2438, Text_loc2 = 'Salut, $gmon frère:ma sœur;. La Main brisée vous fait part de son respect et espère que vous trouvez la Vallée assez confortable pour y déployer votre commerce. C\'est une période d\'essai pour vous, pensez bien que vous serez sous surveillance permanente.
 Il est de mon devoir d\'estimer vos compétences, puis d\'informer la Main lorsque l\'heure sera venue pour vous d\'affronter des défis plus importants.
 Lorsque vous vous en sentirez capable, venez me trouver au fin fond de l\'Antre. Je vous attendrai là-bas.
 -Rwag, Maître des voleurs' WHERE entry = 2438;
-UPDATE locales_page_text SET entry = 2439, Text_loc2 = null WHERE entry = 2439;
+
 UPDATE locales_page_text SET entry = 2440, Text_loc2 = 'ATTENTION :$BVous devez immédiatement vous présenter devant Thran Khorman. Il se trouve dans le bâtiment A3, également connu sous le nom de Courbenclume chez les habitants des environs. Quand vous aurez réussi à prendre contact avec Khorman, vous commencerez à vous préparer pour la future guerre, la guerre qui vous permettra de reprendre possession de Gnomeregan !$B$BTous vos efforts et les tâches les plus importantes doivent converger vers ce but. Une fois ceci accompli, une nouvelle tâche vous sera donnée.' WHERE entry = 2440;
 UPDATE locales_page_text SET entry = 2441, Text_loc2 = 'Bien des tribus affirment que c\'est un don de savoir utiliser la magie ou de pouvoir parler aux ancêtres. Mais sachez que vous aussi avez des dons, $c. Il est des gens qui n\'ont pas le bras assez puissant pour tenir le bouclier, parer le coup d\'un assassin, souffrir les douleurs infligées par un maître des arcanes. Vous, si. Vous avez cette force. Et je vous aiderai à en profiter. Vous me trouverez au Camp Narache.$B$B-Harutt Corne-tonnerre, Maître des guerriers' WHERE entry = 2441;
 UPDATE locales_page_text SET entry = 2442, Text_loc2 = 'Par la barbe de Magni, nous avons beaucoup à dire, et peu de temps à y consacrer, $N. Trouvez-moi à Courbenclume, qui surplombe la vallée des Frigères, dès que vous le pourrez. Nous pourrons alors commencer.
@@ -2606,7 +2588,7 @@ UPDATE locales_page_text SET entry = 2444, Text_loc2 = 'J\'espère que mon messa
 UPDATE locales_page_text SET entry = 2445, Text_loc2 = 'Il y a quatre lois de la magie :$B$B La Magie est puissante.$B La Magie corrompt.$B La Magie est une drogue.$B La Magie attire les habitants du Néant distordu vers ceux qui manient les arcanes.$B$BCes règles existeront toujours. Ces règles gouverneront votre destinée si vous choisissez de poursuivre plus avant la voie de la magie.$B$BSi vous êtes assez stupide pour ignorer cet avertissement, alors venez me parler dans l\'aile de la bibliothèque de l\'abbaye, à Comté-du-nord. Je vous attendrai en haut.$B$B-Khelden Bremen, maître des mages' WHERE entry = 2445;
 UPDATE locales_page_text SET entry = 2446, Text_loc2 = 'Pour : Les nouveaux étudiants des Arcanes :$BVous devez chercher le gnome Marryk Nurribit et y suivre son enseignement jusqu\'à ce que vous soyez appelés à venir aider notre peuple à se trouver un nouveau foyer. Veuillez, sans angoisse excessive, vous préparer à des épreuves rigoureuses et une acclimatation difficile le temps de trouver un domicile, ou un compagnonnage avec les citoyens locaux.$B$BPosez toute question sur vos devoirs et capacités à Marrek Stromnur.' WHERE entry = 2446;
 UPDATE locales_page_text SET entry = 2447, Text_loc2 = 'Pour : Les nouveaux étudiants des Arcanes :$BVous devez chercher le gnome Marryk Nurribit et y suivre son enseignement jusqu\'à ce que vous soyez appelés à venir aider notre peuple à se trouver un nouveau foyer. Veuillez, sans angoisse excessive, vous préparer à des épreuves rigoureuses et une acclimatation difficile le temps de trouver un domicile, ou un compagnonnage avec les citoyens locaux.$B$BPosez toute question sur vos devoirs et capacités à Marrek Stromnur.' WHERE entry = 2447;
-UPDATE locales_page_text SET entry = 2448, Text_loc2 = null WHERE entry = 2448;
+
 UPDATE locales_page_text SET entry = 2449, Text_loc2 = 'Trop souvent des personnes comme les disciples du Feu sacré effraient ceux qui recherchent le vrai pouvoir en les induisant à croire qu\'ils ne peuvent maîtriser aucune forme des arcanes. Toutes les choses extérieures à ce monde ne sont pas mauvaises. Toutes les entités ne cherchent pas à dominer ou à soumettre les autres. Si vous êtes assez puissant, ces mêmes entités peuvent devenir vos disciples.$B$BC\'est quelque chose dont j\'aimerais discuter davantage avec vous. Trouvez-moi dans le cimetière situé sur le côté droit de l\'abbaye.$B$B-Drusilla La Salle, Maître des démonistes' WHERE entry = 2449;
 UPDATE locales_page_text SET entry = 2450, Text_loc2 = 'ATTENTION :
 Ne dites rien ! Ne regardez personne ! Quelqu\'un est peut-être en train de vous surveiller en ce moment même.
@@ -2617,22 +2599,21 @@ UPDATE locales_page_text SET entry = 2451, Text_loc2 = 'J\'ai écrit ce message 
 UPDATE locales_page_text SET entry = 2452, Text_loc2 = 'Pas facile de nous trouver, $N, n\'est-ce pas ? Tourmentés par le vil prince. Ostracisés par nos propres familles. Nous avons retrouvé notre volonté propre, grâce à la belle Sylvanas, mais qu\'y avons-nous gagné ? Changer de maître ne libère pas un esclave, telle est mon opinion.
 Mais si nous devenions les maîtres à notre tour ? Oui, vous me comprenez, j\'en suis certain.
 Nous sommes séparés du reste des Réprouvés, $N. Et c\'est pourquoi nous devons parler. Vous me trouverez à l\'église du Glas.' WHERE entry = 2452;
-UPDATE locales_page_text SET entry = 2453, Text_loc2 = null WHERE entry = 2453;
+
 UPDATE locales_page_text SET entry = 2454, Text_loc2 = 'Vous êtes entre de bonnes mains à présent. Jen\'shan sait que vous voulez apprendre les voies du chasseur, et elle est prête à vous y aider... Si vous voulez l\'entendre.
 Venez me voir dans la Vallée des épreuves. Jen\'shan commencera votre formation et vous montrera les arcanes du métier de chasseur.
 -Jen\'shan, Maître des chasseurs' WHERE entry = 2454;
 UPDATE locales_page_text SET entry = 2455, Text_loc2 = 'Dompteur des bêtes, maître du tir, pisteur confirmé : que peut-on accomplir de plus en une seule vie ? Toutes ces choses, une fois combinées, demandent de l\'intelligence et de la patience.$B$BLa voie du chasseur n\'est pas facile, c\'est certain. Vous aurez besoin de beaucoup d\'entraînement si vous voulez vous aligner avec le plus mauvais de nos tireurs d\'élite. Mais c\'est pour cela que je suis ici.$B$BVous me trouverez dans Courbenclume, au-dessus de la vallée des Frigères. J\'attendrai.$B$B-Thorgas Grimson, Maître des chasseurs' WHERE entry = 2455;
 UPDATE locales_page_text SET entry = 2456, Text_loc2 = 'Elune soit avec vous, $N. Les vents me murmurent bien des choses, et j\'ai plaisir à pouvoir former la prochaine génération de chasseurs.$B$BD\'après ce que j\'ai entendu, vous êtes proche d\'Aldrassil. Je vous rencontrerai dans le Grand arbre quand vous en aurez le temps.$B$BNos aînés m\'ont demandé de m\'assurer que les nouveaux chasseurs soient formés de façon appropriée, car les temps sont durs. Vous êtes encore novice, vous devriez venir me voir. Jusque là, portez-vous bien.$B$B-Ayanna Vassanfin, Maître des chasseurs' WHERE entry = 2456;
-UPDATE locales_page_text SET entry = 2457, Text_loc2 = null WHERE entry = 2457;
+
 UPDATE locales_page_text SET entry = 2458, Text_loc2 = 'Les esprits me sont apparus en rêve la nuit dernière. Ils m\'ont annoncé votre visite et m\'ont expliqué que ma tâche serait de vous aider. Nous aurons beaucoup à faire pendant le temps trop court que nous passerons ensemble : parler de la nature, des esprits, de la Terre-mère, des elfes de la nuit... Mais je vous enseignerai ces leçons à votre venue, et je ferai tout ce qui sera en mon pouvoir pour vous préparer aux épreuves à venir.$B$BQue la sagesse vous guide. J\'attendrai.$B$B-Gart Cours-la-brume, Maître des druides' WHERE entry = 2458;
 UPDATE locales_page_text SET entry = 2459, Text_loc2 = 'Lorsque j\'ai entendu dire que l\'heure pour vous était venue, j\'ai immédiatement envoyé ce glyphe. Tous les druides de Cénarius ont plaisir à voir grandir notre nombre. Les esprits semblent même avoir gagné en puissance à votre arrivée. En temps voulu, et avec un peu de patience, nous retrouverons notre grandeur passée. Vous me trouverez au sommet d\'Aldrassil quand vous le voudrez. Je serai votre guide tant que vous serez à Sombrevallon.$B$B- Mardant Chênefort, Maître des druides' WHERE entry = 2459;
 UPDATE locales_page_text SET entry = 2460, Text_loc2 = 'Je vous salue, jeune $C. Les vents m\'ont annoncé votre arrivée. La terre loue votre force. Et désormais les esprits anciens annoncent vos futurs accomplissements. Notre peuple a besoin de chefs importants et sages. Il se tourne souvent vers nous pour ces deux vertus. Si vous le désirez, je vous instruirai.$B$BTrouvez-moi dans le Camp Narache sur la Mesa de Nuage rouge. Nous discuterons plus amplement.$B$B-Meela Aube-glorieuse, Maître des chamans' WHERE entry = 2460;
-UPDATE locales_page_text SET entry = 2461, Text_loc2 = null WHERE entry = 2461;
+
 UPDATE locales_page_text SET entry = 2462, Text_loc2 = 'Salutations. Les esprits disent que vous pouvez maintenant rejoindre nos rangs. Vous avez des liens solides avec les éléments, et vous avez bien plus de puissance aujourd\'hui que lorsque vous avez commencé vos leçons avec nous.
 Je vous envoie maintenant à Shikrik, la chaman orc de la Vallée des épreuves. Elle sait déjà que vous viendrez étudier avec elle. Remplissez nos ancêtres de fierté. Jusqu\'à ce que nous nous revoyions, que la flamme vous réchauffe et que les vents vous portent.
 -Ishi-yo' WHERE entry = 2462;
-UPDATE locales_page_text SET entry = 2463, Text_loc2 = null WHERE entry = 2463;
-UPDATE locales_page_text SET entry = 2464, Text_loc2 = null WHERE entry = 2464;
+
 UPDATE locales_page_text SET entry = 2465, Text_loc2 = 'Votre connexion avec le monde, et sa connexion avec vous, sont d\'une importance vitale pour votre formation de prêtre. Sagesse et compassion vous permettront d\'aider ceux qui en ont vraiment besoin. La précipitation et la maladresse causeront des désastres et affaibliront les autres.
 Au fur et à mesure que vous comprendrez ce que cela signifie, vous aurez besoin de nouvelles techniques et de nouveaux sorts pour vous aider. C\'est là que mon rôle commence : venez me voir dans la bibliothèque de l\'abbaye de Comté-du-nord quand vous penserez l\'heure venue.
 -Prêtresse Anetta, Maître des prêtres' WHERE entry = 2465;
@@ -2644,7 +2625,7 @@ Les gens que vous avez connus naguère, que vous avez aimés peut-être, ne sont
 Si vous pensez pouvoir affronter les épreuves à venir, venez me voir dans l\'église du Glas.
 - Sombre clerc Duesten, Maître des prêtres' WHERE entry = 2467;
 UPDATE locales_page_text SET entry = 2468, Text_loc2 = 'J\'espère que vous allez bien, $N. Les esprits m\'annoncent votre venue et c\'est pour cela que je vous écris vite. J\'ai hâte de partager avec vous mon expérience et de vous guider vers les affaires importantes qui vous attendent hors de Teldrassil.$B$BAvec tout ce qui est survenu au cours des dernières années, nous pouvons faire beaucoup pour aider les autres races d\'Azeroth. Venez me voir quand vous penserez l\'heure venue, je serai à Aldrassil, au deuxième niveau.$B$B-Shanda, Maître des prêtres' WHERE entry = 2468;
-UPDATE locales_page_text SET entry = 2469, Text_loc2 = null WHERE entry = 2469;
+
 UPDATE locales_page_text SET entry = 2471, Text_loc2 = 'Durant des millénaires nous nous sommes isolés des étrangers. Je serai la première à admettre que nous avons fait des erreurs dans le passé. Les humains n\'auraient jamais dû être exposés à la magie. Je ne le nierai pas mais je ne nous condamnerai pas non plus à une existence arriérée à cause des erreurs de nos ancêtres. Il est possible d\'aller au-delà de la simple coexistence entre les Quel\'dorei et les autres races de ce monde. Nous devons apprendre la tolérance.
 (à suivre)' WHERE entry = 2471;
 UPDATE locales_page_text SET entry = 2472, Text_loc2 = 'C\'est en ces termes que je rejette la requête de Kael concernant Nathanos Marris. Il sera un allié de valeur. Souvenez-vous de mes propos.
@@ -2708,15 +2689,7 @@ UPDATE locales_page_text SET entry = 2593, Text_loc2 = 'Il manque cinq gemmes su
 UPDATE locales_page_text SET entry = 2594, Text_loc2 = 'Il manque cinq gemmes sur l\'amulette. Et si ces gemmes sont retrouvées et replacées sur le symbole, le pouvoir de l\'amulette excédera de loin celui qui est le sien actuellement. J\'ai retrouvé les cinq gemmes, mais j\'ai besoin de l\'une de vos compétences pour m\'aider à les rassembler. Tuer le Prophète sans nom est une hérésie, sans aucun doute, de même que dépouiller son cadavre, mais ce que je voudrais vous demander condamnerait n\'importe quel centaure rien qu\'en y pensant.' WHERE entry = 2594;
 UPDATE locales_page_text SET entry = 2595, Text_loc2 = 'Les esprits de nos premiers khans rôdent à travers les cavernes de Maraudon. Les premiers enfants de notre mère et de notre père, et nos plus grands chefs : Gelk, Kolk, Magra, Maraudos et Veng. Chacun de ces esprits détient l\'une des gemmes manquantes.' WHERE entry = 2595;
 UPDATE locales_page_text SET entry = 2596, Text_loc2 = 'Utilisez le pouvoir de l\'Amulette des esprits pour les inciter à se manifester et prenez les gemmes qu\'elles ont ! Puis, placez les gemmes sur l\'Amulette des esprits et rapportez-la-moi. Une fois que j\'aurai l\'Amulette d\'union, je serai assez puissant pour reformer les tribus afin que nous puissions enfin devenir ce que nos ancêtres voulaient !' WHERE entry = 2596;
-UPDATE locales_page_text SET entry = 2597, Text_loc2 = null WHERE entry = 2597;
-UPDATE locales_page_text SET entry = 2598, Text_loc2 = null WHERE entry = 2598;
-UPDATE locales_page_text SET entry = 2599, Text_loc2 = null WHERE entry = 2599;
-UPDATE locales_page_text SET entry = 2600, Text_loc2 = null WHERE entry = 2600;
-UPDATE locales_page_text SET entry = 2601, Text_loc2 = null WHERE entry = 2601;
-UPDATE locales_page_text SET entry = 2602, Text_loc2 = null WHERE entry = 2602;
-UPDATE locales_page_text SET entry = 2603, Text_loc2 = null WHERE entry = 2603;
-UPDATE locales_page_text SET entry = 2604, Text_loc2 = null WHERE entry = 2604;
-UPDATE locales_page_text SET entry = 2605, Text_loc2 = null WHERE entry = 2605;
+
 UPDATE locales_page_text SET entry = 2610, Text_loc2 = 'Utilisez le pouvoir de l\'Amulette des esprits pour les inciter à se manifester et prenez les gemmes qu\'elles ont ! Puis, placez les gemmes sur l\'Amulette des esprits et rapportez-la-moi. Une fois que j\'aurai l\'Amulette d\'union, je serai assez puissant pour reformer les tribus afin que nous puissions enfin devenir ce que nos ancêtres voulaient !' WHERE entry = 2610;
 UPDATE locales_page_text SET entry = 2611, Text_loc2 = '… et c’est là que vous trouverez Porte-cendres, l’épée légendaire du généralissime de la Croisade écarlate.
 C’est fou ce qu’on trouve en une journée de pêche, pas vrai ?' WHERE entry = 2611;
@@ -2746,8 +2719,7 @@ Pourvu que je meure pour la grâce de Kael\'Thalas !
 Pourvu que je tue pour la gloire d\'Illidan !
 Maître Kariel Winthalus' WHERE entry = 2635;
 UPDATE locales_page_text SET entry = 2636, Text_loc2 = '<Regarder ces pages vous inflige une violente douleur.>' WHERE entry = 2636;
-UPDATE locales_page_text SET entry = 2637, Text_loc2 = null WHERE entry = 2637;
-UPDATE locales_page_text SET entry = 2653, Text_loc2 = null WHERE entry = 2653;
+
 UPDATE locales_page_text SET entry = 2654, Text_loc2 = '<HTML>
 <BODY>
 <H1 align = "center">TRAITE DES GRADES MILITAIRES</H1>
@@ -2925,7 +2897,7 @@ UPDATE locales_page_text SET entry = 2665, Text_loc2 = '<HTML>
 <P align = "right">Lieutenant-commandant</P><BR/><BR/>
 </BODY>
 </HTML>' WHERE entry = 2665;
-UPDATE locales_page_text SET entry = 2666, Text_loc2 = null WHERE entry = 2666;
+
 UPDATE locales_page_text SET entry = 2671, Text_loc2 = 'Simona la Séductrice :
 Simona empoisonne de sa présence le cratère d\'Un\'Goro. Ne vous laissez pas tromper par son apparence. Approchez-vous d\'elle avec prudence et défiez-la.' WHERE entry = 2671;
 UPDATE locales_page_text SET entry = 2672, Text_loc2 = 'Klinfran l\'Enragé :
@@ -2934,7 +2906,7 @@ UPDATE locales_page_text SET entry = 2673, Text_loc2 = 'Solenor le Tueur :
 C\'est dans le paysage aride de Silithus que se tapit le démon Solenor le Tueur. Il est sans doute déguisé et il est extrêmement dangereux. Approchez-vous de lui et obligez-le à se transformer.' WHERE entry = 2673;
 UPDATE locales_page_text SET entry = 2674, Text_loc2 = 'Artorius le Néfaste :
 Artorius n\'apporte que la corruption et la ruine à tout ce qu\'il touche au Berceau-de-l\'Hiver. Trouvez-le et tuez-le.' WHERE entry = 2674;
-UPDATE locales_page_text SET entry = 2675, Text_loc2 = null WHERE entry = 2675;
+
 UPDATE locales_page_text SET entry = 2676, Text_loc2 = '<HTML>
 <BODY>
 <H1 align = "center">GRADES MILITAIRES DE L\'ALLIANCE</H1><BR/>
@@ -3007,7 +2979,7 @@ UPDATE locales_page_text SET entry = 2697, Text_loc2 = 'La fin du Rituel
 Vous pouvez surveiller la progression du rituel à l\'aide des runes magiques autour du cercle. Le rituel est terminé lorsque neuf runes ont apparu, et vous verrez l\'énergie s\'élever du Cercle.
 Vous pouvez dès lors invoquer les Glyphes de Xoroth, ouvrir une porte vers Xoroth et en sortir un Destrier de l\'effroi.
 Triomphez du Destrier de l\'effroi et libérez son esprit. Affrontez l\'esprit et soumettez-le, et vous serez récompensé par le secret de son invocation.' WHERE entry = 2697;
-UPDATE locales_page_text SET entry = 2711, Text_loc2 = null WHERE entry = 2711;
+
 UPDATE locales_page_text SET entry = 2731, Text_loc2 = '<HTML>
 <BODY>
 <BR/>
@@ -3160,8 +3132,7 @@ Les pierres rouges sont d\'une importance vitale pour nos nouveaux alliés. Nous
 UPDATE locales_page_text SET entry = 2820, Text_loc2 = 'Comment savons-nous qu\'ils nous aiment ?
 Certains se demandent peut-être comment les Dieux très anciens et leurs serviteurs pourraient nous aimer. Est-ce qu\'ils ne nous tuent pas ? Est-ce qu\'ils ne nous causent pas à tous douleurs et souffrances ? Comment des êtres ayant un penchant si prononcé pour le mal pourraient-ils connaître l\'amour dans leurs cœurs ?
 La réponse à cette question est très simple. Si simple qu\'il n\'est pas nécessaire de la prononcer.' WHERE entry = 2820;
-UPDATE locales_page_text SET entry = 2821, Text_loc2 = null WHERE entry = 2821;
-UPDATE locales_page_text SET entry = 2822, Text_loc2 = null WHERE entry = 2822;
+
 UPDATE locales_page_text SET entry = 2828, Text_loc2 = '<HTML>
 <BODY>
 <IMG src = "InterfacePictures21037_crudemap_256"/>
@@ -3191,7 +3162,7 @@ Et tant que j’étais dans le coin, je me suis dit que certains des techniciens
 UPDATE locales_page_text SET entry = 2836, Text_loc2 = 'C’était en train de devenir un passe-temps à part entière. Je prenais beaucoup de plaisir à découper ce fichu livre en morceaux !
 Les largages suivants ont été simples.
 Fossoyeuse, demeure des morts-vivants fétides et pestilentiels (mais aussi du meilleur chili du monde) en a eu un. Hurlevent, capitale du fromage, un autre. Dis, cher journal, as-tu déjà pensé à mettre du fromage de Hurlevent sur du chili de Fossoyeuse ? HÉ HO ? Ce serait intéressant…' WHERE entry = 2836;
-UPDATE locales_page_text SET entry = 2837, Text_loc2 = null WHERE entry = 2837;
+
 UPDATE locales_page_text SET entry = 2838, Text_loc2 = 'À Toutes les Personnes Concernées,
 Comme j\'aime ces petits jeux auxquels nous nous adonnons. 
 Je suppose que si vous lisez cette lettre, c\'est que vous êtes parvenus, d\'une manière ou d\'une autre, par miracle ou grâce à une intervention divine, à me vaincre. C\'est grotesque, je le sais, mais des choses bien plus étranges sont déjà advenues dans l\'histoire de ce monde.' WHERE entry = 2838;
@@ -3393,7 +3364,7 @@ Le Fléau est de retour et nous devons oublier nos différends pour faire face �
 La mobilisation pour la défense de nos contrées s’effectue à la chapelle de l’Espoir de Lumière, dans les Maleterres de l’est. Ensemble, nous vaincrons.
 Le gardien des registres
 L’Aube d’argent' WHERE entry = 2872;
-UPDATE locales_page_text SET entry = 2875, Text_loc2 = null WHERE entry = 2875;
+
 UPDATE locales_page_text SET entry = 2878, Text_loc2 = 'Ma chère Emily,
 Il y a à peine quelques jours que sur ordre du roi, nous avons levé le camp pour quitter cet endroit perdu et rentrer chez nous. J’avais le cœur léger malgré la désolation environnante, car je savais qu’au bout de la marche glacée jusqu’au rivage et du long et pénible voyage, je trouverais le réconfort de vos bras.
 Aujourd’hui, nous sommes arrivés sur la côte pour constater que nos bateaux, notre seul moyen de retour, n’étaient plus que des coques carbonisées. Nous ne pouvons plus rentrer et notre seule alternative est de traverser le cœur de cet épouvantable désert.
@@ -3450,7 +3421,7 @@ UPDATE locales_page_text SET entry = 2891, Text_loc2 = 'À la mémoire du comman
 Que nos ennemis se souviennent de nos noms. Que nos alliés honorent notre mémoire. Nous sommes les fils de Lothar.
 - Général Turalyon' WHERE entry = 2891;
 UPDATE locales_page_text SET entry = 2892, Text_loc2 = 'En mémoire de notre cher Jesse Morales' WHERE entry = 2892;
-UPDATE locales_page_text SET entry = 2904, Text_loc2 = null WHERE entry = 2904;
+
 UPDATE locales_page_text SET entry = 2905, Text_loc2 = 'Voici une jarre de cendres. Ce sont les cendres de ma raison, de ma passion, et de mon énergie. Toutes choses qui se sont elles-mêmes entièrement détruites. Que tous ceux qui contemplent les paysages désolés des flammes infernales se rappellent de ce péon disparu. Il a donné son sang pour l\'Alliance, il s\'est sacrifié pour la Horde, pour finalement sombrer dans la folie en voyant les viles créatures sans âmes dévorer ce qu\'il avait de plus cher. Puissent-ils subir sa colère comme ils se sont repus de ses labeurs. Peut-être pas dans ce monde, mais dans tous ceux qui suivront. Je le proclame, j\'en fais solennellement le serment, je le promets pour l\'éternité. Je vengerai mes souffrances.' WHERE entry = 2905;
 UPDATE locales_page_text SET entry = 2906, Text_loc2 = 'Inspectez la totalité des îles et revenez me faire votre rapport.$B$BSouvenez-nous, ne vous faites pas prendre !$B$BNe me décevez pas, Candress !$B$BS.' WHERE entry = 2906;
 UPDATE locales_page_text SET entry = 2907, Text_loc2 = 'Le dessin dépeint Shadra’Alor et ses trois temples, avec un certain nombre de marques en forme de « X » correspondant à l’emplacement des œufs volés. Les marques apparaissent à l’extrémité sud du temple oriental, près d’une hutte au nord-est du temple oriental, près d’un autel à l’est du lac central, et sur la pente du temple méridional près du mot « exilé ».
@@ -3465,10 +3436,10 @@ P.S. : Cessez d\'utiliser toute l\'encre de sang pour écrire des lettres d\'amo
 UPDATE locales_page_text SET entry = 2911, Text_loc2 = 'Diathorus,
 Cette lettre devrait bien finir par te parvenir. Ces démons n’ont pas de processus cognitif supérieur. Ils n’ont en tête que leurs ongles, leurs fouets, ou leur désir d’éventrer quelque chose avec leurs pointes frontales. Et je n’ose pas faire appel à un infernal, de crainte qu’il ne soit réduit en cendres !
 Hélas, je songe avec regret aux jours heureux où nous pouvions utiliser des orcs. Au moins ils avaient un minimum de jugeote et ils savaient obéir aux ordres. Peut-être existe-t-il une possibilité de trouver quelques nouveaux esclaves à proximité ?' WHERE entry = 2911;
-UPDATE locales_page_text SET entry = 2912, Text_loc2 = null WHERE entry = 2912;
+
 UPDATE locales_page_text SET entry = 2913, Text_loc2 = 'Au seuil de la défaite,$BIl garde son courage,$BTire l\'épée d\'une traite,$BEt fonce en plein carnage.$B$BDepuis ce jour sauvage,$BFlèche ou lame, pas moyen$BDe trouver un passage$BJusqu\'au seigneur des nains.' WHERE entry = 2913;
 UPDATE locales_page_text SET entry = 2914, Text_loc2 = '« … mais elle le savait déjà. Elle s\'était résignée à vivre en paria après avoir marchandé son âme, fragment par fragment. La vengeance en valait la peine, ou tout du moins, c\'est ce qu\'elle pensait.$B$BMais elle avait maintenant à sa disposition une occasion de regagner son humanité, et tout ce que l\'étranger lui demandait en échange, c\'était de lui faire confiance.$B$B"Je le ferai, avait dit Katreyn. Je n\'ai rien à perdre." »' WHERE entry = 2914;
-UPDATE locales_page_text SET entry = 2915, Text_loc2 = null WHERE entry = 2915;
+
 UPDATE locales_page_text SET entry = 2916, Text_loc2 = 'Vazruden,
 Depuis que la Porte des ténèbres a été rouverte, le bastion de l’Honneur et Thrallmar ont reçu d’importants renforts venus d’Azeroth. J’ai même lu des rapports suggérant qu’ils préparent une attaque contre la citadelle, alors que nous avons déjà à faire face à la Légion ardente. C’est inacceptable !
 Ne mettez pas en péril l’opération à la Fournaise du sang ! Les gangr’orcs produits là-bas restent la clé de notre succès. Fortifiez les défenses des remparts et placez immédiatement plus de gardes sur le périmètre !
@@ -3493,7 +3464,7 @@ L\'agent érédar du Maître a certes échoué, mais elle a pu nous transmettre 
 UPDATE locales_page_text SET entry = 2920, Text_loc2 = 'Contactez notre espionne et préparez une attaque à grande échelle contre les draeneï. Tuez-les tous et reprenez possession de mon vaisseau. Vous êtes mon seul contact sur Azeroth qui soit capable de réparer les dégâts que ces brutes ont causés sur l\'Exodar.
 N\'échouez pas, gnome. Si votre désir de richesses allait à l\'encontre de mes ordres, vous passeriez l\'éternité à prier. À prier pour que la mort vienne et vous délivre des tortures que je vous infligerai si vous me décevez.
 -Roi Haut-soleil' WHERE entry = 2920;
-UPDATE locales_page_text SET entry = 2922, Text_loc2 = null WHERE entry = 2922;
+
 UPDATE locales_page_text SET entry = 2923, Text_loc2 = 'Très estimés chefs de la Horde,
 Moi, Lor’themar Theron, seigneur régent de Quel’Thalas, ai le grand plaisir de vous faire part de la chute du commandant du Fléau connu sous le nom de Dar’Khan Drathir.
 Le fait que Dar’Khan ait pu maintenir une tête de pont sur nos terres a servi à de nombreuses reprises d’argument à ceux qui critiquaient les sind’orei lors de précédentes négociations. Nous espérons que cet événement abolira une fois pour toutes les éventuelles objections qu\'auraient pu entretenir Vos Grâces.
@@ -3505,7 +3476,7 @@ Le fait que Dar’Khan ait pu maintenir une tête de pont sur nos terres a servi
 UPDATE locales_page_text SET entry = 2925, Text_loc2 = 'P.S. - Concernant la question de Thrall, notre Grand magistère a reçu des informations d’Outreterre. La réponse est assurément oui..' WHERE entry = 2925;
 UPDATE locales_page_text SET entry = 2926, Text_loc2 = 'P.S. - Concernant la question de Thrall, notre Grand magistère a reçu des informations d’Outreterre. La réponse est assurément oui..
 <Cette lettre porte aussi le sceau de dame Sylvanas Coursevent.>' WHERE entry = 2926;
-UPDATE locales_page_text SET entry = 2927, Text_loc2 = null WHERE entry = 2927;
+
 UPDATE locales_page_text SET entry = 2930, Text_loc2 = '$N,
 La création de la corsèque à la trempe de sang nécessite plusieurs matériaux rares et instables, qui ensemble donnent une arme redoutable d\'excellente facture. Je vais faire une liste des matériaux, du plus facile au plus difficile à obtenir.
 N\'oubliez pas que vous devez aussi vous procurer votre insigne de chevalier de sang pour que les matériaux soient acceptés et que le processus de fabrication puisse commencer.' WHERE entry = 2930;
@@ -3602,8 +3573,7 @@ UPDATE locales_page_text SET entry = 2979, Text_loc2 = 'La racine d\'olemba est 
 Les canneberges ne poussent que dans le marécage de Zangar, et seulement au bastion Ango\'rosh, situé dans la région nord-ouest du marais. Prenez garde aux ogres qui gardent férocement ces précieuses baies.
 Les palmes telaari sont sûrement la plante la plus facile à se procurer de la liste. Vous en trouverez au sud de Garadar, dans le bassin de Telaari, au bord de l\'eau.
 La dernière plante de la liste ne pousse que dans les Tranchantes. Ces montagnes se situent au nord du marécage de Zangar. L\'Épine-de-dragon pousse au bout des concrétions rocheuses déchiquetées qui entourent les canyons des Tranchantes. Vous saurez de quoi je parle quand vous verrez pour la première fois les Tranchantes. Les formations rocheuses ressemblent à un empilement de dents pointues et acérées.' WHERE entry = 2979;
-UPDATE locales_page_text SET entry = 2981, Text_loc2 = null WHERE entry = 2981;
-UPDATE locales_page_text SET entry = 2982, Text_loc2 = null WHERE entry = 2982;
+
 UPDATE locales_page_text SET entry = 2983, Text_loc2 = 'Afin que la personne qui avale la potion puisse acquérir la vision des morts, il faut réunir certains composants matériels.
 Tout d\'abord, un globe oculaire de gronn des montagnes du Nagrand occidental, non loin des camps de forge maudits de la Légion ardente, au sud de la colline des Cogneguerre.
 En Nagrand occidental, on trouve également des venterocs supérieurs. Il en faudra absolument un sans défaut !
@@ -3724,26 +3694,16 @@ Mor\'ghor,
 Je t\'envoie ce misérable en tant que serviteur d\'Illidan. Bien qu\'il n\'ait aucun avenir dans la chevalerie de la mort, tu lui trouveras peut-être des compétences appréciables. Bats-le comme plâtre, soumets-le, et fais-en un guerrier pour les Illidari.
 Et s\'il échoue... S\'il fait preuve de faiblesse... relègue-le. Dans les fosses !
 Seigneur Teron Fielsang' WHERE entry = 3006;
-UPDATE locales_page_text SET entry = 3007, Text_loc2 = null WHERE entry = 3007;
-UPDATE locales_page_text SET entry = 3008, Text_loc2 = null WHERE entry = 3008;
-UPDATE locales_page_text SET entry = 3009, Text_loc2 = null WHERE entry = 3009;
+
 UPDATE locales_page_text SET entry = 3010, Text_loc2 = 'Deux têtes valent mieux qu\'une ! Vous aurez toujours au moins un ami.' WHERE entry = 3010;
-UPDATE locales_page_text SET entry = 3011, Text_loc2 = null WHERE entry = 3011;
-UPDATE locales_page_text SET entry = 3012, Text_loc2 = null WHERE entry = 3012;
-UPDATE locales_page_text SET entry = 3013, Text_loc2 = null WHERE entry = 3013;
+
 UPDATE locales_page_text SET entry = 3014, Text_loc2 = 'Nombres porte-bonheur : 13 9 17 4 n' WHERE entry = 3014;
-UPDATE locales_page_text SET entry = 3015, Text_loc2 = null WHERE entry = 3015;
+
 UPDATE locales_page_text SET entry = 3016, Text_loc2 = 'Vous êtes quelqu\'un de spécial, quoi qu\'en disent vos amis, votre famille, vos collègues, de parfaits inconnus ou votre propre conscience.' WHERE entry = 3016;
 UPDATE locales_page_text SET entry = 3017, Text_loc2 = 'Qui veut voyager loin ne mange pas sa monture.' WHERE entry = 3017;
 UPDATE locales_page_text SET entry = 3018, Text_loc2 = 'Heureux les soûlographes, car le royaume des cieux leur appartient.' WHERE entry = 3018;
 UPDATE locales_page_text SET entry = 3019, Text_loc2 = 'Avertissement : cette entraille est impropre à la consommation humaine.' WHERE entry = 3019;
-UPDATE locales_page_text SET entry = 3020, Text_loc2 = null WHERE entry = 3020;
-UPDATE locales_page_text SET entry = 3021, Text_loc2 = null WHERE entry = 3021;
-UPDATE locales_page_text SET entry = 3022, Text_loc2 = null WHERE entry = 3022;
-UPDATE locales_page_text SET entry = 3023, Text_loc2 = null WHERE entry = 3023;
-UPDATE locales_page_text SET entry = 3024, Text_loc2 = null WHERE entry = 3024;
-UPDATE locales_page_text SET entry = 3025, Text_loc2 = null WHERE entry = 3025;
-UPDATE locales_page_text SET entry = 3027, Text_loc2 = null WHERE entry = 3027;
+
 UPDATE locales_page_text SET entry = 3028, Text_loc2 = 'Au nom de notre grand maître... Pour la gloire d\'Illidan !
 On peut se procurer les composants les plus communs du canon à âme en quelques étapes. Les ingénieurs et mineurs devraient être à même de vous fournir les barres de gangracier, la batterie en khorium et la structure en adamantite.
 Pour l\'essence arcanique sans défaut, il faudra vous rendre dans la forêt de Terokkar. Au milieu de la forêt, au-dessus du camp Horde des Brise-pierres, se trouve la demeure de Sar\'this, un arakkoa hérétique. L\'endroit s\'appelle le lac Jorune.
@@ -3847,14 +3807,7 @@ Second quart, huitième cloche
 Changement de quart. Tout est calme. Envoyé deux hommes pour localiser Cédric.
 Quart du matin, première cloche.
 Incendie dans les quartiers du capitaine. Branle-bas général. Réserve de poudre jetée par-dessus bord.' WHERE entry = 3044;
-UPDATE locales_page_text SET entry = 3045, Text_loc2 = null WHERE entry = 3045;
-UPDATE locales_page_text SET entry = 3046, Text_loc2 = null WHERE entry = 3046;
-UPDATE locales_page_text SET entry = 3047, Text_loc2 = null WHERE entry = 3047;
-UPDATE locales_page_text SET entry = 3049, Text_loc2 = null WHERE entry = 3049;
-UPDATE locales_page_text SET entry = 3050, Text_loc2 = null WHERE entry = 3050;
-UPDATE locales_page_text SET entry = 3051, Text_loc2 = null WHERE entry = 3051;
-UPDATE locales_page_text SET entry = 3052, Text_loc2 = null WHERE entry = 3052;
-UPDATE locales_page_text SET entry = 3053, Text_loc2 = null WHERE entry = 3053;
+
 UPDATE locales_page_text SET entry = 3054, Text_loc2 = 'Cela fait bien longtemps que l\'on raconte l\'histoire du cor de fureur élémentaire autour des feux de camp des taunkas. Des générations de guerriers ont grandi en écoutant ces histoires et ont cherché, en vain, à trouver la cachette du cor. Comme les autres, le vaillant Sabot-tempête avait juré de partir en quête du cor, laissant derrière lui son village et sa famille.
 Bravant le froid mordant et les féroces élémentaires du pic de Givrelame, Sabot-tempête partit seul pour gravir la montagne. Arrivé au sommet, il fut accueilli par le Vent du Nord en personne. Sachant que le vent ne céderait pas le cor sans se battre, le puissant guerrier fit retentir son cri de défi.' WHERE entry = 3054;
 UPDATE locales_page_text SET entry = 3055, Text_loc2 = 'Pendant cinq jours, Sabot-tempête lutta contre le vent. À l\'aube du sixième jour, il parvint à bannir le vent du pic de Givrelame et prit possession du cor. Meurtri et blessé, il quitta la montagne pour retourner à son village.
@@ -3883,9 +3836,7 @@ UPDATE locales_page_text SET entry = 3057, Text_loc2 = '<HTML>
 <BR/>
 </BODY>
 </HTML>' WHERE entry = 3057;
-UPDATE locales_page_text SET entry = 3058, Text_loc2 = null WHERE entry = 3058;
-UPDATE locales_page_text SET entry = 3063, Text_loc2 = null WHERE entry = 3063;
-UPDATE locales_page_text SET entry = 3064, Text_loc2 = null WHERE entry = 3064;
+
 UPDATE locales_page_text SET entry = 3065, Text_loc2 = 'Fidèles serviteurs des seigneurs élémentaires, LE TEMPS EST VENU.$b$bDepuis trop longtemps, nous nous morfondons dans l\'ombre en attendant notre heure, et servons nos maîtres en œuvrant pour cette fin que nous savons écrite. Aujourd\'hui, alors que les flammes visant à apaiser la fureur de Ragnaros illuminent la nuit, nous avons entre nos mains le pouvoir de semer la guerre et le chaos à une échelle cataclysmique !$b$bLe seigneur du Feu est emprisonné en notre monde. Il ne dispose pas de tout son potentiel, mais sa puissance est considérable. S\'il venait à croiser le chemin d\'un adversaire à la puissance tout aussi considérable, le choc qui en découlerait marquerait l\'avènement de la grande guerre des élémentaires qui nous amènera cette fin pour laquelle nous œuvrons.' WHERE entry = 3065;
 UPDATE locales_page_text SET entry = 3066, Text_loc2 = 'Neptulon compte parmi ses serviteurs un grand seigneur du Givre du nom d\'Ahune. En ce moment-même, Ahune rassemble ses forces pour partir en guerre contre Ragnaros. Il ne lui manque qu\'une porte d\'accès vers notre monde. Cet accès, nous allons le lui offrir. Nous avons les alliés. Nous avons l\'endroit. Nous avons la force, et la volonté.$b$bLes ultimes négociations avec ces nouveaux alliés qui sont nos invités auront lieu dans un endroit sûr et retiré, au nord-ouest de notre camp de base à Orneval.$b$bAvant que cette « fête » des masses aveugles ne touche à sa fin, Ahune affrontera Ragnaros dans l\'ombre de Rochenoire. Les forces déchaînées à cette occasion feront trembler le monde.' WHERE entry = 3066;
 UPDATE locales_page_text SET entry = 3067, Text_loc2 = 'Goramosh,
@@ -3926,23 +3877,14 @@ UPDATE locales_page_text SET entry = 3078, Text_loc2 = 'Penchée en avant, elle 
 Ses doigts osseux se glissèrent sans difficulté sous l’armure du paladin et défirent sa cuirasse, exposant sa peau au froid de l’air. « N’aie pas peur, mon cher Marcus, on verra plus tard pour le coup de grâce... Je ne fais que commencer. » Il l’enlaça en passant ses bras autour de ce qui restait de sa taille et la fit glousser d’excitation en lui mordillant les vertèbres du cou.
 <Plusieurs passages du reste du livre sont apparemment très usés à force d’avoir été lus.>' WHERE entry = 3078;
 UPDATE locales_page_text SET entry = 3079, Text_loc2 = 'Journal du Grand général Abbendis' WHERE entry = 3079;
-UPDATE locales_page_text SET entry = 3080, Text_loc2 = null WHERE entry = 3080;
-UPDATE locales_page_text SET entry = 3081, Text_loc2 = null WHERE entry = 3081;
-UPDATE locales_page_text SET entry = 3082, Text_loc2 = null WHERE entry = 3082;
+
 UPDATE locales_page_text SET entry = 3083, Text_loc2 = 'Table des matières
 Chapitre 1 - Les morts et vous
 Chapitre 2 - Garder sa silhouette de goule : sept exercices faciles
 Chapitre 3 - Prestance et confort : comment choisir un cercueil assorti à votre carnation
 Chapitre 4 - Sûreté du sépulcre : cinquante vrais signes d\'amour
 <Le livre est en parfait état, comme si personne ne l\'avait jamais lu>' WHERE entry = 3083;
-UPDATE locales_page_text SET entry = 3084, Text_loc2 = null WHERE entry = 3084;
-UPDATE locales_page_text SET entry = 3085, Text_loc2 = null WHERE entry = 3085;
-UPDATE locales_page_text SET entry = 3086, Text_loc2 = null WHERE entry = 3086;
-UPDATE locales_page_text SET entry = 3087, Text_loc2 = null WHERE entry = 3087;
-UPDATE locales_page_text SET entry = 3088, Text_loc2 = null WHERE entry = 3088;
-UPDATE locales_page_text SET entry = 3089, Text_loc2 = null WHERE entry = 3089;
-UPDATE locales_page_text SET entry = 3090, Text_loc2 = null WHERE entry = 3090;
-UPDATE locales_page_text SET entry = 3091, Text_loc2 = null WHERE entry = 3091;
+
 UPDATE locales_page_text SET entry = 3092, Text_loc2 = '<HTML>
 <BODY>
 <H1 align = "center">Journal du grand général Abbendis</H1>
@@ -4036,9 +3978,7 @@ UPDATE locales_page_text SET entry = 3104, Text_loc2 = 'Jour 12 : ah, le délici
 <Les divagations se font plus décousues...>' WHERE entry = 3104;
 UPDATE locales_page_text SET entry = 3105, Text_loc2 = 'Jour 36 : j\'ai finalement expiré mon troisième souffle, et les veines de mon épaule gauche se sont encore remplies de bulles pendant ma remontée. Le tambourinement des crabes est devenu un accompagnement constant, le décor sonore de mon petit coin d\'enfer obscur. À l\'évidence, ces misérables m\'ont oublié. Si J-Y était ici, ils ne l\'auraient pas oublié, lui ! Ils n\'abandonneraient pas Hans ou Sylvia ! Alors pourquoi moi ?
 <L\'écriture se transforme en gribouillages cafardeux...>' WHERE entry = 3105;
-UPDATE locales_page_text SET entry = 3106, Text_loc2 = null WHERE entry = 3106;
-UPDATE locales_page_text SET entry = 3107, Text_loc2 = null WHERE entry = 3107;
-UPDATE locales_page_text SET entry = 3109, Text_loc2 = null WHERE entry = 3109;
+
 UPDATE locales_page_text SET entry = 3110, Text_loc2 = 'Au grand général Abbendis
 Nouvelle-Avalon, Campagne écarlate
 Grand général Abbendis,
@@ -4315,24 +4255,7 @@ UPDATE locales_page_text SET entry = 3192, Text_loc2 = 'Nom : $N
 Statut : En vie
 Commentaire : Est personnellement responsable du massacre de centaines de croisés écarlates. En veut encore.
 <Le livre se poursuit sur des centaines de pages.>' WHERE entry = 3192;
-UPDATE locales_page_text SET entry = 3193, Text_loc2 = null WHERE entry = 3193;
-UPDATE locales_page_text SET entry = 3194, Text_loc2 = null WHERE entry = 3194;
-UPDATE locales_page_text SET entry = 3195, Text_loc2 = null WHERE entry = 3195;
-UPDATE locales_page_text SET entry = 3196, Text_loc2 = null WHERE entry = 3196;
-UPDATE locales_page_text SET entry = 3197, Text_loc2 = null WHERE entry = 3197;
-UPDATE locales_page_text SET entry = 3198, Text_loc2 = null WHERE entry = 3198;
-UPDATE locales_page_text SET entry = 3199, Text_loc2 = null WHERE entry = 3199;
-UPDATE locales_page_text SET entry = 3200, Text_loc2 = null WHERE entry = 3200;
-UPDATE locales_page_text SET entry = 3201, Text_loc2 = null WHERE entry = 3201;
-UPDATE locales_page_text SET entry = 3202, Text_loc2 = null WHERE entry = 3202;
-UPDATE locales_page_text SET entry = 3203, Text_loc2 = null WHERE entry = 3203;
-UPDATE locales_page_text SET entry = 3204, Text_loc2 = null WHERE entry = 3204;
-UPDATE locales_page_text SET entry = 3205, Text_loc2 = null WHERE entry = 3205;
-UPDATE locales_page_text SET entry = 3206, Text_loc2 = null WHERE entry = 3206;
-UPDATE locales_page_text SET entry = 3207, Text_loc2 = null WHERE entry = 3207;
-UPDATE locales_page_text SET entry = 3208, Text_loc2 = null WHERE entry = 3208;
-UPDATE locales_page_text SET entry = 3209, Text_loc2 = null WHERE entry = 3209;
-UPDATE locales_page_text SET entry = 3210, Text_loc2 = null WHERE entry = 3210;
+
 UPDATE locales_page_text SET entry = 3211, Text_loc2 = 'Corpuleux, grand cuisinier d\'Achérus qui fait bonne cuisine pour vous. Lui fier de nourrir puissant Fléau et rendre plus fort. Pas fâcher Corpuleux, lui pas vous nourrir.
 Règles :
 Chevalier de la mort manger d\'abord, goule attendre son tour.
@@ -4340,7 +4263,7 @@ Pas manger goule près de vous. Assiette propre d\'abord.
 D\'accord ajouter limaces et poux personnels à nourriture. Corpuleux pas vexé.
 De la vermine ? Apporter à Corpuleux !
 D\'accord manger humain ou elfe. Elfe autre viande blanche.' WHERE entry = 3211;
-UPDATE locales_page_text SET entry = 3212, Text_loc2 = null WHERE entry = 3212;
+
 UPDATE locales_page_text SET entry = 3213, Text_loc2 = 'Rapport de réanimation d\'un wyrm de givre
 Les os massifs étaient presque ensevelis sous la neige, mais on ne pouvait se tromper devant la griffe sinistre qui dépassait, tordue dans une agonie solennelle. Les nécromanciens s\'assemblèrent sans dire un mot, formant un cercle autour du corps du dragon. Ils restèrent immobiles pendant un moment, alors que le vent soufflait des bourrasques de neige tourbillonnant autour d\'eux. Puis le rituel commença.' WHERE entry = 3213;
 UPDATE locales_page_text SET entry = 3214, Text_loc2 = 'Des rayons de lumière impie émanaient du centre des os gelés, perçant à travers la neige et la glace jusqu\'à ce que l\'immense dépouille soit totalement exposée. Sur un geste du grand nécro-seigneur Antiok, les os tremblèrent et firent une embardée au-dessus du sol, avant de se mettre à tourner lentement sur eux-mêmes.' WHERE entry = 3214;
@@ -4348,13 +4271,7 @@ UPDATE locales_page_text SET entry = 3215, Text_loc2 = 'Les incantations des né
 UPDATE locales_page_text SET entry = 3216, Text_loc2 = 'Le grand nécro-seigneur s\'avança et dit : « Le roi-liche a jugé utile de vous réanimer pour servir le Fléau. Vous serez notre plus noble instrument de mort, faisant pleuvoir la douleur sur les villages de nos ennemis, vous régalant des vivants, et transportant nos meilleurs chevaliers de la mort. »' WHERE entry = 3216;
 UPDATE locales_page_text SET entry = 3217, Text_loc2 = 'Le wyrm de givre les regarda et baissa légèrement la tête en signe d\'accord. La conversion était terminée. Se dressant sur ses pattes arrières, il battit de ses ailes semblables à un éventail de couteaux dans le ciel.' WHERE entry = 3217;
 UPDATE locales_page_text SET entry = 3218, Text_loc2 = 'Il a été porté à mon attention que certains des nouveaux chevaliers de la mort sont parfois troublés par des souvenirs de leur ancienne vie. Je demande instamment à ces esprits agités de ne plus les ressasser, car personne n\'est plus dégoûté que moi de ces erreurs passées. Cependant, au sein du Fléau, j\'ai trouvé l\'absolution.' WHERE entry = 3218;
-UPDATE locales_page_text SET entry = 3219, Text_loc2 = null WHERE entry = 3219;
-UPDATE locales_page_text SET entry = 3220, Text_loc2 = null WHERE entry = 3220;
-UPDATE locales_page_text SET entry = 3221, Text_loc2 = null WHERE entry = 3221;
-UPDATE locales_page_text SET entry = 3222, Text_loc2 = null WHERE entry = 3222;
-UPDATE locales_page_text SET entry = 3223, Text_loc2 = null WHERE entry = 3223;
-UPDATE locales_page_text SET entry = 3224, Text_loc2 = null WHERE entry = 3224;
-UPDATE locales_page_text SET entry = 3225, Text_loc2 = null WHERE entry = 3225;
+
 UPDATE locales_page_text SET entry = 3226, Text_loc2 = 'Bienvenue dans le Fléau. Maintenant que vous avez pris votre véritable service, vous trouverez peut-être un immense soulagement dans votre libération des divers inconvénients des mortels. Désormais, vous ne perdrez plus votre temps en sommeil, vous n\'aurez plus besoin de vous abriter des éléments et même de vous couper cheveux et ongles ! Comme c\'est délicieux !' WHERE entry = 3226;
 UPDATE locales_page_text SET entry = 3227, Text_loc2 = 'Cependant, il y a quelques petits détails, quasiment insignifiants, à connaître quand on est mort-vivant :
 Surveillez votre pourrissement. Un peu de pourriture est parfait pour effrayer vos ennemis, mais un bras qui tombe alors que vous allez frapper quelqu\'un est tout simplement embarrassant.
@@ -4377,10 +4294,7 @@ UPDATE locales_page_text SET entry = 3233, Text_loc2 = 'Membres perdus
 En plein combat, ce n\'est pas vraiment le moment ou le lieu pour remplacer un membre perdu. Veuillez continuer avec ceux qu\'il vous reste. Le bras ou la jambe manquant sera remplacé avec le membre le plus ressemblant que nous puissions trouver dès qu\'un acolyte pourra jeter un œil sur vous. À la rigueur, empruntez-en un à un collègue !' WHERE entry = 3233;
 UPDATE locales_page_text SET entry = 3234, Text_loc2 = 'Cannibalisme
 Pour éviter que le personnel du Fléau ne soit à nouveau mangé de manière prématurée, vous pouvez seulement manger quelque chose de mort qui est sur le sol depuis plus de 5 secondes ! Les couchettes des acolytes ne sont pas considérées comme étant « sur le sol » !' WHERE entry = 3234;
-UPDATE locales_page_text SET entry = 3235, Text_loc2 = null WHERE entry = 3235;
-UPDATE locales_page_text SET entry = 3236, Text_loc2 = null WHERE entry = 3236;
-UPDATE locales_page_text SET entry = 3237, Text_loc2 = null WHERE entry = 3237;
-UPDATE locales_page_text SET entry = 3238, Text_loc2 = null WHERE entry = 3238;
+
 UPDATE locales_page_text SET entry = 3239, Text_loc2 = 'Je vous avais prévenus que la prochaine campagne où je passerais plus de temps à nettoyer mes bottes qu\'à frapper des enfants, des têtes tomberaient ! Et donc, les tours au nettoyage des latrines sont doublés en fréquence ET en durée pour tous les geists à partir de maintenant !
 —Instructeur Razuvious' WHERE entry = 3239;
 UPDATE locales_page_text SET entry = 3240, Text_loc2 = 'Voyez la plus belle des ironies. Les vivants prêtent à la non-mort tous les attributs les plus répugnants de leurs propres vies : servitude sans espoir, sauvagerie, inertie de l\'esprit. Nous servons ! Les vivants servent eux aussi, mais ils servent des rois, seigneurs de guerre, druides, prêtres, dieux, hommes et animaux. Nous, nous ne servons que la puissante et unificatrice volonté du roi-liche, qui nous porte à la prospérité et à l\'unité !' WHERE entry = 3240;
@@ -4388,31 +4302,16 @@ UPDATE locales_page_text SET entry = 3241, Text_loc2 = 'Malgré tout l\'acharnem
 UPDATE locales_page_text SET entry = 3242, Text_loc2 = 'Si la chair en est froide, l\'être y est habité d\'une chaleureuse unité : les créatures du puissant Fléau forment une seule nation, un seul esprit, un seul être. Le vrai froid est celui qui hante les regards des gardes qui ferment les frontières d\'un pays voisin à des réfugiés malades en temps de guerre ! Les hommes ne sont-ils pas une seule et même espèce ? Non, car leurs cœurs glacés les divisent.' WHERE entry = 3242;
 UPDATE locales_page_text SET entry = 3243, Text_loc2 = 'Portez haut nos idéaux, et mettez à bas nos ennemis ! Incorporez leurs pertes dans nos rangs jusqu\'à ce que tous servent le Trône de glace !' WHERE entry = 3243;
 UPDATE locales_page_text SET entry = 3244, Text_loc2 = 'J\'ai enfin obtenu la faveur du chapitre et gagné mon entrée à la Scholomance ! Aujourd\'hui, mon ascension finale vers la glorieuse non-mort commence !' WHERE entry = 3244;
-UPDATE locales_page_text SET entry = 3245, Text_loc2 = null WHERE entry = 3245;
-UPDATE locales_page_text SET entry = 3246, Text_loc2 = null WHERE entry = 3246;
-UPDATE locales_page_text SET entry = 3247, Text_loc2 = null WHERE entry = 3247;
+
 UPDATE locales_page_text SET entry = 3248, Text_loc2 = 'Aujourd\'hui, je suis devenu nécromancien Thuzadin à Stratholme ! Je me demande un peu pourquoi personne n\'éteint les incendies, et j\'ai été mortifié de découvrir par quel absurde système les ziggourats sont liées aux portes de l\'abattoir. Si nous devons empêcher les gens d\'approcher de l\'abattoir, pourquoi est-ce qu\'on ne verrouille pas tout simplement la porte " Définitivement "' WHERE entry = 3248;
-UPDATE locales_page_text SET entry = 3249, Text_loc2 = null WHERE entry = 3249;
-UPDATE locales_page_text SET entry = 3250, Text_loc2 = null WHERE entry = 3250;
-UPDATE locales_page_text SET entry = 3251, Text_loc2 = null WHERE entry = 3251;
+
 UPDATE locales_page_text SET entry = 3252, Text_loc2 = 'Aujourd\'hui, premier jour de travail dans une usine de guerre du puissant Fléau ! Naxxramas grouille d\'activité. J\'ai été attristé d\'apprendre qu\'encore une fois on avait recours à d\'idiots petits casse-tête mécaniques pour alimenter des téléporteurs d\'une importance capitale, mais, en dehors de cela, tout semble tourner très correctement. J\'ai pu tourner mes pensées vers des recherches profitables, jusqu\'à ce que je tombe sur un de ces pervers nérubiens...' WHERE entry = 3252;
-UPDATE locales_page_text SET entry = 3253, Text_loc2 = null WHERE entry = 3253;
-UPDATE locales_page_text SET entry = 3254, Text_loc2 = null WHERE entry = 3254;
-UPDATE locales_page_text SET entry = 3255, Text_loc2 = null WHERE entry = 3255;
+
 UPDATE locales_page_text SET entry = 3256, Text_loc2 = 'Après mes échecs répétés au service du Fléau, j\'ai bien compris que les principes auxquels je m\'astreins sont bien plus élevés que ceux des individus qui occupent même les plus hauts échelons de cette hiérarchie. Étant donné l\'inflexibilité inhérente aux structures de pouvoir social, il n\'est pas aisé de faire cohabiter les tentatives d\'instiguer le changement d\'un côté, et les défis sociaux qui perdurent de l\'autre.' WHERE entry = 3256;
-UPDATE locales_page_text SET entry = 3257, Text_loc2 = null WHERE entry = 3257;
-UPDATE locales_page_text SET entry = 3258, Text_loc2 = null WHERE entry = 3258;
-UPDATE locales_page_text SET entry = 3259, Text_loc2 = null WHERE entry = 3259;
+
 UPDATE locales_page_text SET entry = 3260, Text_loc2 = 'Ceeeerrrrveauuuuux. Ceeeeeeerrrrrrrveauuuuux. CEEEEEEERRRRVEEEEAAAUUUUX !!!
 <Et ça continue comme ça sur plus de quarante pages.>' WHERE entry = 3260;
-UPDATE locales_page_text SET entry = 3261, Text_loc2 = null WHERE entry = 3261;
-UPDATE locales_page_text SET entry = 3262, Text_loc2 = null WHERE entry = 3262;
-UPDATE locales_page_text SET entry = 3263, Text_loc2 = null WHERE entry = 3263;
-UPDATE locales_page_text SET entry = 3264, Text_loc2 = null WHERE entry = 3264;
-UPDATE locales_page_text SET entry = 3265, Text_loc2 = null WHERE entry = 3265;
-UPDATE locales_page_text SET entry = 3266, Text_loc2 = null WHERE entry = 3266;
-UPDATE locales_page_text SET entry = 3267, Text_loc2 = null WHERE entry = 3267;
-UPDATE locales_page_text SET entry = 3268, Text_loc2 = null WHERE entry = 3268;
+
 UPDATE locales_page_text SET entry = 3269, Text_loc2 = 'Le décret du Fléau
 Chapitre 1
 Par Kel\'Thuzad
@@ -4458,35 +4357,13 @@ Des études montrent que la plupart des chefs-d\'oeuvre de la litterature ont é
 UPDATE locales_page_text SET entry = 3309, Text_loc2 = 'Obtenez un Voile d\'hiver blanc chaque année grâce aux blizzards invoqués pour vous par des mages. (Attention : rester dehors lors d\'un blizzard des arcanes peut provoquer de légers picotements dans les doigts et une mort douloureuse.)
 Et souvenez-vous : si quoi que ce soit ne se passe pas comme prévu, il y aura toujours un mage prêt à se téléporter auprès de vous.
 Ce pamphlet a été imprimé sur du papier invoqué.' WHERE entry = 3309;
-UPDATE locales_page_text SET entry = 3312, Text_loc2 = null WHERE entry = 3312;
-UPDATE locales_page_text SET entry = 3313, Text_loc2 = null WHERE entry = 3313;
-UPDATE locales_page_text SET entry = 3314, Text_loc2 = null WHERE entry = 3314;
-UPDATE locales_page_text SET entry = 3315, Text_loc2 = null WHERE entry = 3315;
-UPDATE locales_page_text SET entry = 3316, Text_loc2 = null WHERE entry = 3316;
-UPDATE locales_page_text SET entry = 3317, Text_loc2 = null WHERE entry = 3317;
-UPDATE locales_page_text SET entry = 3318, Text_loc2 = null WHERE entry = 3318;
-UPDATE locales_page_text SET entry = 3320, Text_loc2 = null WHERE entry = 3320;
-UPDATE locales_page_text SET entry = 3321, Text_loc2 = null WHERE entry = 3321;
-UPDATE locales_page_text SET entry = 3322, Text_loc2 = null WHERE entry = 3322;
-UPDATE locales_page_text SET entry = 3328, Text_loc2 = null WHERE entry = 3328;
-UPDATE locales_page_text SET entry = 3331, Text_loc2 = null WHERE entry = 3331;
-UPDATE locales_page_text SET entry = 3333, Text_loc2 = null WHERE entry = 3333;
-UPDATE locales_page_text SET entry = 3336, Text_loc2 = null WHERE entry = 3336;
-UPDATE locales_page_text SET entry = 3337, Text_loc2 = null WHERE entry = 3337;
-UPDATE locales_page_text SET entry = 3338, Text_loc2 = null WHERE entry = 3338;
-UPDATE locales_page_text SET entry = 3339, Text_loc2 = null WHERE entry = 3339;
-UPDATE locales_page_text SET entry = 3345, Text_loc2 = null WHERE entry = 3345;
+
 UPDATE locales_page_text SET entry = 3346, Text_loc2 = 'Il était une fois un mage qui ne pouvait pas lancer de boule de feu, de métamorphose ou d\'éclair de givre. Quand il invoquait de l\'eau, c\'est de la boue qui apparaissait. Ses tentatives pour lancer intelligence des arcanes ont rendu les sujets encore plus stupides. Sans hésitation, ses précepteurs s\'accordèrent à dire que leur élève, Maladorf, était le pire mage de Dalaran.' WHERE entry = 3346;
-UPDATE locales_page_text SET entry = 3347, Text_loc2 = null WHERE entry = 3347;
-UPDATE locales_page_text SET entry = 3348, Text_loc2 = null WHERE entry = 3348;
-UPDATE locales_page_text SET entry = 3349, Text_loc2 = null WHERE entry = 3349;
+
 UPDATE locales_page_text SET entry = 3353, Text_loc2 = 'Entrée 1
 Avant que je puisse comprendre ce qui se passait, la dévastation était sur nous. La terre trembla et notre belle flèche, qui gardait Dalaran depuis la Deuxième guerre, se brisa.
 Je me rappelle avoir crié quand le visage de mon père disparut sous l\'échaffaudage qui tombait, mais je n\'ai rien entendu. Malgré ma terreur, je pensais à mon entraînement magique. Si seulement j\'avais pu ralentir ce désastre... mais les sorts mouraient en moi. Des traces de pouvoir démoniaque bloquaient mes efforts. Il n\'y avait pas d\'espoir. J\'ai fermé les yeux et attendu. Je ne sais comment, mais je suis encore là.' WHERE entry = 3353;
-UPDATE locales_page_text SET entry = 3354, Text_loc2 = null WHERE entry = 3354;
-UPDATE locales_page_text SET entry = 3355, Text_loc2 = null WHERE entry = 3355;
-UPDATE locales_page_text SET entry = 3356, Text_loc2 = null WHERE entry = 3356;
-UPDATE locales_page_text SET entry = 3357, Text_loc2 = null WHERE entry = 3357;
+
 UPDATE locales_page_text SET entry = 3358, Text_loc2 = '<Écrit par le célèbre archimage Ansirem Tisserune>' WHERE entry = 3358;
 UPDATE locales_page_text SET entry = 3359, Text_loc2 = 'Le don merveilleux de la magie peut être utilisé pour de nombreuses choses. Nous, les Instruits, avons découvert qu\'il était plus facile de diviser les arts indicibles en huit catégories différentes, de façon à mieux comprendre les fondamentaux de la magie elle-même. Chacune de ces catégories est connue sous le nom « d\'école » de magie, car elles sont souvent apprises séparément et les mages choisissent fréquemment de se spécialiser dans une catégorie ou une autre. D\'autres mages ont tenté de maîtriser toutes les formes de magie, mais peu ont atteint ce noble but. Dans ce volume, nous traiterons de chaque école de magie individuellement et de certains de leurs célèbres adeptes.' WHERE entry = 3359;
 UPDATE locales_page_text SET entry = 3360, Text_loc2 = 'Toutes les écoles de magie peuvent se combiner pour créer de redoutables sorts qui utilisent de multiples sources de puissance. Certains de ces puissants sorts sont expliqués un peu plus loin dans cette série de livres, mais prenez garde, combiner plusieurs types de magie peut être extrêmement dangereux - en particulier pour les débutants.
@@ -4540,10 +4417,7 @@ UPDATE locales_page_text SET entry = 3396, Text_loc2 = 'De plus, notre programme
 UPDATE locales_page_text SET entry = 3397, Text_loc2 = 'De nos jours, Azeroth nous confronte tous à de nombreux défis qui font qu\'il est très difficile de conserver un style de vie sain et sans magie. Nous sommes là pour vous aider à trouver la voie sûre et confortable que vous recherchez. Des dizaines de personnes ont déjà bénéficié de nos alternatives à la magie pour un meilleur style de vie. Et vous, est-ce que cela vous tente ?' WHERE entry = 3397;
 UPDATE locales_page_text SET entry = 3398, Text_loc2 = 'Vous vous sentez un peu fatigué ? Vous avez besoin d\'énergie ? De beaucoup d\'énergie ? Que diriez-vous d\'une énergie brûlante, ardente, incendiaire ?
 Essayez la nouvelle LAVOMALTINE de Pyroco ! Vous allez tomber amoureux de son goût sucré et rafraîchissant, et surtout de la puissance brute qu\'elle contient. Vous avez besoin d\'un remontant rapide ? Pas de problème ! LAVOMALTINE vous revigorera même si vous êtes dans un état d\'épuisement avancé.' WHERE entry = 3398;
-UPDATE locales_page_text SET entry = 3399, Text_loc2 = null WHERE entry = 3399;
-UPDATE locales_page_text SET entry = 3400, Text_loc2 = null WHERE entry = 3400;
-UPDATE locales_page_text SET entry = 3401, Text_loc2 = null WHERE entry = 3401;
-UPDATE locales_page_text SET entry = 3402, Text_loc2 = null WHERE entry = 3402;
+
 UPDATE locales_page_text SET entry = 3403, Text_loc2 = 'Antonidas n\'était qu\'un jeune garçon quand il devint l\'apprenti de l\'un des membres du Kirin Tor. C\'était un étudiant opiniâtre, toujours penché sur ses livres dans les bibliothèques magiques de Dalaran. Après seulement quelques années d\'étude dans la secte, Antonidas avait surpassé ses pairs et gagné leur admiration, ainsi que le respect de ses aînés.' WHERE entry = 3403;
 
 UPDATE locales_page_text SET entry = 3409, Text_loc2 = 'Les pressions sur la fragile Alliance s\'alourdirent à la suite de la Deuxième guerre en raison des camps d\'internement bondés et des taxes créées pour les entretenir. L\'ennemi commun ayant disparu, il n\'y avait plus de raison de mettre de côté la politique et les prises de bec mesquines qui occupaient les nations azérothiennes avant l\'invasion des orcs venus de Draenor lors de la Première guerre.' WHERE entry = 3409;
@@ -4566,7 +4440,7 @@ UPDATE locales_page_text SET entry = 3469, Text_loc2 = 'Comme vous le savez prob
 UPDATE locales_page_text SET entry = 3472, Text_loc2 = 'Note trouvée sur le bureau du très estimé archimage Ansirem Tisserune' WHERE entry = 3472;
 
 UPDATE locales_page_text SET entry = 3477, Text_loc2 = '<Ce prospectus était encore récemment collé là. Des résidus de colle sur la pierre indiquent que de nombreux prospectus ont occupé cet endroit.>' WHERE entry = 3477;
-UPDATE locales_page_text SET entry = 3478, Text_loc2 = null WHERE entry = 3478;
+
 UPDATE locales_page_text SET entry = 3479, Text_loc2 = 'Thule Serres-de-corbeau
 Les informations dont nous disposons sont contradictoires, mais les événements qui se sont déroulés dans les clairières de Tirisfal et la forêt des Pins argentés semblent indiquer que Thule Serres-de-corbeau s\'est volontairement associé au Fléau. Il serait peut-être possible de trouver des indices dans les ruines du donjon de Fenris, sur l\'une des îles du lac Lordamere, mais pour l\'instant, nous devons concentrer notre attention sur d\'autres problèmes.' WHERE entry = 3479;
 
@@ -4588,7 +4462,7 @@ En l\'honneur du roi, l\'ami ! - Je suis affamé !' WHERE entry = 3498;
 UPDATE locales_page_text SET entry = 3500, Text_loc2 = '- Combattez le feu par le feu ! Ce n\'est pas parce que le corps d\'un monstre est entièrement composé de flammes que vos boules de feu ne lui feront rien. Essayez au moins une fois ! Les résultats pourraient vous surprendre.
 - L\'habit fait la réussite ! Des études montrent que les mages accordant une attention particulière à leur garde-robe sont bien plus efficaces que ceux portant de vieilles fripes de mauvaise qualité. Avez-vous changé de robe récemment ?
 - Connaissez votre rôle ! À première vue, votre bâton semble être une bonne arme, mais c\'est faux. Laissez ceux qui ont une grosse armure brillante se mettre devant vous. Cela étant dit...' WHERE entry = 3500;
-UPDATE locales_page_text SET entry = 3501, Text_loc2 = null WHERE entry = 3501;
+
 UPDATE locales_page_text SET entry = 3502, Text_loc2 = 'Q : Je n\'arrive pas à lancer un seul sort correctement. Que puis-je faire ?
 R : Vous souffrez peut-être de déshydratation. Si vous n\'arrivez pas à lancer un sort alors que d\'habitude vous y arrivez, essayez de boire un verre d\'eau ! Une hydratation correcte est primordiale pour une incantation efficace.' WHERE entry = 3502;
 UPDATE locales_page_text SET entry = 3503, Text_loc2 = 'Q : Je n\'arrive pas à lancer de traits de feu ! J\'en ai lancé un il y a tout juste deux secondes, et maintenant, ça ne veut plus marcher. Aidez-moi !
@@ -4678,7 +4552,7 @@ UPDATE locales_page_text SET entry = 3543, Text_loc2 = 'Depuis des années, je s
 Pourquoi suis-je resté ici aussi longtemps ? Qu\'ai-je fait pour mériter ça ? Cela fait des jours et des jours que j\'y pense. Que peut-on bien faire qui mérite ce traitement ?
 <Une tache d\'eau sur l\'encre a rendu cette partie de la lettre illisible.>
 Peut-être le découvrirai-je dans une autre vie.' WHERE entry = 3543;
-UPDATE locales_page_text SET entry = 3544, Text_loc2 = null WHERE entry = 3544;
+
 UPDATE locales_page_text SET entry = 3545, Text_loc2 = 'Feuilleter les pages du livre qui s\'émiettent ne révèle rien d\'autre que des descriptions de la vie à la ferme de Valgan. Le changement des saisons, les semailles et les récoltes sont notés, ainsi que les naissances et les décès d\'enfants.$b$bLes notes s\'arrêtent brusquement avec une courte description de la peste. Aucun des enfants décrits n\'était assez âgé pour suivre une formation de chevalier, s\'il y en a qui ont survécu.' WHERE entry = 3545;
 UPDATE locales_page_text SET entry = 3546, Text_loc2 = 'La première moitié du journal ne semble être rien d\'autre que le livre de compte de monsieur Cooper. Des colonnes manuscrites de chiffres indiquent la fabrication et la vente de barils aux habitants de Ruisselune et même à quelques clients de Hurlevent.$B$BL\'autre moitié du livre semble être le journal de monsieur Cooper, où il parle de laisser l\'affaire familiale à son plus jeune frère. Il n\'est pas fait mention d\'enfant.' WHERE entry = 3546;
 UPDATE locales_page_text SET entry = 3547, Text_loc2 = '<On dirait qu\'Archavon tenait un journal. Il semble écrit dans différentes langues.>
