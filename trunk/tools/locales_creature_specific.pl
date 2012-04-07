@@ -97,7 +97,7 @@ while ($ligne = <$creatureId> ) {
 			#################Subname#################
 			if($sql{ 'SubName' } ne '' && $sql{ 'SubName' } !~ /\[/)
 			{ 
-				print locales_creature_fr ",`description_loc2` = '".$sql{ 'SubName' }."' ";
+				print locales_creature_fr ",`subname_loc2` = '".$sql{ 'SubName' }."' ";
 				$sql{ 'SubName' } = '';
 			};
 			
