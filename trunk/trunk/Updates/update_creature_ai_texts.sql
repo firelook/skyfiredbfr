@@ -1,3 +1,9 @@
+/*
+SET NAMES utf8;                        
+*/
+
+
+
 UPDATE creature_ai_texts SET entry = -300006, content_loc2 = 'Je vais vous écraser!!' where content_loc2 ='' and  entry = -300006;
 UPDATE creature_ai_texts SET entry = -300007, content_loc2 = 'Personne ne peut briser mon bouclier de fer!' where content_loc2 ='' and  entry = -300007;
 UPDATE creature_ai_texts SET entry = -200000, content_loc2 = 'INTRUS! INTRUS!' where content_loc2 ='' and  entry = -200000;
