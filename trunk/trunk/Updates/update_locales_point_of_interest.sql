@@ -1,6 +1,6 @@
-﻿/*
+﻿
 SET NAMES utf8;                        
-*/
+
 
 UPDATE locales_points_of_interest SET entry = 1, icon_name_loc2 = 'L''auberge de la Fierté du Lion' where icon_name_loc2 ='' and  entry = 1;
 UPDATE locales_points_of_interest SET entry = 2, icon_name_loc2 = 'Zaldimar Wefhellt' where icon_name_loc2 ='' and  entry = 2;
