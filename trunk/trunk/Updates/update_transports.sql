@@ -1,4 +1,14 @@
-﻿REPLACE INTO `transports` VALUES ('1', '176495', 'Campement Grom\'Gol et Fossoyeuse (\"The Purple Princess\")', '315026', '');
+﻿/*
+SET NAMES utf8;                        
+*/
+
+
+
+
+
+
+
+REPLACE INTO `transports` VALUES ('1', '176495', 'Campement Grom\'Gol et Fossoyeuse (\"The Purple Princess\")', '315026', '');
 REPLACE INTO `transports` VALUES ('2', '176310', 'Port de Hurlevent et Auberdine (\"Ship (The Bravery)\")', '234510', '');
 REPLACE INTO `transports` VALUES ('3', '176244', 'Teldrassil et Auberdine (\"The Moonspray\")', '312317', '');
 REPLACE INTO `transports` VALUES ('4', '176231', 'Port de Menethil et L\'ile de Theramore (\"The Lady Mehley\")', '230162', '');
