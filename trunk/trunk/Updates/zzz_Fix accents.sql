@@ -811,3 +811,55 @@ UPDATE `arkcore_string` SET content_loc2 = replace(content_loc2,'à¹','ù');
 UPDATE `arkcore_string` SET content_loc2 = replace(content_loc2,'Â',',');
 
 
+UPDATE `game_event` SET description = replace(description,'Ã¢','â');
+UPDATE `game_event` SET description = replace(description,'Ã©','é');
+UPDATE `game_event` SET description = replace(description,'Ã»','û');
+UPDATE `game_event` SET description = replace(description,'Ã¯','ï');
+UPDATE `game_event` SET description = replace(description,'Ãª','ê');
+UPDATE `game_event` SET description = replace(description,'Ã¨','è');
+UPDATE `game_event` SET description = replace(description,'Ã®','î');
+UPDATE `game_event` SET description = replace(description,'Ã´','ô');
+UPDATE `game_event` SET description = replace(description,'ÃƒÂ©','é');
+UPDATE `game_event` SET description = replace(description,'Ã€','à');
+UPDATE `game_event` SET description = replace(description,'â€™',"'");
+UPDATE `game_event` SET description = replace(description,'â€“','à');
+UPDATE `game_event` SET description = replace(description,'â€¦','!');
+UPDATE `game_event` SET description = replace(description,'Ã','à');
+UPDATE `game_event` SET description = replace(description,'àŠ','ê');
+UPDATE `game_event` SET description = replace(description,'à§','ç');
+UPDATE `game_event` SET description = replace(description,'â€œ','"');
+UPDATE `game_event` SET description = replace(description,'â€?','"');
+UPDATE `game_event` SET description = replace(description,'â€˜',"'");
+UPDATE `game_event` SET description = replace(description,'cÅ“','œ');
+UPDATE `game_event` SET description = replace(description,'à¹','ù');
+UPDATE `game_event` SET description = replace(description,'Â',',');
+
+
+
+UPDATE `creature_ai_texts` SET content_loc2 = replace(content_loc2,'Ã¢','â');
+UPDATE `creature_ai_texts` SET content_loc2 = replace(content_loc2,'Ã©','é');
+UPDATE `creature_ai_texts` SET content_loc2 = replace(content_loc2,'Ã»','û');
+UPDATE `creature_ai_texts` SET content_loc2 = replace(content_loc2,'Ã¯','ï');
+UPDATE `creature_ai_texts` SET content_loc2 = replace(content_loc2,'Ãª','ê');
+UPDATE `creature_ai_texts` SET content_loc2 = replace(content_loc2,'Ã¨','è');
+UPDATE `creature_ai_texts` SET content_loc2 = replace(content_loc2,'Ã®','î');
+UPDATE `creature_ai_texts` SET content_loc2 = replace(content_loc2,'Ã´','ô');
+UPDATE `creature_ai_texts` SET content_loc2 = replace(content_loc2,'ÃƒÂ©','é');
+UPDATE `creature_ai_texts` SET content_loc2 = replace(content_loc2,'Ã€','à');
+UPDATE `creature_ai_texts` SET content_loc2 = replace(content_loc2,'â€™',"'");
+UPDATE `creature_ai_texts` SET content_loc2 = replace(content_loc2,'â€“','à');
+UPDATE `creature_ai_texts` SET content_loc2 = replace(content_loc2,'â€¦','!');
+UPDATE `creature_ai_texts` SET content_loc2 = replace(content_loc2,'Ã','à');
+UPDATE `creature_ai_texts` SET content_loc2 = replace(content_loc2,'àŠ','ê');
+UPDATE `creature_ai_texts` SET content_loc2 = replace(content_loc2,'à§','ç');
+UPDATE `creature_ai_texts` SET content_loc2 = replace(content_loc2,'â€œ','"');
+UPDATE `creature_ai_texts` SET content_loc2 = replace(content_loc2,'â€?','"');
+UPDATE `creature_ai_texts` SET content_loc2 = replace(content_loc2,'â€˜',"'");
+UPDATE `creature_ai_texts` SET content_loc2 = replace(content_loc2,'cÅ“','œ');
+UPDATE `creature_ai_texts` SET content_loc2 = replace(content_loc2,'à¹','ù');
+UPDATE `creature_ai_texts` SET content_loc2 = replace(content_loc2,'Â',',');
+
+
+
+
+
