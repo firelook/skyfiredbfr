@@ -214,10 +214,10 @@ SET @ENTRY = (SELECT `data0` FROM `gameobject_template` WHERE `entry` = 175680);
 REPLACE INTO `locales_page_text` (`entry`, `Text_loc2`) VALUES
 (@ENTRY, "Cet œuf que l\\'on trouve dans les terres écrasées de chaleur du désert de Tanaris reste un mystère pour les écologistes modernes. Les tests de datation suggèrent que l\\'œuf pourrait être vieux de mille ans. Bien que certains éléments évoquent une structure insectoïde, sa véritable origine est difficile à cerner. Les espèces qui pondent ce type d\\'œufs ne sont toujours pas connues.");
 
-SET @ENTRY = (SELECT `data0` FROM `gameobject_template` WHERE `entry` = 195014);
+/*SET @ENTRY = (SELECT `data0` FROM `gameobject_template` WHERE `entry` = 195014);
 REPLACE INTO `locales_page_text` (`entry`, `Text_loc2`) VALUES
 (@ENTRY, "$B$B<h1 align=\"center\">En mémoire de</h1>$B<h1 align=\"center\">Shaldyn, Gershala, Volcor</h1><h1 align=\"center\">et de tous ceux qui ne sont jamais rentrés.</h1>");
-
+*/
 SET @ENTRY = (SELECT `data0` FROM `gameobject_template` WHERE `entry` = 175686);
 REPLACE INTO `locales_page_text` (`entry`, `Text_loc2`) VALUES
 (@ENTRY, "Trouvée dans les ruines sous-marines de Suramar, cette astrolabe fonctionnelle a été forgée par les Bien-nés des elfes de la nuit il y a près de douze mille ans. Les Bien-nés, obsédés par la magie, l\\'occulte et l\\'astronomie, ont développé une série d\\'appareils ingénieux. Cet outil fournit des renseignements précieux sur le niveau scientifique des anciens elfes de la nuit.");
@@ -305,9 +305,11 @@ REPLACE INTO `locales_page_text` (`entry`, `Text_loc2`) VALUES
 ('@ENTRY + 7', "Pour symboliser la renaissance des orcs, Thrall retourna à la forteresse de Fort-de-Durn. Il mit un terme définitif aux plans de son ancien maître, Landenoire, en assiégeant les réserves. Malheureusement, lors de la libération d\\'une des réserves, Marteau-du-destin tomba au combat."),
 ('@ENTRY + 8', "Thrall ramassa le légendaire marteau de guerre de Marteau-du-destin, endossa son armure noire et devint le nouveau chef de la Horde. Dans les mois qui suivirent, la petite mais vivace Horde de Thrall libéra plusieurs réserves et contra les efforts de l\\'Alliance visant à l\\'en empêcher. Encouragé par son meilleur ami et son mentor Grom Hurlenfer, Thrall s\\'assura qu\\'aucun orc ne serait jamais plus esclave.");
 
+/*
 SET @ENTRY = (SELECT `data0` FROM `gameobject_template` WHERE `entry` = 207290);
 REPLACE INTO `locales_page_text` (`entry`, `Text_loc2`) VALUES
 (@ENTRY, "Mode d’emploi du prototype de faucheur, v.1.28.92$B$B1. Pour démarrer le prototype de faucheur, montez dans le véhicule et enclenchez le mécanisme de déverrouillage près du bouton rouge. N\\'appuyez sur le bouton rouge sous aucun prétexte.$B$B2. Le prototype de faucheur a été conçu pour supporter la terrible chaleur de la marmite de scories. N’essayez pas de déplacer les récipients à scories sans le faucheur !$B$B3. La valve de vapeur du prototype accumule de la vapeur lorsqu’il est actif. Elle peut servir à activer les servomoteurs hydrauliques pour l’accélérer, ou une pompe à pression pour soulever de lourdes charges.");
+*/
 
 SET @ENTRY = (SELECT `data0` FROM `gameobject_template` WHERE `entry` = 192835);
 REPLACE INTO `locales_page_text` (`entry`, `Text_loc2`) VALUES
@@ -430,9 +432,11 @@ REPLACE INTO `locales_page_text` (`entry`, `Text_loc2`) VALUES
 ('@ENTRY + 4', "Ils nommèrent leur terre Khaz Modan, ou \"Montagne de Khaz\", en l\\'honneur du titan donneur de formes, Khaz\\'goroth. Pour bâtir un autel à la gloire du titan leur père, les nains érigèrent une immense forge au cœur de la montagne. La ville qui s\\'étendait autour de la Forge prit désormais le nom de Forgefer."),
 ('@ENTRY + 5', "Les nains, fascinés par nature par la taille des gemmes et des pierres, commencèrent à miner les montagnes environnantes à la recherche des précieuses ressources. Satisfaits de leur sort sous terre, les nains restèrent à l\\'écart de leurs voisins vivant à la surface.");
 
+/*
 SET @ENTRY = (SELECT `data0` FROM `gameobject_template` WHERE `entry` = 195119);
 REPLACE INTO `locales_page_text` (`entry`, `Text_loc2`) VALUES
 (@ENTRY, "<La petite pierre tombale est finement gravée de runes orques.>$B$B         - BIEN AIMÉE OLGRA -$B            Femme de Mankrik$B$B     J\\'ai passé l\\'éternité à te chercher$B        Et maintenant tu es partie");
+*/
 
 SET @ENTRY = (SELECT `data0` FROM `gameobject_template` WHERE `entry` = 177204);
 REPLACE INTO `locales_page_text` (`entry`, `Text_loc2`) VALUES
@@ -671,10 +675,12 @@ REPLACE INTO `locales_page_text` (`entry`, `Text_loc2`) VALUES
 ('@ENTRY + 3', "Les druides, incapables de se résoudre à tuer tant des leurs, décidèrent d\\'ostraciser les Bien-nés. Dath’Remar et ses compagnons, contents d\\'être enfin débarrassés de leurs cousins conservateurs, embarquèrent dans des navires spécialement conçus et prirent les mers. Personne ne savait ce qui les attendait de l\\'autre côté du furieux Maelström, mais ils avaient hâte d\\'établir leur propre foyer où ils pourraient pratiquer impunément leur chère magie."),
 ('@ENTRY + 4', "Les Bien-nés, ou ‘Quel’dorei’ selon l\\'appellation ancienne d\\'Azshara, finirent par aborder sur une terre à l\\'est que les hommes appelleraient un jour Lordaeron. Ils décidèrent de construire leur propre royaume magique, Quel’Thalas, et rejetèrent l\\'adoration de la lune et la vie nocturne qui avaient jusque-là soudé les elfes. On ne les connut plus désormais que sous le nom de hauts-elfes.");
 
+/*
 SET @ENTRY = (SELECT `data0` FROM `gameobject_template` WHERE `entry` = 207571);
 REPLACE INTO `locales_page_text` (`entry`, `Text_loc2`) VALUES
 (@ENTRY, "Félicitations ! Vous venez d\\'acheter la base aérienne-en-boîte (TM) brevetée de Baille-Fonds !$B$BVotre nouvelle base aérienne comprend une garantie allant jusqu\\'à dix ans de « tuning et aérostation ». Il suffit simplement de la déployer sur une surface plane et stable.$B$BL\\'horizon vous appartient : prenez-le à bras le corps, étreignez son cœur bleu et nuageux, et mordez dans le ciel à pleines dents !"),
 ('@ENTRY + 1', "ATTENTION : LA BASE AÉRIENNE-EN-BOÎTE NE DOIT JAMAIS, SOUS AUCUN PRÉTEXTE, ÊTRE DEPLOYÉE À FLANC DE COLLINE.");
+*/
 
 SET @ENTRY = (SELECT `data0` FROM `gameobject_template` WHERE `entry` = 175854);
 REPLACE INTO `locales_page_text` (`entry`, `Text_loc2`) VALUES
@@ -700,13 +706,15 @@ REPLACE INTO `locales_page_text` (`entry`, `Text_loc2`) VALUES
 SET @ENTRY = (SELECT `data0` FROM `gameobject_template` WHERE `entry` = 175659);
 REPLACE INTO `locales_page_text` (`entry`, `Text_loc2`) VALUES
 (@ENTRY, "Ici repose le roi Terenas Menethil II, le dernier vrai roi de Lordaeron.$B$BSes actes furent grands, son règne fut long, sa mort était impensable. $B$B     \"Que le père ne soit pas souillé par les actions du fils. $B     Que la couronne sanglante reste perdue et oubliée.\"");
-
+/*
 SET @ENTRY = (SELECT `data0` FROM `gameobject_template` WHERE `entry` = 207200);
 REPLACE INTO `locales_page_text` (`entry`, `Text_loc2`) VALUES
 (@ENTRY, "J’ai fait bien attention à ne pas toucher l’échantillon, pour éviter toute contamination. Cette précaution s’est avérée utile, car mes recherches préliminaires indiquent que l’objet est lié aux Dieux très anciens. Tout contact avec cet artéfact pourrait nuire gravement à ma santé.$B$BJ’espère juste que j’y ai échappé pour le moment."),
 ('@ENTRY + 1', "Cela ressemble beaucoup à de la saronite, mais il y manque plusieurs caractéristiques clés. Géographiquement, ça ne tient pas. Se pourrait-il qu’il y ait un Dieu très ancien sous les Royaumes de l’est ? Aucune expédition n’a jamais rien révélé dans ce sens, mais le cataclysme qui a accompagné le retour d’Aile de mort a mis au jour de nombreuses reliques enfouies."),
 ('@ENTRY + 2', "J’envoie l’échantillon à Lune-d’argent. Ils sont mieux équipés pour protéger les chercheurs des effets indésirables de la relique.$B$BPar ailleurs, je vais cacher ce journal dans un endroit sûr. Si la Ligue des explorateurs mettait la main sur cette information, les conséquences pourraient être catastrophiques !");
+*/
 
+/*
 SET @ENTRY = (SELECT `data0` FROM `gameobject_template` WHERE `entry` = 204273);
 REPLACE INTO `locales_page_text` (`entry`, `Text_loc2`) VALUES
 (@ENTRY, "$B$B<h1 align=\"center\">LES VERTES COLLINES DE STRANGLERONCE</h1>$B<H3 align=\"center\">par Hemet Nesingwary</H3>"),
@@ -739,6 +747,7 @@ REPLACE INTO `locales_page_text` (`entry`, `Text_loc2`) VALUES
 ('@ENTRY + 27', "Ajeck et sire Erlgadin ont préparé leurs armes, un à chacun de mes côtés, nos dos tournés vers la mer. Barnil a laissé échapper un soupir et a levé sa hache. Les flagellants étaient presque sur nous. Ils avançaient moins vite. Ils traquaient leurs proies maintenant qu\\'ils savaient qu\\'ils nous avaient piégés."),
 ('@ENTRY + 28', "Et le miracle a eu lieu. Loin sur notre flanc, nous avons entendu le rugissement caractéristique et terrifiant du grand tigre blanc. Malgré leur nombre, les raptors ont fait demi-tour et se sont dispersés dans toutes les directions. Nous avons vu un bref éclair blanc : le tigre passait devant nous et se précipitait sur l\\'un des raptors. Inutile de donner des ordres : nous savions tous que l\\'heure de fuir avait sonné."),
 ('@ENTRY + 29', "Nous avons foncé jusqu\\'au campement, sans ralentir. Au cours de la nuit, assis silencieusement autour du feu de camp, nous avons médité sur l\\'étrange destin qui venait de nous sauver la vie. Tels sont les risques de la chasse. Nous jouons avec le destin. Chacun de nous, à un moment ou à un autre, rencontrera sa fin entre ses dents aiguisées. Le nain que je suis est simplement heureux que ce moment ne soit pas arrivé dans les vertes collines de Strangleronce.$B$B—Fin—");
+*/
 
 SET @ENTRY = (SELECT `data0` FROM `gameobject_template` WHERE `entry` = 182203);
 REPLACE INTO `locales_page_text` (`entry`, `Text_loc2`) VALUES
@@ -1069,12 +1078,13 @@ REPLACE INTO `locales_page_text` (`entry`, `Text_loc2`) VALUES
 ('@ENTRY + 3', "Jour 2145866 :$BLes petits hommes verts en ont amené plein d\\'autres, se sont montrés du doigt, et puis ils se sont tous mis à se battre !$B$BJe reprends responsabilités de garde dans la salle pour sécurité, mais moi emporte des tas de babioles à eux avec moi pour que moi s\\'ennuie moins cette fois.$B                -ARCHAVON$B$BJour 2146240 :$BLes choses sont devenues plus pires. Moi suis pas sûr de ce que veulent les Faiseurs de moi. Moi essaie de rester dans ma salle, mais les méchantes personnes poursuivent moi plusieurs fois par jour. Ils prennent mes babioles.$B                -ARCHAVON"),
 ('@ENTRY + 4', "Jour 2147021 :$BFrères de moi sont revenus ! En fait, ils dormaient dans d\\'autres salles fermées.$B$BMoi un peu triste qu\\'ile me laissent seul pour tout garder, mais moi partage plus brillantes babioles de moi avec eux quand même parce que moi fatigué être seul et attaqué tout le temps.$B                -ARCHAVON$B$BJour 2147060 :$BLes méchantes petites personnes ont commencé à attaquer frères de moi, ça triste. Mais ils laissent moi tranquille la plupart du temps maintenant, ça pas triste.$B$BMoi pense ils veulent les babioles brillantes que moi donner.  Moi sentir moi coupable.$B                -ARCHAVON");
 
+/*
 SET @ENTRY = (SELECT `data0` FROM `gameobject_template` WHERE `entry` = 207199);
 REPLACE INTO `locales_page_text` (`entry`, `Text_loc2`) VALUES
 (@ENTRY, "Fascinant ! C’est un bout de Dieu très ancien ! Exactement ce pour quoi on m’a envoyé ici ! Nos estimations étaient justes !$B$BAllez, quelques petites bières pour fêter ça !"),
 ('@ENTRY + 1', "Je me sens bizarre. Un truc ne va pas. Peut-être la bière ? Je vérifie."),
 ('@ENTRY + 2', "Ce n’était pas la bière, c’est l’artéfact. J’aurais dû m’en douter. Je l’envoie à Forgefer pour des analyses complémentaires.$B$BCette Garley Courlumière du Reliquaire m’a à l’œil depuis quelques temps… Je pense qu’elle soupçonne quelque chose. Je vais cacher ce journal là où elle n’aura aucune chance de le trouver.$B$BAprès quoi, retour à la bière.");
-
+*/
 SET @ENTRY = (SELECT `data0` FROM `gameobject_template` WHERE `entry` = 191664);
 REPLACE INTO `locales_page_text` (`entry`, `Text_loc2`) VALUES
 (@ENTRY, "Le décret du Fléau$BChapitre 1$BPar Kel\\'Thuzad$B$BLes racines du Fléau plongent dans la folie de toutes les races. Notre accession au pouvoir est le produit des péchés de ceux qui veulent notre fin. Les soi-disant « héros » de la terre tombent devant nous en ayant recours à une mesure de nos idéaux pour parvenir à la victoire qu\\'ils ont imaginée. Leur victoire véhicule une prise de conscience du fait que sans ce qu\\'ils décrivent comme déplorable pour l\\'obtenir, nous les aurions alors vaincus. Dans les deux cas, victoire ou défaite, le Fléau gagne invariablement. Quand on accepte les faits, la soumission à notre volonté est inévitable."),
