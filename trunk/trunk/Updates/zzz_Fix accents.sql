@@ -1,5 +1,101 @@
 -- For those who have a problems with the accents.
--- @ made by sulbutx
+-- @ made by sulbutx + Firelook
+
+UPDATE `locales_gossip_menu_option` SET option_text_loc2 = replace(option_text_loc2,'Ã¢','â');
+UPDATE `locales_gossip_menu_option` SET option_text_loc2 = replace(option_text_loc2,'Ã©','é');
+UPDATE `locales_gossip_menu_option` SET option_text_loc2 = replace(option_text_loc2,'Ã»','û');
+UPDATE `locales_gossip_menu_option` SET option_text_loc2 = replace(option_text_loc2,'Ã¯','ï');
+UPDATE `locales_gossip_menu_option` SET option_text_loc2 = replace(option_text_loc2,'Ãª','ê');
+UPDATE `locales_gossip_menu_option` SET option_text_loc2 = replace(option_text_loc2,'Ã¨','è');
+UPDATE `locales_gossip_menu_option` SET option_text_loc2 = replace(option_text_loc2,'Ã®','î');
+UPDATE `locales_gossip_menu_option` SET option_text_loc2 = replace(option_text_loc2,'Ã´','ô');
+UPDATE `locales_gossip_menu_option` SET option_text_loc2 = replace(option_text_loc2,'ÃƒÂ©','é');
+UPDATE `locales_gossip_menu_option` SET option_text_loc2 = replace(option_text_loc2,'Ã€','à');
+UPDATE `locales_gossip_menu_option` SET option_text_loc2 = replace(option_text_loc2,'â€™',"'");
+UPDATE `locales_gossip_menu_option` SET option_text_loc2 = replace(option_text_loc2,'â€“','à');
+UPDATE `locales_gossip_menu_option` SET option_text_loc2 = replace(option_text_loc2,'â€¦','!');
+UPDATE `locales_gossip_menu_option` SET option_text_loc2 = replace(option_text_loc2,'Ã','à');
+UPDATE `locales_gossip_menu_option` SET option_text_loc2 = replace(option_text_loc2,'àŠ','ê');
+UPDATE `locales_gossip_menu_option` SET option_text_loc2 = replace(option_text_loc2,'à§','ç');
+UPDATE `locales_gossip_menu_option` SET option_text_loc2 = replace(option_text_loc2,'â€œ','"');
+UPDATE `locales_gossip_menu_option` SET option_text_loc2 = replace(option_text_loc2,'â€?','"');
+UPDATE `locales_gossip_menu_option` SET option_text_loc2 = replace(option_text_loc2,'â€˜',"'");
+UPDATE `locales_gossip_menu_option` SET option_text_loc2 = replace(option_text_loc2,'cÅ“','œ');
+UPDATE `locales_gossip_menu_option` SET option_text_loc2 = replace(option_text_loc2,'à¹','ù');
+UPDATE `locales_gossip_menu_option` SET option_text_loc2 = replace(option_text_loc2,'Â',',');
+
+
+
+UPDATE `locales_achievement_reward` SET text_loc2 = replace(text_loc2,'Ã¢','â');
+UPDATE `locales_achievement_reward` SET text_loc2 = replace(text_loc2,'Ã©','é');
+UPDATE `locales_achievement_reward` SET text_loc2 = replace(text_loc2,'Ã»','û');
+UPDATE `locales_achievement_reward` SET text_loc2 = replace(text_loc2,'Ã¯','ï');
+UPDATE `locales_achievement_reward` SET text_loc2 = replace(text_loc2,'Ãª','ê');
+UPDATE `locales_achievement_reward` SET text_loc2 = replace(text_loc2,'Ã¨','è');
+UPDATE `locales_achievement_reward` SET text_loc2 = replace(text_loc2,'Ã®','î');
+UPDATE `locales_achievement_reward` SET text_loc2 = replace(text_loc2,'Ã´','ô');
+UPDATE `locales_achievement_reward` SET text_loc2 = replace(text_loc2,'ÃƒÂ©','é');
+UPDATE `locales_achievement_reward` SET text_loc2 = replace(text_loc2,'Ã€','à');
+UPDATE `locales_achievement_reward` SET text_loc2 = replace(text_loc2,'â€™',"'");
+UPDATE `locales_achievement_reward` SET text_loc2 = replace(text_loc2,'â€“','à');
+UPDATE `locales_achievement_reward` SET text_loc2 = replace(text_loc2,'â€¦','!');
+UPDATE `locales_achievement_reward` SET text_loc2 = replace(text_loc2,'Ã','à');
+UPDATE `locales_achievement_reward` SET text_loc2 = replace(text_loc2,'àŠ','ê');
+UPDATE `locales_achievement_reward` SET text_loc2 = replace(text_loc2,'à§','ç');
+UPDATE `locales_achievement_reward` SET text_loc2 = replace(text_loc2,'â€œ','"');
+UPDATE `locales_achievement_reward` SET text_loc2 = replace(text_loc2,'â€?','"');
+UPDATE `locales_achievement_reward` SET text_loc2 = replace(text_loc2,'â€˜',"'");
+UPDATE `locales_achievement_reward` SET text_loc2 = replace(text_loc2,'cÅ“','œ');
+UPDATE `locales_achievement_reward` SET text_loc2 = replace(text_loc2,'à¹','ù');
+UPDATE `locales_achievement_reward` SET text_loc2 = replace(text_loc2,'Â',',');
+
+
+UPDATE `locales_achievement_reward` SET subject_loc2 = replace(subject_loc2,'Ã¢','â');
+UPDATE `locales_achievement_reward` SET subject_loc2 = replace(subject_loc2,'Ã©','é');
+UPDATE `locales_achievement_reward` SET subject_loc2 = replace(subject_loc2,'Ã»','û');
+UPDATE `locales_achievement_reward` SET subject_loc2 = replace(subject_loc2,'Ã¯','ï');
+UPDATE `locales_achievement_reward` SET subject_loc2 = replace(subject_loc2,'Ãª','ê');
+UPDATE `locales_achievement_reward` SET subject_loc2 = replace(subject_loc2,'Ã¨','è');
+UPDATE `locales_achievement_reward` SET subject_loc2 = replace(subject_loc2,'Ã®','î');
+UPDATE `locales_achievement_reward` SET subject_loc2 = replace(subject_loc2,'Ã´','ô');
+UPDATE `locales_achievement_reward` SET subject_loc2 = replace(subject_loc2,'ÃƒÂ©','é');
+UPDATE `locales_achievement_reward` SET subject_loc2 = replace(subject_loc2,'Ã€','à');
+UPDATE `locales_achievement_reward` SET subject_loc2 = replace(subject_loc2,'â€™',"'");
+UPDATE `locales_achievement_reward` SET subject_loc2 = replace(subject_loc2,'â€“','à');
+UPDATE `locales_achievement_reward` SET subject_loc2 = replace(subject_loc2,'â€¦','!');
+UPDATE `locales_achievement_reward` SET subject_loc2 = replace(subject_loc2,'Ã','à');
+UPDATE `locales_achievement_reward` SET subject_loc2 = replace(subject_loc2,'àŠ','ê');
+UPDATE `locales_achievement_reward` SET subject_loc2 = replace(subject_loc2,'à§','ç');
+UPDATE `locales_achievement_reward` SET subject_loc2 = replace(subject_loc2,'â€œ','"');
+UPDATE `locales_achievement_reward` SET subject_loc2 = replace(subject_loc2,'â€?','"');
+UPDATE `locales_achievement_reward` SET subject_loc2 = replace(subject_loc2,'â€˜',"'");
+UPDATE `locales_achievement_reward` SET subject_loc2 = replace(subject_loc2,'cÅ“','œ');
+UPDATE `locales_achievement_reward` SET subject_loc2 = replace(subject_loc2,'à¹','ù');
+UPDATE `locales_achievement_reward` SET subject_loc2 = replace(subject_loc2,'Â',',');
+
+UPDATE `locales_item_set_names` SET name_loc2 = replace(name_loc2,'Ã¢','â');
+UPDATE `locales_item_set_names` SET name_loc2 = replace(name_loc2,'Ã©','é');
+UPDATE `locales_item_set_names` SET name_loc2 = replace(name_loc2,'Ã»','û');
+UPDATE `locales_item_set_names` SET name_loc2 = replace(name_loc2,'Ã¯','ï');
+UPDATE `locales_item_set_names` SET name_loc2 = replace(name_loc2,'Ãª','ê');
+UPDATE `locales_item_set_names` SET name_loc2 = replace(name_loc2,'Ã¨','è');
+UPDATE `locales_item_set_names` SET name_loc2 = replace(name_loc2,'Ã®','î');
+UPDATE `locales_item_set_names` SET name_loc2 = replace(name_loc2,'Ã´','ô');
+UPDATE `locales_item_set_names` SET name_loc2 = replace(name_loc2,'ÃƒÂ©','é');
+UPDATE `locales_item_set_names` SET name_loc2 = replace(name_loc2,'Ã€','à');
+UPDATE `locales_item_set_names` SET name_loc2 = replace(name_loc2,'â€™',"'");
+UPDATE `locales_item_set_names` SET name_loc2 = replace(name_loc2,'â€“','à');
+UPDATE `locales_item_set_names` SET name_loc2 = replace(name_loc2,'â€¦','!');
+UPDATE `locales_item_set_names` SET name_loc2 = replace(name_loc2,'Ã','à');
+UPDATE `locales_item_set_names` SET name_loc2 = replace(name_loc2,'àŠ','ê');
+UPDATE `locales_item_set_names` SET name_loc2 = replace(name_loc2,'à§','ç');
+UPDATE `locales_item_set_names` SET name_loc2 = replace(name_loc2,'â€œ','"');
+UPDATE `locales_item_set_names` SET name_loc2 = replace(name_loc2,'â€?','"');
+UPDATE `locales_item_set_names` SET name_loc2 = replace(name_loc2,'â€˜',"'");
+UPDATE `locales_item_set_names` SET name_loc2 = replace(name_loc2,'cÅ“','œ');
+UPDATE `locales_item_set_names` SET name_loc2 = replace(name_loc2,'à¹','ù');
+UPDATE `locales_item_set_names` SET name_loc2 = replace(name_loc2,'Â',',');
+
 
 UPDATE `locales_creature` SET name_loc2 = replace(name_loc2,'Ã¢','â');
 UPDATE `locales_creature` SET name_loc2 = replace(name_loc2,'Ã©','é');
@@ -762,7 +858,7 @@ UPDATE `locales_quest` SET ObjectiveText4_loc2 = replace(ObjectiveText4_loc2,'Â'
 
 
 
-
+/*
 UPDATE `skyfire_string` SET content_loc2 = replace(content_loc2,'Ã¢','â');
 UPDATE `skyfire_string` SET content_loc2 = replace(content_loc2,'Ã©','é');
 UPDATE `skyfire_string` SET content_loc2 = replace(content_loc2,'Ã»','û');
@@ -785,7 +881,7 @@ UPDATE `skyfire_string` SET content_loc2 = replace(content_loc2,'â€˜',"'");
 UPDATE `skyfire_string` SET content_loc2 = replace(content_loc2,'cÅ“','œ');
 UPDATE `skyfire_string` SET content_loc2 = replace(content_loc2,'à¹','ù');
 UPDATE `skyfire_string` SET content_loc2 = replace(content_loc2,'Â',',');
-
+*/
 
 UPDATE `arkcore_string` SET content_loc2 = replace(content_loc2,'Ã¢','â');
 UPDATE `arkcore_string` SET content_loc2 = replace(content_loc2,'Ã©','é');
