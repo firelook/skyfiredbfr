@@ -1,15 +1,19 @@
 -- // Permet de preparer les tables `locales_*` a l'application d'un patch de traduction
 -- // IMPORTANT : A re-appliquer apres chaque mise a jour de skyfiredb.
-ALTER TABLE `locales_gameobject` CONVERT TO CHARACTER SET utf8 COLLATE utf8_general_ci;
-ALTER TABLE `locales_creature` CONVERT TO CHARACTER SET utf8 COLLATE utf8_general_ci;
-ALTER TABLE `locales_quest` CONVERT TO CHARACTER SET utf8 COLLATE utf8_general_ci;
-ALTER TABLE `locales_item_set_names` CONVERT TO CHARACTER SET utf8 COLLATE utf8_general_ci;
-ALTER TABLE `locales_item` CONVERT TO CHARACTER SET utf8 COLLATE utf8_general_ci;
-ALTER TABLE `locales_page_text` CONVERT TO CHARACTER SET utf8 COLLATE utf8_general_ci;
-ALTER TABLE `locales_npc_text` CONVERT TO CHARACTER SET utf8 COLLATE utf8_general_ci;
-ALTER TABLE `locales_points_of_interest` CONVERT TO CHARACTER SET utf8 COLLATE utf8_general_ci;
+
+
 ALTER TABLE `locales_achievement_reward` CONVERT TO CHARACTER SET utf8 COLLATE utf8_general_ci;
+ALTER TABLE `locales_creature` CONVERT TO CHARACTER SET utf8 COLLATE utf8_general_ci;
+ALTER TABLE `locales_gameobject` CONVERT TO CHARACTER SET utf8 COLLATE utf8_general_ci;
 ALTER TABLE `locales_gossip_menu_option` CONVERT TO CHARACTER SET utf8 COLLATE utf8_general_ci;
+ALTER TABLE `locales_item` CONVERT TO CHARACTER SET utf8 COLLATE utf8_general_ci;
+ALTER TABLE `locales_item_set_names` CONVERT TO CHARACTER SET utf8 COLLATE utf8_general_ci;
+ALTER TABLE `locales_npc_text` CONVERT TO CHARACTER SET utf8 COLLATE utf8_general_ci;
+ALTER TABLE `locales_page_text` CONVERT TO CHARACTER SET utf8 COLLATE utf8_general_ci;
+ALTER TABLE `locales_points_of_interest` CONVERT TO CHARACTER SET utf8 COLLATE utf8_general_ci;
+ALTER TABLE `locales_quest` CONVERT TO CHARACTER SET utf8 COLLATE utf8_general_ci;
+
+
 ALTER TABLE `locales_creature_text` CONVERT TO CHARACTER SET utf8 COLLATE utf8_general_ci;
 
 
