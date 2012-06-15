@@ -23,7 +23,7 @@ UPDATE `locales_gossip_menu_option` SET option_text_loc2 = replace(option_text_l
 UPDATE `locales_gossip_menu_option` SET option_text_loc2 = replace(option_text_loc2,'cÅ“','œ');
 UPDATE `locales_gossip_menu_option` SET option_text_loc2 = replace(option_text_loc2,'à¹','ù');
 UPDATE `locales_gossip_menu_option` SET option_text_loc2 = replace(option_text_loc2,'Â',',');
-
+UPDATE `locales_gossip_menu_option` SET option_text_loc2 = replace(option_text_loc2,'Å“','œ');
 
 
 UPDATE `locales_achievement_reward` SET text_loc2 = replace(text_loc2,'Ã¢','â');
@@ -48,7 +48,7 @@ UPDATE `locales_achievement_reward` SET text_loc2 = replace(text_loc2,'â€˜',"'")
 UPDATE `locales_achievement_reward` SET text_loc2 = replace(text_loc2,'cÅ“','œ');
 UPDATE `locales_achievement_reward` SET text_loc2 = replace(text_loc2,'à¹','ù');
 UPDATE `locales_achievement_reward` SET text_loc2 = replace(text_loc2,'Â',',');
-
+UPDATE `locales_achievement_reward` SET text_loc2 = replace(text_loc2,'Å“','œ');
 
 UPDATE `locales_achievement_reward` SET subject_loc2 = replace(subject_loc2,'Ã¢','â');
 UPDATE `locales_achievement_reward` SET subject_loc2 = replace(subject_loc2,'Ã©','é');
@@ -72,6 +72,7 @@ UPDATE `locales_achievement_reward` SET subject_loc2 = replace(subject_loc2,'â€˜
 UPDATE `locales_achievement_reward` SET subject_loc2 = replace(subject_loc2,'cÅ“','œ');
 UPDATE `locales_achievement_reward` SET subject_loc2 = replace(subject_loc2,'à¹','ù');
 UPDATE `locales_achievement_reward` SET subject_loc2 = replace(subject_loc2,'Â',',');
+UPDATE `locales_achievement_reward` SET subject_loc2 = replace(subject_loc2,'Å“','œ');
 
 UPDATE `locales_item_set_names` SET name_loc2 = replace(name_loc2,'Ã¢','â');
 UPDATE `locales_item_set_names` SET name_loc2 = replace(name_loc2,'Ã©','é');
@@ -95,7 +96,7 @@ UPDATE `locales_item_set_names` SET name_loc2 = replace(name_loc2,'â€˜',"'");
 UPDATE `locales_item_set_names` SET name_loc2 = replace(name_loc2,'cÅ“','œ');
 UPDATE `locales_item_set_names` SET name_loc2 = replace(name_loc2,'à¹','ù');
 UPDATE `locales_item_set_names` SET name_loc2 = replace(name_loc2,'Â',',');
-
+UPDATE `locales_item_set_names` SET name_loc2 = replace(name_loc2,'Å“','œ');
 
 UPDATE `locales_creature` SET name_loc2 = replace(name_loc2,'Ã¢','â');
 UPDATE `locales_creature` SET name_loc2 = replace(name_loc2,'Ã©','é');
@@ -119,6 +120,7 @@ UPDATE `locales_creature` SET name_loc2 = replace(name_loc2,'â€˜',"'");
 UPDATE `locales_creature` SET name_loc2 = replace(name_loc2,'cÅ“','œ');
 UPDATE `locales_creature` SET name_loc2 = replace(name_loc2,'à¹','ù');
 UPDATE `locales_creature` SET name_loc2 = replace(name_loc2,'Â',',');
+UPDATE `locales_creature` SET name_loc2 = replace(name_loc2,'Å“','œ');
 
 UPDATE `locales_creature` SET subname_loc2 = replace(subname_loc2,'Ã¢','â');
 UPDATE `locales_creature` SET subname_loc2 = replace(subname_loc2,'Ã©','é');
@@ -142,6 +144,7 @@ UPDATE `locales_creature` SET subname_loc2 = replace(subname_loc2,'â€˜',"'");
 UPDATE `locales_creature` SET subname_loc2 = replace(subname_loc2,'cÅ“','œ');
 UPDATE `locales_creature` SET subname_loc2 = replace(subname_loc2,'à¹','ù');
 UPDATE `locales_creature` SET subname_loc2 = replace(subname_loc2,'Â',',');
+UPDATE `locales_creature` SET subname_loc2 = replace(subname_loc2,'Å“','œ');
 
 UPDATE `locales_gameobject` SET name_loc2 = replace(name_loc2,'Ã¢','â');
 UPDATE `locales_gameobject` SET name_loc2 = replace(name_loc2,'Ã©','é');
@@ -165,6 +168,7 @@ UPDATE `locales_gameobject` SET name_loc2 = replace(name_loc2,'â€˜',"'");
 UPDATE `locales_gameobject` SET name_loc2 = replace(name_loc2,'cÅ“','œ');
 UPDATE `locales_gameobject` SET name_loc2 = replace(name_loc2,'à¹','ù');
 UPDATE `locales_gameobject` SET name_loc2 = replace(name_loc2,'Â',',');
+UPDATE `locales_gameobject` SET name_loc2 = replace(name_loc2,'Å“','œ');
 
 UPDATE `locales_item` SET name_loc2 = replace(name_loc2,'Ã¢','â');
 UPDATE `locales_item` SET name_loc2 = replace(name_loc2,'Ã©','é');
@@ -188,6 +192,7 @@ UPDATE `locales_item` SET name_loc2 = replace(name_loc2,'â€˜',"'");
 UPDATE `locales_item` SET name_loc2 = replace(name_loc2,'cÅ“','œ');
 UPDATE `locales_item` SET name_loc2 = replace(name_loc2,'à¹','ù');
 UPDATE `locales_item` SET name_loc2 = replace(name_loc2,'Â',',');
+UPDATE `locales_item` SET name_loc2 = replace(name_loc2,'Å“','œ');
 
 UPDATE `locales_item` SET description_loc2 = replace(description_loc2,'Ã¢','â');
 UPDATE `locales_item` SET description_loc2 = replace(description_loc2,'Ã©','é');
@@ -211,6 +216,7 @@ UPDATE `locales_item` SET description_loc2 = replace(description_loc2,'â€˜',"'")
 UPDATE `locales_item` SET description_loc2 = replace(description_loc2,'cÅ“','œ');
 UPDATE `locales_item` SET description_loc2 = replace(description_loc2,'à¹','ù');
 UPDATE `locales_item` SET description_loc2 = replace(description_loc2,'Â',',');
+UPDATE `locales_item` SET description_loc2 = replace(description_loc2,'Å“','œ');
 
 UPDATE `locales_npc_text` SET Text0_0_loc2 = replace(Text0_0_loc2,'Ã¢','â');
 UPDATE `locales_npc_text` SET Text0_0_loc2 = replace(Text0_0_loc2,'Ã©','é');
@@ -234,6 +240,8 @@ UPDATE `locales_npc_text` SET Text0_0_loc2 = replace(Text0_0_loc2,'â€˜',"'");
 UPDATE `locales_npc_text` SET Text0_0_loc2 = replace(Text0_0_loc2,'cÅ“','œ');
 UPDATE `locales_npc_text` SET Text0_0_loc2 = replace(Text0_0_loc2,'à¹','ù');
 UPDATE `locales_npc_text` SET Text0_0_loc2 = replace(Text0_0_loc2,'Â',',');
+UPDATE `locales_npc_text` SET Text0_0_loc2 = replace(Text0_0_loc2,'Å“','œ');
+
 
 UPDATE `locales_npc_text` SET Text0_1_loc2 = replace(Text0_1_loc2,'Ã¢','â');
 UPDATE `locales_npc_text` SET Text0_1_loc2 = replace(Text0_1_loc2,'Ã©','é');
@@ -257,6 +265,7 @@ UPDATE `locales_npc_text` SET Text0_1_loc2 = replace(Text0_1_loc2,'â€˜',"'");
 UPDATE `locales_npc_text` SET Text0_1_loc2 = replace(Text0_1_loc2,'cÅ“','œ');
 UPDATE `locales_npc_text` SET Text0_1_loc2 = replace(Text0_1_loc2,'à¹','ù');
 UPDATE `locales_npc_text` SET Text0_1_loc2 = replace(Text0_1_loc2,'Â',',');
+UPDATE `locales_npc_text` SET Text0_1_loc2 = replace(Text0_1_loc2,'Å“','œ');
 
 UPDATE `locales_npc_text` SET Text1_0_loc2 = replace(Text1_0_loc2,'Ã¢','â');
 UPDATE `locales_npc_text` SET Text1_0_loc2 = replace(Text1_0_loc2,'Ã©','é');
@@ -280,6 +289,7 @@ UPDATE `locales_npc_text` SET Text1_0_loc2 = replace(Text1_0_loc2,'â€˜',"'");
 UPDATE `locales_npc_text` SET Text1_0_loc2 = replace(Text1_0_loc2,'cÅ“','œ');
 UPDATE `locales_npc_text` SET Text1_0_loc2 = replace(Text1_0_loc2,'à¹','ù');
 UPDATE `locales_npc_text` SET Text1_0_loc2 = replace(Text1_0_loc2,'Â',',');
+UPDATE `locales_npc_text` SET Text1_0_loc2 = replace(Text1_0_loc2,'Å“','œ');
 
 UPDATE `locales_npc_text` SET Text1_1_loc2 = replace(Text1_1_loc2,'Ã¢','â');
 UPDATE `locales_npc_text` SET Text1_1_loc2 = replace(Text1_1_loc2,'Ã©','é');
@@ -303,6 +313,7 @@ UPDATE `locales_npc_text` SET Text1_1_loc2 = replace(Text1_1_loc2,'â€˜',"'");
 UPDATE `locales_npc_text` SET Text1_1_loc2 = replace(Text1_1_loc2,'cÅ“','œ');
 UPDATE `locales_npc_text` SET Text1_1_loc2 = replace(Text1_1_loc2,'à¹','ù');
 UPDATE `locales_npc_text` SET Text1_1_loc2 = replace(Text1_1_loc2,'Â',',');
+UPDATE `locales_npc_text` SET Text1_1_loc2 = replace(Text1_1_loc2,'Å“','œ');
 
 UPDATE `locales_npc_text` SET Text2_0_loc2 = replace(Text2_0_loc2,'Ã¢','â');
 UPDATE `locales_npc_text` SET Text2_0_loc2 = replace(Text2_0_loc2,'Ã©','é');
@@ -326,6 +337,7 @@ UPDATE `locales_npc_text` SET Text2_0_loc2 = replace(Text2_0_loc2,'â€˜',"'");
 UPDATE `locales_npc_text` SET Text2_0_loc2 = replace(Text2_0_loc2,'cÅ“','œ');
 UPDATE `locales_npc_text` SET Text2_0_loc2 = replace(Text2_0_loc2,'à¹','ù');
 UPDATE `locales_npc_text` SET Text2_0_loc2 = replace(Text2_0_loc2,'Â',',');
+UPDATE `locales_npc_text` SET Text2_0_loc2 = replace(Text2_0_loc2,'Å“','œ');
 
 UPDATE `locales_npc_text` SET Text2_1_loc2 = replace(Text2_1_loc2,'Ã¢','â');
 UPDATE `locales_npc_text` SET Text2_1_loc2 = replace(Text2_1_loc2,'Ã©','é');
@@ -349,6 +361,7 @@ UPDATE `locales_npc_text` SET Text2_1_loc2 = replace(Text2_1_loc2,'â€˜',"'");
 UPDATE `locales_npc_text` SET Text2_1_loc2 = replace(Text2_1_loc2,'cÅ“','œ');
 UPDATE `locales_npc_text` SET Text2_1_loc2 = replace(Text2_1_loc2,'à¹','ù');
 UPDATE `locales_npc_text` SET Text2_1_loc2 = replace(Text2_1_loc2,'Â',',');
+UPDATE `locales_npc_text` SET Text2_1_loc2 = replace(Text2_1_loc2,'Å“','œ');
 
 UPDATE `locales_npc_text` SET Text3_0_loc2 = replace(Text3_0_loc2,'Ã¢','â');
 UPDATE `locales_npc_text` SET Text3_0_loc2 = replace(Text3_0_loc2,'Ã©','é');
@@ -372,6 +385,7 @@ UPDATE `locales_npc_text` SET Text3_0_loc2 = replace(Text3_0_loc2,'â€˜',"'");
 UPDATE `locales_npc_text` SET Text3_0_loc2 = replace(Text3_0_loc2,'cÅ“','œ');
 UPDATE `locales_npc_text` SET Text3_0_loc2 = replace(Text3_0_loc2,'à¹','ù');
 UPDATE `locales_npc_text` SET Text3_0_loc2 = replace(Text3_0_loc2,'Â',',');
+UPDATE `locales_npc_text` SET Text3_0_loc2 = replace(Text3_0_loc2,'Å“','œ');
 
 UPDATE `locales_npc_text` SET Text3_1_loc2 = replace(Text3_1_loc2,'Ã¢','â');
 UPDATE `locales_npc_text` SET Text3_1_loc2 = replace(Text3_1_loc2,'Ã©','é');
@@ -395,6 +409,7 @@ UPDATE `locales_npc_text` SET Text3_1_loc2 = replace(Text3_1_loc2,'â€˜',"'");
 UPDATE `locales_npc_text` SET Text3_1_loc2 = replace(Text3_1_loc2,'cÅ“','œ');
 UPDATE `locales_npc_text` SET Text3_1_loc2 = replace(Text3_1_loc2,'à¹','ù');
 UPDATE `locales_npc_text` SET Text3_1_loc2 = replace(Text3_1_loc2,'Â',',');
+UPDATE `locales_npc_text` SET Text3_1_loc2 = replace(Text3_1_loc2,'Å“','œ');
 
 UPDATE `locales_npc_text` SET Text4_0_loc2 = replace(Text4_0_loc2,'Ã¢','â');
 UPDATE `locales_npc_text` SET Text4_0_loc2 = replace(Text4_0_loc2,'Ã©','é');
@@ -418,6 +433,7 @@ UPDATE `locales_npc_text` SET Text4_0_loc2 = replace(Text4_0_loc2,'â€˜',"'");
 UPDATE `locales_npc_text` SET Text4_0_loc2 = replace(Text4_0_loc2,'cÅ“','œ');
 UPDATE `locales_npc_text` SET Text4_0_loc2 = replace(Text4_0_loc2,'à¹','ù');
 UPDATE `locales_npc_text` SET Text4_0_loc2 = replace(Text4_0_loc2,'Â',',');
+UPDATE `locales_npc_text` SET Text4_0_loc2 = replace(Text4_0_loc2,'Å“','œ');
 
 UPDATE `locales_npc_text` SET Text4_1_loc2 = replace(Text4_1_loc2,'Ã¢','â');
 UPDATE `locales_npc_text` SET Text4_1_loc2 = replace(Text4_1_loc2,'Ã©','é');
@@ -441,6 +457,7 @@ UPDATE `locales_npc_text` SET Text4_1_loc2 = replace(Text4_1_loc2,'â€˜',"'");
 UPDATE `locales_npc_text` SET Text4_1_loc2 = replace(Text4_1_loc2,'cÅ“','œ');
 UPDATE `locales_npc_text` SET Text4_1_loc2 = replace(Text4_1_loc2,'à¹','ù');
 UPDATE `locales_npc_text` SET Text4_1_loc2 = replace(Text4_1_loc2,'Â',',');
+UPDATE `locales_npc_text` SET Text4_1_loc2 = replace(Text4_1_loc2,'Å“','œ');
 
 UPDATE `locales_npc_text` SET Text5_0_loc2 = replace(Text5_0_loc2,'Ã¢','â');
 UPDATE `locales_npc_text` SET Text5_0_loc2 = replace(Text5_0_loc2,'Ã©','é');
@@ -464,6 +481,7 @@ UPDATE `locales_npc_text` SET Text5_0_loc2 = replace(Text5_0_loc2,'â€˜',"'");
 UPDATE `locales_npc_text` SET Text5_0_loc2 = replace(Text5_0_loc2,'cÅ“','œ');
 UPDATE `locales_npc_text` SET Text5_0_loc2 = replace(Text5_0_loc2,'à¹','ù');
 UPDATE `locales_npc_text` SET Text5_0_loc2 = replace(Text5_0_loc2,'Â',',');
+UPDATE `locales_npc_text` SET Text5_0_loc2 = replace(Text5_0_loc2,'Å“','œ');
 
 UPDATE `locales_npc_text` SET Text5_1_loc2 = replace(Text5_1_loc2,'Ã¢','â');
 UPDATE `locales_npc_text` SET Text5_1_loc2 = replace(Text5_1_loc2,'Ã©','é');
@@ -487,6 +505,7 @@ UPDATE `locales_npc_text` SET Text5_1_loc2 = replace(Text5_1_loc2,'â€˜',"'");
 UPDATE `locales_npc_text` SET Text5_1_loc2 = replace(Text5_1_loc2,'cÅ“','œ');
 UPDATE `locales_npc_text` SET Text5_1_loc2 = replace(Text5_1_loc2,'à¹','ù');
 UPDATE `locales_npc_text` SET Text5_1_loc2 = replace(Text5_1_loc2,'Â',',');
+UPDATE `locales_npc_text` SET Text5_1_loc2 = replace(Text5_1_loc2,'Å“','œ');
 
 UPDATE `locales_npc_text` SET Text6_0_loc2 = replace(Text6_0_loc2,'Ã¢','â');
 UPDATE `locales_npc_text` SET Text6_0_loc2 = replace(Text6_0_loc2,'Ã©','é');
@@ -510,6 +529,7 @@ UPDATE `locales_npc_text` SET Text6_0_loc2 = replace(Text6_0_loc2,'â€˜',"'");
 UPDATE `locales_npc_text` SET Text6_0_loc2 = replace(Text6_0_loc2,'cÅ“','œ');
 UPDATE `locales_npc_text` SET Text6_0_loc2 = replace(Text6_0_loc2,'à¹','ù');
 UPDATE `locales_npc_text` SET Text6_0_loc2 = replace(Text6_0_loc2,'Â',',');
+UPDATE `locales_npc_text` SET Text6_0_loc2 = replace(Text6_0_loc2,'Å“','œ');
 
 UPDATE `locales_npc_text` SET Text6_1_loc2 = replace(Text6_1_loc2,'Ã¢','â');
 UPDATE `locales_npc_text` SET Text6_1_loc2 = replace(Text6_1_loc2,'Ã©','é');
@@ -533,6 +553,7 @@ UPDATE `locales_npc_text` SET Text6_1_loc2 = replace(Text6_1_loc2,'â€˜',"'");
 UPDATE `locales_npc_text` SET Text6_1_loc2 = replace(Text6_1_loc2,'cÅ“','œ');
 UPDATE `locales_npc_text` SET Text6_1_loc2 = replace(Text6_1_loc2,'à¹','ù');
 UPDATE `locales_npc_text` SET Text6_1_loc2 = replace(Text6_1_loc2,'Â',',');
+UPDATE `locales_npc_text` SET Text6_1_loc2 = replace(Text6_1_loc2,'Å“','œ');
 
 UPDATE `locales_npc_text` SET Text7_0_loc2 = replace(Text7_0_loc2,'Ã¢','â');
 UPDATE `locales_npc_text` SET Text7_0_loc2 = replace(Text7_0_loc2,'Ã©','é');
@@ -556,6 +577,7 @@ UPDATE `locales_npc_text` SET Text7_0_loc2 = replace(Text7_0_loc2,'â€˜',"'");
 UPDATE `locales_npc_text` SET Text7_0_loc2 = replace(Text7_0_loc2,'cÅ“','œ');
 UPDATE `locales_npc_text` SET Text7_0_loc2 = replace(Text7_0_loc2,'à¹','ù');
 UPDATE `locales_npc_text` SET Text7_0_loc2 = replace(Text7_0_loc2,'Â',',');
+UPDATE `locales_npc_text` SET Text7_0_loc2 = replace(Text7_0_loc2,'Å“','œ');
 
 UPDATE `locales_npc_text` SET Text7_1_loc2 = replace(Text7_1_loc2,'Ã¢','â');
 UPDATE `locales_npc_text` SET Text7_1_loc2 = replace(Text7_1_loc2,'Ã©','é');
@@ -579,6 +601,7 @@ UPDATE `locales_npc_text` SET Text7_1_loc2 = replace(Text7_1_loc2,'â€˜',"'");
 UPDATE `locales_npc_text` SET Text7_1_loc2 = replace(Text7_1_loc2,'cÅ“','œ');
 UPDATE `locales_npc_text` SET Text7_1_loc2 = replace(Text7_1_loc2,'à¹','ù');
 UPDATE `locales_npc_text` SET Text7_1_loc2 = replace(Text7_1_loc2,'Â',',');
+UPDATE `locales_npc_text` SET Text7_1_loc2 = replace(Text7_1_loc2,'Å“','œ');
 
 UPDATE `locales_page_text` SET Text_loc2 = replace(Text_loc2,'Ã¢','â');
 UPDATE `locales_page_text` SET Text_loc2 = replace(Text_loc2,'Ã©','é');
@@ -602,6 +625,7 @@ UPDATE `locales_page_text` SET Text_loc2 = replace(Text_loc2,'â€˜',"'");
 UPDATE `locales_page_text` SET Text_loc2 = replace(Text_loc2,'cÅ“','œ');
 UPDATE `locales_page_text` SET Text_loc2 = replace(Text_loc2,'à¹','ù');
 UPDATE `locales_page_text` SET Text_loc2 = replace(Text_loc2,'Â',',');
+UPDATE `locales_page_text` SET Text_loc2 = replace(Text_loc2,'Å“','œ');
 
 UPDATE `locales_points_of_interest` SET icon_name_loc2 = replace(icon_name_loc2,'Ã¢','â');
 UPDATE `locales_points_of_interest` SET icon_name_loc2 = replace(icon_name_loc2,'Ã©','é');
@@ -625,6 +649,7 @@ UPDATE `locales_points_of_interest` SET icon_name_loc2 = replace(icon_name_loc2,
 UPDATE `locales_points_of_interest` SET icon_name_loc2 = replace(icon_name_loc2,'cÅ“','œ');
 UPDATE `locales_points_of_interest` SET icon_name_loc2 = replace(icon_name_loc2,'à¹','ù');
 UPDATE `locales_points_of_interest` SET icon_name_loc2 = replace(icon_name_loc2,'Â',',');
+UPDATE `locales_points_of_interest` SET icon_name_loc2 = replace(icon_name_loc2,'Å“','œ');
 
 UPDATE `locales_quest` SET Title_loc2 = replace(Title_loc2,'Ã¢','â');
 UPDATE `locales_quest` SET Title_loc2 = replace(Title_loc2,'Ã©','é');
@@ -648,6 +673,8 @@ UPDATE `locales_quest` SET Title_loc2 = replace(Title_loc2,'â€˜',"'");
 UPDATE `locales_quest` SET Title_loc2 = replace(Title_loc2,'cÅ“','œ');
 UPDATE `locales_quest` SET Title_loc2 = replace(Title_loc2,'à¹','ù');
 UPDATE `locales_quest` SET Title_loc2 = replace(Title_loc2,'Â',',');
+UPDATE `locales_quest` SET Title_loc2 = replace(Title_loc2,'Å“','œ');
+UPDATE `locales_quest` SET Title_loc2 = replace(Title_loc2,'à‰','é');
 
 UPDATE `locales_quest` SET Details_loc2 = replace(Details_loc2,'Ã¢','â');
 UPDATE `locales_quest` SET Details_loc2 = replace(Details_loc2,'Ã©','é');
@@ -671,6 +698,8 @@ UPDATE `locales_quest` SET Details_loc2 = replace(Details_loc2,'â€˜',"'");
 UPDATE `locales_quest` SET Details_loc2 = replace(Details_loc2,'cÅ“','œ');
 UPDATE `locales_quest` SET Details_loc2 = replace(Details_loc2,'à¹','ù');
 UPDATE `locales_quest` SET Details_loc2 = replace(Details_loc2,'Â',',');
+UPDATE `locales_quest` SET Details_loc2 = replace(Details_loc2,'Å“','œ');
+UPDATE `locales_quest` SET Details_loc2 = replace(Details_loc2,'à‰','ê');
 
 UPDATE `locales_quest` SET Objectives_loc2 = replace(Objectives_loc2,'Ã¢','â');
 UPDATE `locales_quest` SET Objectives_loc2 = replace(Objectives_loc2,'Ã©','é');
@@ -694,6 +723,8 @@ UPDATE `locales_quest` SET Objectives_loc2 = replace(Objectives_loc2,'â€˜',"'");
 UPDATE `locales_quest` SET Objectives_loc2 = replace(Objectives_loc2,'cÅ“','œ');
 UPDATE `locales_quest` SET Objectives_loc2 = replace(Objectives_loc2,'à¹','ù');
 UPDATE `locales_quest` SET Objectives_loc2 = replace(Objectives_loc2,'Â',',');
+UPDATE `locales_quest` SET Objectives_loc2 = replace(Objectives_loc2,'Å“','œ');
+UPDATE `locales_quest` SET Objectives_loc2 = replace(Objectives_loc2,'à‰','é');
 
 UPDATE `locales_quest` SET OfferRewardText_loc2 = replace(OfferRewardText_loc2,'Ã¢','â');
 UPDATE `locales_quest` SET OfferRewardText_loc2 = replace(OfferRewardText_loc2,'Ã©','é');
@@ -717,6 +748,8 @@ UPDATE `locales_quest` SET OfferRewardText_loc2 = replace(OfferRewardText_loc2,'
 UPDATE `locales_quest` SET OfferRewardText_loc2 = replace(OfferRewardText_loc2,'cÅ“','œ');
 UPDATE `locales_quest` SET OfferRewardText_loc2 = replace(OfferRewardText_loc2,'à¹','ù');
 UPDATE `locales_quest` SET OfferRewardText_loc2 = replace(OfferRewardText_loc2,'Â',',');
+UPDATE `locales_quest` SET OfferRewardText_loc2 = replace(OfferRewardText_loc2,'Å“','œ');
+UPDATE `locales_quest` SET OfferRewardText_loc2 = replace(OfferRewardText_loc2,'à‰','é');
 
 UPDATE `locales_quest` SET RequestItemsText_loc2 = replace(RequestItemsText_loc2,'Ã¢','â');
 UPDATE `locales_quest` SET RequestItemsText_loc2 = replace(RequestItemsText_loc2,'Ã©','é');
@@ -740,6 +773,8 @@ UPDATE `locales_quest` SET RequestItemsText_loc2 = replace(RequestItemsText_loc2
 UPDATE `locales_quest` SET RequestItemsText_loc2 = replace(RequestItemsText_loc2,'cÅ“','œ');
 UPDATE `locales_quest` SET RequestItemsText_loc2 = replace(RequestItemsText_loc2,'à¹','ù');
 UPDATE `locales_quest` SET RequestItemsText_loc2 = replace(RequestItemsText_loc2,'Â',',');
+UPDATE `locales_quest` SET RequestItemsText_loc2 = replace(RequestItemsText_loc2,'Å“','œ');
+UPDATE `locales_quest` SET RequestItemsText_loc2 = replace(RequestItemsText_loc2,'à‰','é');
 
 UPDATE `locales_quest` SET EndText_loc2 = replace(EndText_loc2,'Ã¢','â');
 UPDATE `locales_quest` SET EndText_loc2 = replace(EndText_loc2,'Ã©','é');
@@ -763,6 +798,7 @@ UPDATE `locales_quest` SET EndText_loc2 = replace(EndText_loc2,'â€˜',"'");
 UPDATE `locales_quest` SET EndText_loc2 = replace(EndText_loc2,'cÅ“','œ');
 UPDATE `locales_quest` SET EndText_loc2 = replace(EndText_loc2,'à¹','ù');
 UPDATE `locales_quest` SET EndText_loc2 = replace(EndText_loc2,'Â',',');
+UPDATE `locales_quest` SET EndText_loc2 = replace(EndText_loc2,'Å“','œ');
 
 UPDATE `locales_quest` SET ObjectiveText1_loc2 = replace(ObjectiveText1_loc2,'Ã¢','â');
 UPDATE `locales_quest` SET ObjectiveText1_loc2 = replace(ObjectiveText1_loc2,'Ã©','é');
@@ -786,6 +822,7 @@ UPDATE `locales_quest` SET ObjectiveText1_loc2 = replace(ObjectiveText1_loc2,'â€
 UPDATE `locales_quest` SET ObjectiveText1_loc2 = replace(ObjectiveText1_loc2,'cÅ“','œ');
 UPDATE `locales_quest` SET ObjectiveText1_loc2 = replace(ObjectiveText1_loc2,'à¹','ù');
 UPDATE `locales_quest` SET ObjectiveText1_loc2 = replace(ObjectiveText1_loc2,'Â',',');
+UPDATE `locales_quest` SET ObjectiveText1_loc2 = replace(ObjectiveText1_loc2,'Å“','œ');
 
 UPDATE `locales_quest` SET ObjectiveText2_loc2 = replace(ObjectiveText2_loc2,'Ã¢','â');
 UPDATE `locales_quest` SET ObjectiveText2_loc2 = replace(ObjectiveText2_loc2,'Ã©','é');
@@ -809,6 +846,7 @@ UPDATE `locales_quest` SET ObjectiveText2_loc2 = replace(ObjectiveText2_loc2,'â€
 UPDATE `locales_quest` SET ObjectiveText2_loc2 = replace(ObjectiveText2_loc2,'cÅ“','œ');
 UPDATE `locales_quest` SET ObjectiveText2_loc2 = replace(ObjectiveText2_loc2,'à¹','ù');
 UPDATE `locales_quest` SET ObjectiveText2_loc2 = replace(ObjectiveText2_loc2,'Â',',');
+UPDATE `locales_quest` SET ObjectiveText2_loc2 = replace(ObjectiveText2_loc2,'Å“','œ');
 
 UPDATE `locales_quest` SET ObjectiveText3_loc2 = replace(ObjectiveText3_loc2,'Ã¢','â');
 UPDATE `locales_quest` SET ObjectiveText3_loc2 = replace(ObjectiveText3_loc2,'Ã©','é');
@@ -832,6 +870,7 @@ UPDATE `locales_quest` SET ObjectiveText3_loc2 = replace(ObjectiveText3_loc2,'â€
 UPDATE `locales_quest` SET ObjectiveText3_loc2 = replace(ObjectiveText3_loc2,'cÅ“','œ');
 UPDATE `locales_quest` SET ObjectiveText3_loc2 = replace(ObjectiveText3_loc2,'à¹','ù');
 UPDATE `locales_quest` SET ObjectiveText3_loc2 = replace(ObjectiveText3_loc2,'Â',',');
+UPDATE `locales_quest` SET ObjectiveText3_loc2 = replace(ObjectiveText3_loc2,'Å“','œ');
 
 UPDATE `locales_quest` SET ObjectiveText4_loc2 = replace(ObjectiveText4_loc2,'Ã¢','â');
 UPDATE `locales_quest` SET ObjectiveText4_loc2 = replace(ObjectiveText4_loc2,'Ã©','é');
@@ -855,7 +894,7 @@ UPDATE `locales_quest` SET ObjectiveText4_loc2 = replace(ObjectiveText4_loc2,'â€
 UPDATE `locales_quest` SET ObjectiveText4_loc2 = replace(ObjectiveText4_loc2,'cÅ“','œ');
 UPDATE `locales_quest` SET ObjectiveText4_loc2 = replace(ObjectiveText4_loc2,'à¹','ù');
 UPDATE `locales_quest` SET ObjectiveText4_loc2 = replace(ObjectiveText4_loc2,'Â',',');
-
+UPDATE `locales_quest` SET ObjectiveText4_loc2 = replace(ObjectiveText4_loc2,'Å“','œ');
 
 
 /*
@@ -881,6 +920,7 @@ UPDATE `skyfire_string` SET content_loc2 = replace(content_loc2,'â€˜',"'");
 UPDATE `skyfire_string` SET content_loc2 = replace(content_loc2,'cÅ“','œ');
 UPDATE `skyfire_string` SET content_loc2 = replace(content_loc2,'à¹','ù');
 UPDATE `skyfire_string` SET content_loc2 = replace(content_loc2,'Â',',');
+UPDATE `skyfire_string` SET content_loc2 = replace(content_loc2,'Å“','œ');
 */
 
 UPDATE `arkcore_string` SET content_loc2 = replace(content_loc2,'Ã¢','â');
@@ -905,7 +945,7 @@ UPDATE `arkcore_string` SET content_loc2 = replace(content_loc2,'â€˜',"'");
 UPDATE `arkcore_string` SET content_loc2 = replace(content_loc2,'cÅ“','œ');
 UPDATE `arkcore_string` SET content_loc2 = replace(content_loc2,'à¹','ù');
 UPDATE `arkcore_string` SET content_loc2 = replace(content_loc2,'Â',',');
-
+UPDATE `arkcore_string` SET content_loc2 = replace(content_loc2,'Å“','œ');
 
 UPDATE `game_event` SET description = replace(description,'Ã¢','â');
 UPDATE `game_event` SET description = replace(description,'Ã©','é');
@@ -929,7 +969,7 @@ UPDATE `game_event` SET description = replace(description,'â€˜',"'");
 UPDATE `game_event` SET description = replace(description,'cÅ“','œ');
 UPDATE `game_event` SET description = replace(description,'à¹','ù');
 UPDATE `game_event` SET description = replace(description,'Â',',');
-
+UPDATE `game_event` SET description = replace(description,'Å“','œ');
 
 
 UPDATE `creature_ai_texts` SET content_loc2 = replace(content_loc2,'Ã¢','â');
@@ -954,7 +994,7 @@ UPDATE `creature_ai_texts` SET content_loc2 = replace(content_loc2,'â€˜',"'");
 UPDATE `creature_ai_texts` SET content_loc2 = replace(content_loc2,'cÅ“','œ');
 UPDATE `creature_ai_texts` SET content_loc2 = replace(content_loc2,'à¹','ù');
 UPDATE `creature_ai_texts` SET content_loc2 = replace(content_loc2,'Â',',');
-
+UPDATE `creature_ai_texts` SET content_loc2 = replace(content_loc2,'Å“','œ');
 
 
 
