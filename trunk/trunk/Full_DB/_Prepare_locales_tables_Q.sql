@@ -2,15 +2,6 @@
 -- // IMPORTANT : A re-appliquer apres chaque mise a jour de skyfiredb.
 
 
-
-
-
-
-
-
-
-
-
-
-
+ALTER TABLE `locales_quest` CONVERT TO CHARACTER SET utf8 COLLATE utf8_general_ci;
+INSERT IGNORE INTO `locales_quest`(`entry`) SELECT `entry` FROM `quest_template`;
 
