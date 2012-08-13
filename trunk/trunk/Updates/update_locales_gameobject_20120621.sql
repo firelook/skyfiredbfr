@@ -1,3 +1,6 @@
+SET NAMES utf8;
+set names latin1;
+
 /*#############################################
 #Parsing Gameobject de Wowhead 
 #############################################*/

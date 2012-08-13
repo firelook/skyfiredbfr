@@ -1,5 +1,6 @@
 
-SET NAMES utf8;                        
+SET NAMES utf8;
+set names latin1;
 
 
                                        

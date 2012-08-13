@@ -1,14 +1,5 @@
-
-SET NAMES utf8;                        
-
-
-
-
-
-
-
-
-
+SET NAMES utf8;
+set names latin1;
 UPDATE `locales_creature_text` SET `text_loc2` ='Vous ne prenez bougie '  where (`text_loc2` ='' or ISNULL(`text_loc2`))  and  `entry` = 40 and `groupid` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='Yiieeeee! Moi courir! '  where (`text_loc2` ='' or ISNULL(`text_loc2`))  and  `entry` = 40 and `groupid` = 0 and `id` = 1;
 UPDATE `locales_creature_text` SET `text_loc2` ='Vous ne prenez bougie '  where (`text_loc2` ='' or ISNULL(`text_loc2`))  and  `entry` = 80 and `groupid` = 0 and `id` = 0;

@@ -1,5 +1,5 @@
-﻿
-SET NAMES utf8;                        
+﻿SET NAMES utf8;
+set names latin1;
 /*INSERT IGNORE INTO `locales_page_text`(`entry`) SELECT `entry` FROM `page_text`;
 */
 
