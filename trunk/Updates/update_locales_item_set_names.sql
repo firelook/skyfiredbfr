@@ -1,8 +1,5 @@
-
-SET NAMES utf8;                        
-
-
-                                   
+SET NAMES utf8;
+set names latin1;
 UPDATE `locales_item_set_names` SET `name_loc2` = 'Etreinte de la vipère' where (`name_loc2` ='' or ISNULL(`name_loc2`))  and   `entry` =6473 ;
 UPDATE `locales_item_set_names` SET `name_loc2` = 'Smoking du printemps' where (`name_loc2` ='' or ISNULL(`name_loc2`))  and   `entry` =6833 ;
 UPDATE `locales_item_set_names` SET `name_loc2` = 'Smoking du printemps' where (`name_loc2` ='' or ISNULL(`name_loc2`))  and   `entry` =6835 ;

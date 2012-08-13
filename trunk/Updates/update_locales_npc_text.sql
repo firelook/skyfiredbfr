@@ -1,8 +1,5 @@
-﻿
-SET NAMES utf8;                        
-
-
-
+﻿SET NAMES utf8;
+set names latin1;
 UPDATE locales_npc_text SET  Text0_0_loc2 = 'Salutations, $N !', Text0_1_loc2 = 'Salutations, $N !' where entry = 1;
 UPDATE locales_npc_text SET   Text0_1_loc2 = 'Hé là, $N. Comment puis-je vous aider?' where entry = 2;
 UPDATE locales_npc_text SET Text0_0_loc2 = 'Salutations, $N !', Text0_1_loc2 = 'Salutations, $N !' where entry = 68;
