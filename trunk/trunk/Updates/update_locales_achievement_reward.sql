@@ -3,10 +3,11 @@ SET NAMES utf8;
 set names latin1;
 
 
+
 UPDATE `locales_achievement_reward` SET `subject_loc2` = 'Vous avez bien bourlingué !', `text_loc2` = 'Eh ben, vous !\n\nEt moi qui croyais avoir tout vu sur ces terres gelées ! Le feu de l\'exploration brûle en vous. Cela saute à mes yeux de nain.\n\nPortez ce tabard avec fierté. De cette façon, vos amis sauront toujours à qui demander leur chemin en temps voulu !\n\nRestez bien en selle !\n\nBrann Barbe-de-bronze' WHERE `entry` = 45;
 UPDATE locales_achievement_reward SET    subject_loc2 = 'Une offrande à l\'immortalité' where entry = 4079;
 UPDATE locales_achievement_reward SET    subject_loc2 = 'Une offrande à l\'immortalité' where entry = 4156;
-UPDATE locales_achievement_reward SET    subject_loc2 = 'Pour la Horde !',   text_loc2 = 'En ces temps troublés, nos souffrances engendrent de vrais héros. Vous êtes l\'un d\'eux. Nous sommes en guerre. Vos efforts soutiennent notre cause en Azeroth. Vos hautes actions seront récompensées. Prenez ce prix d\'Orgrimmar et chevauchez vers la gloire. Pour la Horde ! Chef de guerre Thrall',      WHERE entry = 619;
+UPDATE locales_achievement_reward SET    subject_loc2 = 'Pour la Horde !',   text_loc2 = 'En ces temps troublés, nos souffrances engendrent de vrais héros. Vous êtes l\'un d\'eux. Nous sommes en guerre. Vos efforts soutiennent notre cause en Azeroth. Vos hautes actions seront récompensées. Prenez ce prix d\'Orgrimmar et chevauchez vers la gloire. Pour la Horde ! Chef de guerre Thrall'  WHERE entry = 619;
 UPDATE `locales_achievement_reward` SET `subject_loc2` = 'Pour l\'Alliance !', `text_loc2` = 'La guerre fait rage sur nos terres. Seuls les héros les plus courageux osent frapper la Horde en ses points les plus sensibles. Vous êtes l\'un d\'eux.\n\nLes coups que vous avez portés au commandement de la Horde vont nous permettre de lancer notre assaut final. La Horde fléchira sous la puissance de l\'Alliance.\n\nVos actes seront récompensés. Chevauchez avec fierté !\n\n— Votre roi' WHERE `entry` = 614;
 UPDATE locales_achievement_reward SET   subject_loc2 = 'Maître de l\'île des Conquérants' where entry = 3857;
 UPDATE locales_achievement_reward SET    subject_loc2 = 'Maître de l\'île des Conquérants' where entry = 3957;
