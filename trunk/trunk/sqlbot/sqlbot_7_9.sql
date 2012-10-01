@@ -4,7 +4,7 @@ SET  @ENTRY =(SELECT max(`guid`) FROM `item_instance` );
 
 DROP TABLE IF EXISTS `t`;
 CREATE TABLE `t` (i INT);
-insert into `t` values(23442) , (79707) ,(4656);
+insert into `t` values(4656) , (4656) ,(4656);
 set  @faction_ah = (SELECT i FROM t ORDER BY RAND() LIMIT 1);
 
 
