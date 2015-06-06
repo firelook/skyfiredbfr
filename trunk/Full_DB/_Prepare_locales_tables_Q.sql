@@ -3,5 +3,5 @@
 
 
 ALTER TABLE `locales_quest` CONVERT TO CHARACTER SET utf8 COLLATE utf8_general_ci;
-INSERT IGNORE INTO `locales_quest`(`entry`) SELECT `entry` FROM `quest_template`;
+INSERT IGNORE INTO `locales_quest`(`ID`) SELECT `ID` FROM `quest_template`;
 

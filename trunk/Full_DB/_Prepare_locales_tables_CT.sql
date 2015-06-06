@@ -3,7 +3,7 @@
 
 
 ALTER TABLE `locales_creature_text` CONVERT TO CHARACTER SET utf8 COLLATE utf8_general_ci;
-INSERT IGNORE INTO `locales_creature_text`(`entry`,`textgroup`,`id`) SELECT `entry`, `groupid`, `id` FROM `creature_text`;
+INSERT IGNORE INTO `locales_creature_text`(`entry`,`groupid`,`id`) SELECT `entry`, `groupid`, `id` FROM `creature_text`;
 
 
 
