@@ -939,5 +939,9 @@ UPDATE arkcore_string SET content_loc2 = '$n a attaqué %s !' where (`content_lo
 UPDATE arkcore_string SET content_loc2 = '$n a attaque %s! Si rien n\'est fait, %s le contrôlera dans 1 minute!' where (`content_loc2` ='' or ISNULL(`content_loc2`))  and  entry = 1262;
 UPDATE arkcore_string SET content_loc2 = 'L\'Alliance a recueilli $1776W resources, et est proche de la victoire!' where (`content_loc2` ='' or ISNULL(`content_loc2`))  and  entry = 1263;
 UPDATE arkcore_string SET content_loc2 = 'La Horde a recueilli $1777W resources, et est proche de la victoire!' where (`content_loc2` ='' or ISNULL(`content_loc2`))  and  entry = 1264;
+UPDATE arkcore_string SET content_loc2 = 'Vous n\'avez pas le niveau requis. Cette destination nécessite niveau, ' where (`content_loc2` ='' or ISNULL(`content_loc2`))  and  entry = 8000;
+UPDATE arkcore_string SET content_loc2 = 'Vous n\'avez pas assez d'argent. Le prix pour la téléportation est , ' where (`content_loc2` ='' or ISNULL(`content_loc2`))  and  entry = 8001;
+UPDATE arkcore_string SET content_loc2 = 'Vous êtes en combat. Revenez plus tard, ' where (`content_loc2` ='' or ISNULL(`content_loc2`))  and  entry = 8002;
+
 
 
