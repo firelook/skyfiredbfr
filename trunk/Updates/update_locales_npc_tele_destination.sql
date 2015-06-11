@@ -34,6 +34,35 @@ UPDATE custom_npc_tele_destination SET name_loc2 = 'Orgrimmar' where (`name_loc2
 UPDATE custom_npc_tele_destination SET name_loc2 = 'Tranchecolline' where (`name_loc2` ='' or ISNULL(`name_loc2`))  and  entry = 30;
 UPDATE custom_npc_tele_destination SET name_loc2 = 'Souilles de Tranchebauge' where (`name_loc2` ='' or ISNULL(`name_loc2`))  and  entry = 31;
 UPDATE custom_npc_tele_destination SET name_loc2 = 'kraal de Tranchebauge' where (`name_loc2` ='' or ISNULL(`name_loc2`))  and  entry = 32;
+UPDATE custom_npc_tele_destination SET name_loc2 = 'L\’arène des épreuves' where (`name_loc2` ='' or ISNULL(`name_loc2`))  and  entry = 33;
+UPDATE custom_npc_tele_destination SET name_loc2 = 'Ruines d’Ahn\’Qiraj' where (`name_loc2` ='' or ISNULL(`name_loc2`))  and  entry = 34;
+UPDATE custom_npc_tele_destination SET name_loc2 = 'Scholomance' where (`name_loc2` ='' or ISNULL(`name_loc2`))  and  entry = 35;
+UPDATE custom_npc_tele_destination SET name_loc2 = 'Donjon d\’Ombrecroc' where (`name_loc2` ='' or ISNULL(`name_loc2`))  and  entry = 36;
+UPDATE custom_npc_tele_destination SET name_loc2 = 'Shattrath' where (`name_loc2` ='' or ISNULL(`name_loc2`))  and  entry = 37;
+UPDATE custom_npc_tele_destination SET name_loc2 = 'Lune d\'Argent' where (`name_loc2` ='' or ISNULL(`name_loc2`))  and  entry = 38;
+UPDATE custom_npc_tele_destination SET name_loc2 = 'Hurlevent' where (`name_loc2` ='' or ISNULL(`name_loc2`))  and  entry = 39;
+UPDATE custom_npc_tele_destination SET name_loc2 = 'Hurlevent' where (`name_loc2` ='' or ISNULL(`name_loc2`))  and  entry = 40;
+UPDATE custom_npc_tele_destination SET name_loc2 = 'Donjon de la tempête' where (`name_loc2` ='' or ISNULL(`name_loc2`))  and  entry = 41;
+UPDATE custom_npc_tele_destination SET name_loc2 = 'Temple de Ahn\'Qiraj' where (`name_loc2` ='' or ISNULL(`name_loc2`))  and  entry = 42;
+UPDATE custom_npc_tele_destination SET name_loc2 = 'MorteMine' where (`name_loc2` ='' or ISNULL(`name_loc2`))  and  entry = 43;
+UPDATE custom_npc_tele_destination SET name_loc2 = 'Le Maul' where (`name_loc2` ='' or ISNULL(`name_loc2`))  and  entry = 44;
+UPDATE custom_npc_tele_destination SET name_loc2 = 'Le Monastère Scarlet' where (`name_loc2` ='' or ISNULL(`name_loc2`))  and  entry = 45;
+UPDATE custom_npc_tele_destination SET name_loc2 = 'Le Temple Englouti' where (`name_loc2` ='' or ISNULL(`name_loc2`))  and  entry = 46;
+UPDATE custom_npc_tele_destination SET name_loc2 = 'La Cavernes des Lamentations' where (`name_loc2` ='' or ISNULL(`name_loc2`))  and  entry = 47;
+UPDATE custom_npc_tele_destination SET name_loc2 = 'Les Pitons-du-Tonnerre' where (`name_loc2` ='' or ISNULL(`name_loc2`))  and  entry = 48;
+UPDATE custom_npc_tele_destination SET name_loc2 = 'Uldaman' where (`name_loc2` ='' or ISNULL(`name_loc2`))  and  entry = 49;
+UPDATE custom_npc_tele_destination SET name_loc2 = 'Fossoyeuse' where (`name_loc2` ='' or ISNULL(`name_loc2`))  and  entry = 50;
+UPDATE custom_npc_tele_destination SET name_loc2 = 'Le goulet des Chanteguerres' where (`name_loc2` ='' or ISNULL(`name_loc2`))  and  entry = 51;
+UPDATE custom_npc_tele_destination SET name_loc2 = 'Le goulet des Chanteguerres' where (`name_loc2` ='' or ISNULL(`name_loc2`))  and  entry = 52;
+UPDATE custom_npc_tele_destination SET name_loc2 = 'Zul\'Aman' where (`name_loc2` ='' or ISNULL(`name_loc2`))  and  entry = 53;
+UPDATE custom_npc_tele_destination SET name_loc2 = 'Zul\'Farrak' where (`name_loc2` ='' or ISNULL(`name_loc2`))  and  entry = 54;
+UPDATE custom_npc_tele_destination SET name_loc2 = 'Zul\'Gurub' where (`name_loc2` ='' or ISNULL(`name_loc2`))  and  entry = 55;
+UPDATE custom_npc_tele_destination SET name_loc2 = 'Ile des MJ' where (`name_loc2` ='' or ISNULL(`name_loc2`))  and  entry = 56;
+
+
+
+
+
 
 
 
