@@ -1386,6 +1386,26 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Bombe de Painture' 
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Comment  les cavaliers de la Croisade d\'argent  se battent-ils?' where (`option_text_loc2` ='' or ISNULL(`option_text_loc2`))  and  `menu_id` = 	21167	 and id=	1	;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Comment  les cavaliers de la Croisade d\'argent  se battent-ils?' where (`option_text_loc2` ='' or ISNULL(`option_text_loc2`))  and  `menu_id` = 	21188	 and id=	1	;
 
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Enrôler un serviteur' where (`option_text_loc2` ='' or ISNULL(`option_text_loc2`))  and  `menu_id` = 	56100	 and id=	0	;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Abandonner un serviteur' where (`option_text_loc2` ='' or ISNULL(`option_text_loc2`))  and  `menu_id` = 	56100	 and id=	1	;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Aide' where (`option_text_loc2` ='' or ISNULL(`option_text_loc2`))  and  `menu_id` = 	56100	 and id=	2	;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Enlever tout' where (`option_text_loc2` ='' or ISNULL(`option_text_loc2`))  and  `menu_id` = 	56100	 and id=	3	;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Retour Menu' where (`option_text_loc2` ='' or ISNULL(`option_text_loc2`))  and  `menu_id` = 	56100	 and id=	4	;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Plus de bots disponibles' where (`option_text_loc2` ='' or ISNULL(`option_text_loc2`))  and  `menu_id` = 	56100	 and id=	5	;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Bot disponible' where (`option_text_loc2` ='' or ISNULL(`option_text_loc2`))  and  `menu_id` = 	56100	 and id=	6	;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Bots disponibles' where (`option_text_loc2` ='' or ISNULL(`option_text_loc2`))  and  `menu_id` = 	56100	 and id=	7	;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Bot encore disponible' where (`option_text_loc2` ='' or ISNULL(`option_text_loc2`))  and  `menu_id` = 	56100	 and id=	8	;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Bots encore disponibles' where (`option_text_loc2` ='' or ISNULL(`option_text_loc2`))  and  `menu_id` = 	56100	 and id=	9	;
+
+
+
+
+
+
+
+
+
+
 
 
 
