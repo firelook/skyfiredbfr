@@ -1,5 +1,5 @@
-SET NAMES utf8;
-set names latin1;
+
+
 UPDATE `locales_creature_text` SET `text_loc2` ='Vous ne prenez bougie '  where    `entry` = 40 and `groupid` = 0 and `id` = 0;
 UPDATE `locales_creature_text` SET `text_loc2` ='Yiieeeee! Moi courir! '  where    `entry` = 40 and `groupid` = 0 and `id` = 1;
 UPDATE `locales_creature_text` SET `text_loc2` ='Vous ne prenez bougie '  where    `entry` = 80 and `groupid` = 0 and `id` = 0;

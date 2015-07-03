@@ -1,6 +1,6 @@
 ﻿
-SET NAMES utf8;
-set names latin1;
+
+
             
 UPDATE custom_npc_tele_category SET name_loc2 = 'Citées' where    id = 1;
 UPDATE custom_npc_tele_category SET name_loc2 = 'Citées' where    id = 2;

@@ -1,5 +1,5 @@
-SET NAMES utf8;  
-set names latin1;                   
+  
+                   
 
    
 UPDATE `locales_creature` SET `name_loc2` = 'Dévoreur' WHERE  `entry` = 3;

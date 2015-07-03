@@ -1,6 +1,6 @@
 ﻿
-SET NAMES utf8;
-set names latin1;
+
+
             
 UPDATE arkcore_string SET content_loc2 = 'Vous devez sélectionner un personnage ou une créature.' where    entry = 1;
 UPDATE arkcore_string SET content_loc2 = 'Vous devez sélectionner une créature.' where    entry = 2;

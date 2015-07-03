@@ -1,8 +1,8 @@
 -- For those who have a problems with the accents.
 -- @ made by sulbutx + Firelook
 
-SET NAMES utf8;
-set names latin1;
+
+
             
 			
 UPDATE `custom_npc_tele_category` SET name_loc2 = replace(name_loc2,'Ã¢','â');

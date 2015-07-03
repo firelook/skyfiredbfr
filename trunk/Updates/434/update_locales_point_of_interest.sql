@@ -1,5 +1,5 @@
-﻿SET NAMES utf8;                        
-set names latin1;
+﻿                        
+
 UPDATE locales_points_of_interest SET entry = 1, icon_name_loc2 = 'L\'auberge de la Fierté du Lion' where   entry = 1;
 UPDATE locales_points_of_interest SET entry = 2, icon_name_loc2 = 'Zaldimar Wefhellt' where   entry = 2;
 UPDATE locales_points_of_interest SET entry = 3, icon_name_loc2 = 'Frère Wilhelm' where   entry = 3;
