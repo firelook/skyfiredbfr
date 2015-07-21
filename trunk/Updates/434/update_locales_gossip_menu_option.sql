@@ -1396,9 +1396,16 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Bot disponible' whe
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Bots disponibles' where    `menu_id` = 	56100	 and id=	7	;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Bot encore disponible' where    `menu_id` = 	56100	 and id=	8	;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` ='Bots encore disponibles' where    `menu_id` = 	56100	 and id=	9	;
-
-
-
+update locales_gossip_menu_option set option_text_loc2="Recruter un Guerrier." where menu_id=56100 and id=10;
+update locales_gossip_menu_option set option_text_loc2="Recruter un Chasseur." where menu_id=56100 and id=11;
+update locales_gossip_menu_option set option_text_loc2="Recruter un Paladin." where menu_id=56100 and id=12;
+update locales_gossip_menu_option set option_text_loc2="Recruter un Shaman." where menu_id=56100 and id=13;
+update locales_gossip_menu_option set option_text_loc2="Recruter un Voleur." where menu_id=56100 and id=14;
+update locales_gossip_menu_option set option_text_loc2="Recruter un Druide." where menu_id=56100 and id=15;
+update locales_gossip_menu_option set option_text_loc2="Recruter un Magicien." where menu_id=56100 and id=16;
+update locales_gossip_menu_option set option_text_loc2="Recruter un Prêtre." where menu_id=56100 and id=17;
+update locales_gossip_menu_option set option_text_loc2="Recruter un Démoniste." where menu_id=56100 and id=18;
+update locales_gossip_menu_option set option_text_loc2="Recruter un Chevalier de la Nuit." where menu_id=56100 and id=19;
 
 
 
