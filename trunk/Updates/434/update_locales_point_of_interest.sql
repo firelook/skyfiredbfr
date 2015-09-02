@@ -1,4 +1,4 @@
-﻿                        
+﻿/* charset utf8 collate utf8_general_ci; */                     
 
 UPDATE locales_points_of_interest SET entry = 1, icon_name_loc2 = 'L\'auberge de la Fierté du Lion' where   entry = 1;
 UPDATE locales_points_of_interest SET entry = 2, icon_name_loc2 = 'Zaldimar Wefhellt' where   entry = 2;
@@ -935,3 +935,93 @@ UPDATE locales_points_of_interest SET entry = 1709, icon_name_loc2 = 'Banque des
 UPDATE locales_points_of_interest SET entry = 1710, icon_name_loc2 = 'Auberge des égouts de Dalaran' where   entry = 1710;
 UPDATE locales_points_of_interest SET entry = 1711, icon_name_loc2 = 'Tunnel des égouts de Dalaran' where   entry = 1711;
 UPDATE locales_points_of_interest SET entry = 1712, icon_name_loc2 = 'Vendeurs des égouts de Dalaran' where   entry = 1712;
+
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Banquier de Theramore" where `entry` = 469;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Chasseur de Theramore" where `entry` = 470;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Mage de Theramore" where `entry` = 471;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Paladin de Theramore" where `entry` = 472;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Prêtre de Theramore" where `entry` = 473;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Voleur de Theramore" where `entry` = 474;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Chaman de Theramore" where `entry` = 475;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Démoniste de Theramore" where `entry` = 476;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Guerrier de Theramore" where `entry` = 477;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Alchimiste de Theramore" where `entry` = 478;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Archélogue de Theramore" where `entry` = 479;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Forgeron de Theramore" where `entry` = 480;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Cuisinier de Theramore" where `entry` = 481;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Enchanteur de Theramore" where `entry` = 482;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Ingénieur de Theramore" where `entry` = 483;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Premier Secours de de Theramore" where `entry` = 484;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Pêcheur de Theramore" where `entry` = 485;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Herbaliste de Theramore" where `entry` = 486;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Calligraphe de Theramore" where `entry` = 487;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Joailler de Theramore" where `entry` = 488;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Travailleur du cuir de Theramore" where `entry` = 489;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Mineur de Theramore" where `entry` = 490;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Cavalier  de Theramore" where `entry` = 491;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Taneur de Theramore" where `entry` = 492;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Tailleur de Theramore" where `entry` = 493;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Village de Rut'theran" where `entry` = 1125;
+
+
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Maison des enchères de Darnassus" where `entry` = 1123;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Banque de Darnassus" where `entry` = 1124;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Maître de Guilde de Darnassus" where `entry` = 1127;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Auberge de Darnassus" where `entry` = 1128;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Boite aux lettres de Darnassus" where `entry` = 1129;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Maître de Guerre de Darnassus" where `entry` = 1132;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Maître des Druides de Darnassus" where `entry` = 1133;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Maître des Chasseurs de Darnassus" where `entry` = 1134;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Maître des Voleurs de Darnassus" where `entry` = 1136;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Maître des Alchimistes de Darnassus" where `entry` = 1138;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Maître des Cuisiniers de Darnassus" where `entry` = 1139;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Maître des enchanteurs de Darnassus" where `entry` = 1140;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Maître des premiers soins de Darnassus" where `entry` = 1141;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Maître des pêcheurs de Darnassus" where `entry` = 1142;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Maître des herboristes de Darnassus" where `entry` = 1143;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Maître des calligraphes de Darnassus" where `entry` = 1144;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Maître des travailleurs du cuir de Darnassus" where `entry` = 1145;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Maître des dépeceurs de Darnassus" where `entry` = 1146;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Maître des Tailleurs de Darnassus" where `entry` = 1147;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Maître des calligraphes de Darnassus" where `entry` = 1162;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Forgeron de Danassus" where `entry` = 462;
+
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Lune-d’Argent : Maître des coursiers du vent"  where `entry` = 1400;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Lune-d’Argent : Maître des calligraphes"  where `entry` = 1416;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Lune-d’Argent : Maison des enchères de l'Ouest"  where `entry` = 1422;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Lune-d’Argent : Maison Royal des enchères"  where `entry` = 1423;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Lune-d’Argent : Banque"  where `entry` = 1424;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Lune-d’Argent : Banque"  where `entry` = 1425;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Lune-d’Argent : Maître des coursiers du vent"  where `entry` = 1426;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Lune-d’Argent : Maison de la Guilde"  where `entry` = 1427;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Lune-d’Argent : Auberge"  where `entry` = 1429;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Lune-d’Argent : Auberge"  where `entry` = 1430;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Lune-d’Argent : taverne de Wayfarer"  where `entry` = 1431;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Lune-d’Argent : Boite aux lettres"  where `entry` = 1432;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Lune-d’Argent : Maître des écuries"  where `entry` = 1434;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Lune-d’Argent : Maître des Armes"  where `entry` = 1435;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Lune-d’Argent : Maître de Guerre"  where `entry` = 1436;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Lune-d’Argent : Maître des Duides"  where `entry` = 1437;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Lune-d’Argent : Maître des Chasseurs"  where `entry` = 1438;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Lune-d’Argent : Maître des mages"  where `entry` = 1439;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Lune-d’Argent : Maître des Paladins"  where `entry` = 1440;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Lune-d’Argent : Maître des Prêtres"  where `entry` = 1441;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Lune-d’Argent : Maître des Voleurs"  where `entry` = 1442;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Lune-d’Argent : Maître des démonistes"  where `entry` = 1443;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Lune-d’Argent : Machine outil pour filer la Mana"  where `entry` = 1444;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Lune-d’Argent : Maître des Alchimistes"  where `entry` = 1445;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Lune-d’Argent : Maître des forgerons"  where `entry` = 1446;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Lune-d’Argent : Maître des Cuisiniers"  where `entry` = 1447;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Lune-d’Argent : Maître des enchanteurs"  where `entry` = 1448;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Lune-d’Argent : Maître des Ingénieurs"  where `entry` = 1449;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Lune-d’Argent : Maître des secouristes"  where `entry` = 1450;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Lune-d’Argent : Maître des pêcheurs"  where `entry` = 1451;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Lune-d’Argent : Maître des herboristes"  where `entry` = 1453;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Lune-d’Argent : Maître des calligraphes"  where `entry` = 1454;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Lune-d’Argent : Maître des travailleurs du cuir"  where `entry` = 1456;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Lune-d’Argent : Maître des Joaillers"  where `entry` = 1457;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Lune-d’Argent : Maître des Mineurs"  where `entry` = 1458;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Lune-d’Argent : Maître des travailleurs du cuir"  where `entry` = 1459;
+UPDATE `locales_points_of_interest` SET `icon_name_loc2` ="Lune-d’Argent : Maître des Tailleurs"  where `entry` = 1460;
+
+

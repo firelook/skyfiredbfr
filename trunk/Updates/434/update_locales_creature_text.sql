@@ -1,32 +1,4 @@
-/*
-SELECT
-creature_text.entry,
-creature_text.groupid,
-creature_text.id,
-creature_text.text,
-creature_text.type,
-creature_text.`language`,
-creature_text.probability,
-creature_text.emote,
-creature_text.duration,
-creature_text.sound,
-creature_text.`comment`,
-creature_text.BroadcastTextID
-FROM
-locales_creature_text ,
-creature_text
-WHERE
-creature_text.entry = locales_creature_text.entry AND
-locales_creature_text.text_loc2 IS NULL AND
-creature_text.groupid = locales_creature_text.groupid AND
-locales_creature_text.id = creature_text.id
-ORDER BY
-locales_creature_text.entry ASC
-
-
-
-*/
-
+/* charset utf8 collate utf8_general_ci; */
 UPDATE `locales_creature_text` SET `text_loc2` ='Yiieeeee! Moi courir! '  where    `entry` = 6 and `groupid` = 0 and `id` = 1;
 UPDATE `locales_creature_text` SET `text_loc2` ='Vous ne prenez bougie '  where    `entry` = 6 and `groupid` = 0 and `id` = 0;
 

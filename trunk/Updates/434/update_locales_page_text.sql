@@ -1,4 +1,4 @@
-﻿
+﻿/* charset utf8 collate utf8_general_ci; */
 
 INSERT IGNORE INTO `locales_page_text`(`entry`) SELECT `entry` FROM `page_text`;
 

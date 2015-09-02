@@ -1,4 +1,4 @@
-﻿
+﻿/* charset utf8 collate utf8_general_ci; */
 
 UPDATE locales_npc_text SET  Text0_0_loc2 = 'Salutations, $N !', Text0_1_loc2 = 'Salutations, $N !' where ID = 1;
 UPDATE locales_npc_text SET   Text0_1_loc2 = 'Hé là, $N. Comment puis-je vous aider?' where ID = 2;
